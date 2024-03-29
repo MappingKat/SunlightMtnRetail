@@ -1,5 +1,7 @@
 # Sunlight Ski and Bike Product Data Analysis: Optimizing Inventory and Sales
 
+![cover_photo](./references/logo.png)
+
 ## Project Overview
 
 Sunlight Ski and Bike, a beloved local store in Glenwood Springs, faces challenges in inventory management and sales analysis due to inconsistent product category data. This project aims to leverage data-driven insights to improve product categorization, identify top-selling items, understand sales patterns, and inform future business decisions.
@@ -62,9 +64,5 @@ Inaccurate and incomplete product categories hinder reporting, leading to:
 * Phase 2: Predictive Modeling and Customer Segmentation (Upcoming)
 * Phase 3: Implementation and Evaluation (Upcoming)
 
-## Team
-
-* Bard (Large Language Model) - Data analysis and insights generation.
-* [Your Name/Other Team Members] - Project management and domain expertise.
 
 This project demonstrates the power of data analysis in optimizing business operations. By cleaning, analyzing, and interpreting Sunlight Ski and Bike's product data, we aim to provide actionable insights that will lead to increased efficiency, stronger sales, and a more personalized customer experience.
