@@ -1,15 +1,33 @@
 
-# International Rock Climbing Recommendation System
+# Sunlight Ski & Bike Product Classification
 
-*The sport of rock climbing has been steadily increasing in popularity. From 2012-2017, the IBISWorld estimates that from average annual growth for the indoor climbing wall industry was [3.9% in the USA](https://www.ibisworld.com/industry-trends/specialized-market-research-reports/consumer-goods-services/sports-recreation/indoor-climbing-walls.html).  In 2015, it ranked 17th out of 111 out of the most popular sports in the United States ( Physical Activity Council and PHIT America). Yet, even with this growth in popularity, most of the international rock climbing websites still lack a rock climbing recommendation system. In this project, I will create a recommendation system for the 8a.nu website that will help climbers identify some unique international climbing objectives.*
+Sunlight Ski and Bike, a small store in Glenwood Springs, relies on sales representatives' suggestions for seasonal orders, leading to inefficient inventory management and buying due to:
+
+* Lack of understanding of product inventory and demand.
+* Unclear product categories: prioritizing or eliminating categories.
+* Difficulty identifying high-demand, high-value items.
+* Missed opportunities for cross-selling.
+
+This results in:
+
+* Stockouts for in-demand products.
+* Overstocking on slow-moving items.
+* Lost revenue and customer satisfaction.
+
+## Objectives
+After exploring the historic sales and product data, it was decided that the "category" of the products needed some cleaning up in order to get better reporting on which items, colors, sizes sell the best, by which prices, discounts etc. Therefore in order to gain an understanding of how to optimize product inventory and sales to maximize profitability and customer satisfaction, the categories (like skis, bikes, bike parts, etc) need to be reclassified, reviewed, and fixed. Once, the categories and parent categories are correctly classified then we can look at questions like: Specific questions:
+
+- Which products sell the best and the quickest? Which brands?
+- Which products, sizes, colors sells the most with no discounts, or full MSRP price?
+
+
 
 ## 1. Data
 
-8a.nu is one the world’s largest international rock climbing websites. With over 4 million entries of climbs and ratings, this Kaggle webscraping project is a sufficient size to develop a good predictor model. To view the 8a.nu website, the original Kaggle four SQLite tables created by David Cohen, or the import report using the Kaggle API click on the links below:
+n reviewing the data, there were 11 columns and 121,355 rows that I decided would be useful. For the time being, I dropped rows that had "nan" as a category as I believe that data is either old or messy. I will be focusing on the 121,355 product that have categories for this project and later I can look at the uncatetgorized products once I have a category classification scheme up and running.
 
-> * [Product Data](https://www.8a.nu/)
+There are a number of missing category values for the products, which makes it hard to run reports and see which categories and types of products sell the best at the store. In order to update the categories to a new schema that will make reporting much more straightforward, it is necessary to view the pattern in the missing category data, as well as the accuracy in the category classification. Are the products in the correct category? And can we fix it with automatic classification. Let's find out!
 
-> * [Sales Data](https://www.kaggle.com/dcohen21/8anu-climbing-logbook)
 
 ## 2. Method
 
@@ -137,15 +155,11 @@ In the final predictions notebook, the user can enter their user_id number and r
 
 ## 8. Future Improvements
 
-* In the future, I would love to spend more time creating a filtering system, wherein a climber could filter out the type, difficulty of climb, & country before receiving their top ten recommendation
+Further down the road, we can look at:
 
-* This recommendation system could also be improved by connecting to the 8a.nu website so that the user could input their actual online ID instead of just their user_id number 
-
-* Due to RAM constraints on google colab, I had to train a 65% sample of the original 6x dataset. Without resource limitations, I would love to train on the full dataset. Preliminary tests showed that the bigger the training size, the lower the RMSE. One test showed an increase in sample size could increase the RMSE by .03 (in contrast to the .005 improvement I received when increasing the coldstart threshold)
-
-## 9. Credits
-
-Thanks to Nicolas Hug for his superb surprise library scikit, Colin Brochard for his stellar advice from his Mountain Project recommendation system, and DJ Sarkar for being an amazing Springboard mentor.
+- Which factors influence sales patterns (e.g., weather, seasonality, promotions, external events)?
+- How can we accurately predict future demand for specific products or categories?
+- How can we personalize product recommendations to individual customers?
 
 
 
