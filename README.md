@@ -17,14 +17,30 @@ Inaccurate and incomplete product categories hinder reporting, leading to:
 ## Objectives
 
 1. **Clean and standardize product categories:** Establish a clear and consistent classification scheme for accurate reporting and analysis.
+
+Categories have been adjusted from these parent categories:
+
+[show parent category distribution]
+
+To these parent categories:
+
+[show parent category distribution]
+
+
 2. **Identify top-selling products and patterns:** Uncover popular items, brands, sizes, and pricing dynamics to inform purchasing and promotion strategies.
-3. **Explore seasonal and promotional influences:** Understand how seasons, promotions, and external events impact sales.
-4. **Lay the groundwork for personalization:** Analyze customer purchase history to make tailored product recommendations.
+
+[show top selling brands and products]
+
+3. **Explore seasonal and promotional influences:** Understand how seasons and external events impact sales.
+
+[sales trends]
+
 
 ## Data Description
 
-* **Dataset:** Sunlight Ski and Bike's historical product data, including product details, sales figures, and customer information.
-* **Key features:** Product name, category (inconsistent), brand, size, color, price, sale date, quantity sold.
+* **Datasets:** Most of the product data 
+
+[raw data]
 
 ## Methodology
 
@@ -46,23 +62,6 @@ Inaccurate and incomplete product categories hinder reporting, leading to:
 * Develop predictive models for demand forecasting and product recommendations.
 * Segment customers based on purchase history and preferences.
 * Optimize pricing strategies based on demand and sales trends.
-
-## Ethical Considerations
-
-* Mitigate biases by employing unbiased data sampling and considering diverse perspectives during analysis.
-* Ensure transparency in methodology and data manipulation.
-
-## Deliverables
-
-* Clean and well-structured product dataset with standardized categories.
-* Comprehensive EDA report with insights and visualizations.
-* Actionable recommendations for improved inventory management, targeted promotions, and personalized customer experiences.
-
-## Project Timeline
-
-* Phase 1: Data Wrangling and EDA (Completed)
-* Phase 2: Predictive Modeling and Customer Segmentation (Upcoming)
-* Phase 3: Implementation and Evaluation (Upcoming)
 
 
 This project demonstrates the power of data analysis in optimizing business operations. By cleaning, analyzing, and interpreting Sunlight Ski and Bike's product data, we aim to provide actionable insights that will lead to increased efficiency, stronger sales, and a more personalized customer experience.

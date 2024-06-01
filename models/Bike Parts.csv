@@ -1,0 +1,869 @@
+ID,SKU,UPC,MPN,VPN,Category,Description,Brand,Color,Size
+{39C89502-0249-4E8F-9697-00263FE280CC},BRA36736135R,192790327280,EBPG05ARXA,,Bike - Parts - Brakes,Brake Pad shimano g05a-rx resin black 1 pair,Shimano,Black,
+{60D19208-943B-495B-8D1D-0059C6FE2879},JAG70704148M,4715910024065,94SS3500,CA4433,Bike - Parts - Cables & Housing,Jagwire Sport brake cable slick stainless 1.5x3500mm sramshimano mountain tandem,shimano,,
+{5360A72F-6F1F-4598-9CCC-00FB96D65C86},430700,601479164998,430700,430700,Bike - Parts - Tubes,Bontrager - Tube Standard PV48 - 29 x 2.00 - 2.40 ,Bontrager,,
+{1887E8B4-AF1C-40B7-AF20-01728A4F8FFB},FUL49635717D,8033959999103,4-R5-004,HU6095,Bike - Parts - Bearings,Fulcrum Cartridge bearing for racing 5 7 sport and red wind,fulcrum,,
+{62DEE05F-AE8E-4448-993A-017698329469},JAG53944408K,4715910022788,BSA028,BR4059,Bike - Parts - Cables & Housing,Jagwire - road sport indexed adjuster barrel,jagwire,Black,
+{6F3ABF21-FE1C-4FDB-A45D-01BAB18A84EE},580941,840226145457,BAA1054,,Bike - Parts - Bearings,Hellbender 36x45 bearing 41mm each,Cane Creek,,
+{6E1523B5-D4FB-48F0-8363-01CDD5357599},JAG70556074M,4715910024041,94SS2750,CA4431,Bike - Parts - Cables & Housing,Jagwire - mountain sport slick stainless brake cable - 2750mm,jagwire,,2750MM
+{FE6E711C-F816-4923-92F1-01F63BFC6FA2},562238,710845804755,00.2518.030.011,,Bike - Parts - Chains,PC-GX Eagle Solid-Pin Chain 126 Link Silver/Gray,,,
+{02388412-FE85-4403-B0F7-01FCDE40D513},W529222,601479565245,W529222,W529222,Bike - Parts - Suspension,Suspension Part trek bolt m12 x 1.25 x 21 alloy black,Trek,,
+{2779553D-8784-4E5B-91DE-02060747AB45},517617,710845760068,00.5318.003.005,,Bike - Parts - Brakes - Pads,Sram - avid guide/trail disc brake pads - sintered compound steel,Sram,,
+{8C4AF68A-7D6D-4D54-82EC-02564AF26862},BRE34351337M,5055308116880,DMR-G-BREN2-THICK-GU,,Bike - Parts - Grips and Tape - Grips,DMR DeathGrip Flangeless Grips - Thick Lock-On Gum,DMR,,
+{2C083D73-3D1E-4CEE-9606-025A5A842250},415893,689228289635,ISMBTR1A,,Bike - Parts - Electric,Shim Di2battryexternal sm-btr1,Shimano,,
+{1C5E1A9A-967A-478E-8C0F-03682127FA96},TUB36831964M,072774632183,547035Q4,63218,Bike - Parts - Tubes,Sunlite - 26 x1.90-2.35 tube - presta,sunlite,,26 X1.9-2.35
+{904C6F33-FCE1-4084-8C58-037E196DF1D7},CAL39611616H,844171001899,98-22180,,Bike - Parts - Tools,Hayes - carbon caliper rebuild kit - stroker trail,hayes,,
+{26D622BB-0C6F-472E-AD5F-03B3DD3C85C5},512709,689228610231,EBRT4000FX43SLP,,Bike - Parts - Brakes,Shimano - br-t400 brake calipers - front - s65/160mm,Shimano,Black,S65/160MM 
+{D39C4550-F883-43A4-B0DE-040380588026},JBC20468446,,,,Bike - Parts - Wheels - Rear,"J&b Cruiser rear wheel 26""",j&b,,
+{453F1A22-7C68-4F50-B852-0423C71E463A},SHI70273818E,192790327327,EBPJ05ARFA,,Bike - Parts - Brakes - Pads,RESIN PAD W/ FIN J05A-RF PAD SPRING W/SPLIT PIN 1 PAI,Shimano,,
+{5C551E18-53D8-425A-B402-04761A3757AB},FCM23694129K,689228352551,Y1LD98080,,Bike - Parts - Cranks & Chainrings,Fc-m590 Chainring 32t black,shimano,,
+{144FF66F-F293-4EB5-95F1-05C4B5CEF571},QBP409985254,003807,BO4011,BO4011,"Bike - Parts - Screws, Bolts and Fasteners",QBP Bo4011 '19 m3x10 socket head screw each m4x14,QBP,EACH,M4X14
+{64250519-6411-4996-94F0-0652C916F911},ROC10544328E,710845848339,00.4318.045.000,,Bike - Parts - Suspension,"Rockshox - flanged low friction dust wiper kit - 30mm, 5mm and 10mm foam rings",rockshox,,30MM
+{70E315DF-3241-488D-A25E-0656889DBB5E},JB840268244D,018428,890810,890810-8-SPEED,Bike - Parts - Shifters,"Shimano - nexus shifter/brake/cable combo - st-8s20 - 8 sp, 1560mm cable",shimano,1560-MM,8-SPEED
+{EC07CE11-2E5C-40D2-9AEC-06569EC78D24},5251677,689228390102,Y00E98080,,Bike - Parts - Grips and Tape,Shimano - st-6800 bracket covers - black,Shimano,Black,
+{C53FA877-EC3E-4DF8-A2C0-067128E6854F},5252912,601842681008,5252912,5252912,Bike - Parts - Tires,Tire Bontrager h2 hard-case ultimate 26x2.00 reflective,Bontrager,,
+{8467D3FD-40E9-4A69-9A83-06DADD34EAAF},5288406,601842875483,5288406,5288406,Bike - Parts - Bearings,Bearing Bontrager hub 15267 llh 15x26x7mm,Bontrager,,
+{E7A5F04E-0759-40BF-B87D-07887B91C12D},W290376,745889540772,W290376,W290376,Bike - Parts - Suspension,Suspension Part warranty axle nut mainpivot m16x1.5 20mm hex,Trek,,
+{646E3A1E-4240-4DBA-AE1C-078BFBCFF906},579351,601842029763,579351,579351,Bike - Parts - Tires,Tire Bontrager h5 hard-case lite 26x2.00 reflective,Bontrager,,
+{00382567-2E8B-45A2-8030-07ACD0C89986},W286347,745889934922,W286347,W286347,Bike - Parts - Suspension,Suspension Part warranty nut insert m8x1.25 6.5 thk black,Trek,,
+{5938085F-FCD2-4533-8996-07C926F997F7},W564407,601479891511,W564407,W564407,Bike - Parts - Tubes,Tube Bontrager 24x2.8-3.0 schrader valve,Bontrager,,
+{69A28650-D755-411B-8490-07E64D0C5E75},QTU49805434E,708752054486,52000981,TU5720,Bike - Parts - Tubes,Q-tubes 20 x 1.75-2.125 schrader valve tube 130g low lead valve,teravail,,
+{FC64E071-DC84-423A-843C-07F12F42D198},64791,745889071580,64791,64791,Bike - Parts - Tubes,Tube Bontrager standard 700x35-44c presta valve 48mm,Bontrager,,
+{79AB352E-1222-4110-9AEC-080E1A799CA1},SHI34910640S,192790899640,,,Bike - Parts - Chains,Chain Shimano LG500 Quick Link 11-Speed 126 Link Silver,Shimano,Silver,
+{47D754C7-9948-43B3-BE3C-0989DEDF3FEE},W322175,768682378618,W322175,W322175,Bike - Parts - Derailleurs,Frame Part trek fxhardtail 2010 derailleur hanger black,Trek,,
+{3C5DD41F-B204-4A70-9FE4-09A80B814FBD},JB228279987T,010035,20729'06,2072906-,Bike - Parts - Cranks & Chainrings,"Strong Light - sl chainring - ceramic teflon treatment - 9/10sp, 42t, 135mm",strong light,Ceramic,"42T, 135MM"
+{1E69C97E-5D3B-4AD6-9171-09F6D229EDB3},QBP335196292,007336,FS2102,FS2102,Bike - Parts - Derailleurs,QBP Fs2102 '18 derailleur hanger #102 #102,QBP,,#102
+{C547663C-F3E9-4A80-B58C-0A17F912F880},543241,192790639543,IBPK04SMXA,,Bike - Parts - Brakes - Pads,Shimano - metallic disc brake pads - k04s,Shimano,,K04S
+{D0A8911F-8908-4D99-B0D3-0A9E4ED0B6ED},75264,763477002242,CT-5,,Bike - Parts - Tools,Park Tool - mini chain brute 1-10sp chain tool - ct-5,Park Tool,,
+{AFE81202-2936-4A6F-86AA-0ADC24E836E6},64779,745889071467,64779,64779,Bike - Parts - Tubes,Tube Bontrager standard 20x1.5-2.125 schrader valve,Bontrager,,
+{B4E8C27F-5449-45AB-972E-0B0D4597A4E3},75187,763477000217,AWS-1,,Bike - Parts - Tools,3-way 456mm hex wrench aws-1,Park Tool,,
+{6C45AE0B-0FD7-4080-B900-0C0D398EFCC2},TEK9252294K,4717592030204,ABMD000077,BR7539,Bike - Parts - Brakes,"Tektro - Dual Piston Cable Actuated Mechanical Flat Mount Caliper - Md-C550, Short Pull Levers",tektro,Black,SHORT PULL LEVERS
+{C9B499D7-954C-4D79-BFB5-0C379652D410},SHI77990203R,192790639468,IBPD02SMXA,,Bike - Parts - Brakes - Pads,Shimano D02S-MX Disc Brake Pad and Spring - Metal Compound Stainless Steel Back Plate One Pair,Shimano,,
+{7803056C-DABB-49AF-BE40-0C76053B630F},WTB32483720M,714401655867,W065-0586,SA4079,Bike - Parts - Saddles,"WTB Volt Saddle - Chromoly, Black, Medium",WTB,,
+{6417F3A2-67F8-4BA1-95ED-0CBD58DC7B20},542932,710845783784,00.5018.106.000,,Bike - Parts - Brakes - BrakeSet,"Sram - level hydraulic post mount disc brake and lever - a1, front",Sram,,
+{05057FCF-4F6A-4D57-9C46-0CF21CBE6C84},599453,601842376805,599453,599453,Bike - Parts - Tires,Tire Bontrager h2 hard-case lite 700x32c blackreflective,Bontrager,,
+{063BBC6E-E17C-4AA3-982D-0D6867C77858},MIC53624894E,4710495433646,MS29-LI,LD0212,Bike - Parts - Shifters,Microshift - ms29 left twist shifter - triple (shimano compatible),shimano,,
+{8CAFBE95-20D9-4052-96A0-0D6913A7AE14},566764,601479861941,566764,566764,Bike - Parts - Tubeless Accessories,Bontrager Rectangular Base TLR Valve Stem 55mm,Bontrager,,
+{238EB060-A483-45BA-B697-0DD3610F0655},411640,601479056811,411640,411640,Bike - Parts - Tubes,Tube Bontrager standard 26x1.75-2.125 schrader valve,Bontrager,,
+{012713E9-B6E6-4568-A14E-0EADE53FDEEB},SHI70720405E,192790241814,EBPB05SRXA,,Bike - Parts - Brakes - Pads,RESIN PAD W/O FIN B05S-RX PAD SPRING W/3 TYPES OF SPLIT,Shimano,,
+{A86A1FC0-2336-4B28-9F28-0EC42339179B},TEK31345629S,4717592006513,ABPD000344,BR7353,Bike - Parts - Brakes - Pads,Tektro - io mechanical disc brake pads w/ blister card,tektro,,IO
+{FF2FD367-5CD1-4FD8-9110-0FE080EC7154},TIR44891687K,852975001472,DPB-1472,527765,Bike - Parts - Tubeless Accessories,Tire Part Dyna Plug Tubeless Tire Repair Plugs 5 Pack,Dynaplug,,
+{C11507B6-70EE-410D-AFF1-0FF963E7394D},STA3480774R,641300163646,16364,CE2420,Bike - Parts - Pedals,Stamp 2 Small Platform Pedals  Raw Silver,,,
+{A97D672D-72E4-4122-85E3-0FFB3DD965F4},5290385,710845875649,00.6418.039.000,5290385,Bike - Parts - Bottom Brackets,Bb Truvativ powerspline 68x113 english silver,Truvativ,,
+{EF5A48C9-1EA9-4355-A4F1-102FAC83EA5E},WHE43385766S,811079027078,BP0005,TL0074,Bike - Parts - Tools,Wheels Manufacturing essential kit - bearing press,wheels manufacturing,,
+{59FEACB7-111E-4547-AA40-10C9D7934D6F},1040404,601842493694,1040404,1040404,Bike - Parts - Tires,Tire Bontrager e6 hard-case lite 26x2.00 reflective,Bontrager,,
+{BA4B9964-F1B9-48F6-A3F4-118C46801975},15X32776394S,7613052278773,HWGXXX0004785S,,"Bike - Parts - Screws, Bolts and Fasteners",15x100110mm Ta end cap kit 350 370 hubs,dt swiss,,
+{000E0308-4D57-4928-8DB7-11C3096F4018},12X3085335S,7630024346124,HWGXXX00S3188S,,Bike - Parts - Hubs & Skewers,12x142148mm End cap kit xd rear hubs,dt swiss,,
+{D8773520-5B7F-40C3-89C2-12315F3E1ECD},CON53831966H,4019238080698,01020000000,TR8198,Bike - Parts - Tires,Continental Argotal Tire - 29 x 2.40 Tubeless Folding Black Soft Downhill Casing E25,Continental,,
+{9F6778B0-9995-4377-A7A2-1284F60186E4},SHI37722153W,689228337497,ESTA070RIX,,Bike - Parts - Brakes,"Shimano - right sti shift/brake lever - st-a070-r - 7 sp, 2000mm",shimano,,7 SP RIGHT
+{FAF3ACFA-B45B-4BD5-A4DE-12E27CFE8C57},DIS39533062L,689228880689,EMT2012KLF6RA100,,Bike - Parts - Brakes - Disc,"Shimano - altus hydraulic disc brake assembled set - bl-mt201/br-ur300 - front, 1000mm",shimano,,"FRONT, 1000MM"
+{CB62D67A-68B0-48CA-AC60-12EA3590385D},SMM45201774I,689228108110,ISMMAF203PPA,ISMMAF203PPA,Bike - Parts - Brakes - Disc,SM-MA-F203 P/P ADPT 4 DISC BRK CALIPER03SM-MA-F203P/P FIXI,Shimano,,
+{1B38B187-1F52-4174-B27B-136F59E9EE04},5254511,710845808531,11.6218.030.260,,Bike - Parts - Cranks & Chainrings,"Sram - gx eagle chainring - black - 12sp, 32t , 3mm - x-sync direct mount",Sram,Black ,"32T, 12SP"
+{3FD37A87-2B21-4255-B39B-13A6C7451288},BRE31418531M,5055308113643,DMR-G-BREN-THICK-GU,,Bike - Parts - Grips and Tape,DMR DeathGrip Flanged Grips - Thick Lock-On Gum,DMR,,
+{2CDD2633-35EA-4E25-8BF1-13F2A8EA5A20},581077,601842089903,581077,581077,Bike - Parts - Tools,Tool Bontrager integrated mtb system for steerer tube intro,Bontrager,,
+{C16F766A-EB44-434D-A7AA-1552823342CA},JB2366578437,008271,26904,26904-#167,Bike - Parts - Derailleurs,J&b 26904 '17 derailleur hanger 167 black #167,j&b,BLACK,#167
+{AF655FD2-E9E2-4D80-A01E-16267A3ED643},559006,601479760466,559006,559006,Bike - Parts - Wheels,Wheel Rear bontrager paradigm s11 700c tlr blackgrey,Bontrager,,
+{43199D7D-FD27-4A9C-8862-162F7D8008AD},SHI413575045,017104,Y8LF98050,Y8LF98050-M6x30.5,Bike - Parts - Brakes,Shimano Y8lf98050 '20 br-m987 caliper bolt m6x30.5,shimano,,M6X30.5
+{5F41A1DC-55D9-4FF6-90F7-165F229E8E75},5286068,701822997652,27502-V,,Bike - Parts - Tubeless Accessories,Pro Tire insert 27.5 650b single with valve,Cushcore,,
+{B1DCD206-18BE-4786-8B90-1678334055BA},582149,710845776458,00.4118.138.002,,Bike - Parts - Suspension,Rockshox Monarch rt3 rear shock 7.25x1.90 184x48mm 2014-2015 trek fuel ex 29 d1,Rockshox,,
+{F5445533-3BED-4BB2-B729-16FAFF4BE696},LOC30525226R,711484161179,D70BR-B,OD3100,Bike - Parts - Forks,Lock-on Fork bumpers - boxxer black pr,odi,,
+{D4117D26-4B9B-41DD-A44F-172EAAD48C29},CAB25138121N,4718287313084,P5709,,Bike - Parts - Cables & Housing,Cable Collar i900 i950 i7 eten,ks,,
+{504EC72B-118E-4E2F-96C0-17694F2CFFBC},269305,689228023307,Y8B298060,,Bike - Parts - Brakes - Pads,Shimano - metallic disc brake pads - m03,Shimano,,M03
+{D3865D54-46A4-45DE-A10A-17D5346482BD},JAG89960753M,4715910025222,DCA073,BR0065,Bike - Parts - Brakes - Pads,"Jagwire - sport semi-metallic hydraulic disc brake pads - stroker trail, carbon, gram",jagwire,,"STROKER TRAIL, CARBON, GRAM"
+{E5C22A53-84A4-4A51-8349-188939693012},JAG61269057E,4715910018965,DCA052,BR7821,Bike - Parts - Brakes - Pads,"Jagwire - mountain semi-metallic hydraulic disc brake pad - sole mx2, mx3",jagwire,,"SOLE MX2, MX3"
+{8EFC506D-1FF4-498F-9529-189329357683},QBP40667574D,689228613768,FD0024,FD0024,Bike - Parts - Derailleurs,"Shimano - 105 front derailleur - fd-5800-f - front, 11sp",shimano,FRONT,11-SPEED
+{A022D1B6-0B71-495F-9327-1894B3597DEA},63377,840226002330,.ASN8,,"Bike - Parts - Screws, Bolts and Fasteners",Star Nut 1-18 steel some 1-141-18 alum,Cane Creek,,
+{D526B518-9992-4491-BE78-18AA56C40888},ERG42661712N,4260477074737,42410301,HT0321,Bike - Parts - Grips and Tape - Grips,Ergon GP1 Evo BioKork Grips - Lock-On Small Black/Tan,Ergon,,
+{EDA67DA7-BB8A-46B3-BAEA-18DE9F8AD408},517009,601479320868,517009,517009,Bike - Parts - Derailleurs,Frame Part trek stranglehold adjustable dropout,Trek,,
+{32A25DD6-34A2-495B-9AE5-193EBC8B0C6F},CHA351435520,072774225804,,22580,Bike - Parts - Cranks & Chainrings,Chainring Sunlt adapter 22to19mm bgof10,sunlite,,
+{D5DE6FFD-4BB1-4A3F-B6D9-1991BA55EAC2},WOL52999079K,810006807851,10430-B,,Bike - Parts - Cranks & Chainrings,Chainring Wolf Tooth 104 BCD 30T 4-Bolt Drop Stop B Black,Wolf Tooth Components,Black,
+{16AD67EF-7A67-4D4D-BBA1-19934DD4F489},280779,641300600127,10060,,Bike - Parts,Crack Brothers - premium cleat - ultra durable brass w/ 6 degree float,Crank Brothers,,
+{A90968B8-BA1C-41DF-A4CE-1995ECD16285},SHI63558290K,192790447827,ISLM8100RAP,,Bike - Parts - Shifters,SHIFT LEVER SL-M8100 DEORE-XT RIGHT 12-SPD,Shimano,,
+{8107D5FE-8452-4289-8B18-1A0C6BF449A4},599898,601842322239,599898,599898,Bike - Parts - Suspension,Suspension Part trek shock mount kit 69mmx10mm 2020 black,Trek,,
+{0068DD80-EE50-4300-924C-1A557D23F1CC},559669,710845805523,00.5018.037.014,,Bike - Parts - Brakes,"Sram - centerline disc brake rotor - silver - 6 bolt, 180mm",Sram,,"6 BOLT, 180 MM"
+{0053756A-8AAE-43BC-864B-1A9567B26115},END37660387M,185843000612,FK-6607,FK6607,Bike - Parts - Forks - Suspension,Enduro Seal and Wiper kit for Marzocchi 32mm,Enduro,,
+{10DF44A6-D70D-4750-87AF-1B836DFAA8EE},597293,641300162670,16267,,Bike - Parts - Pedals,Crankbrothers - stamp 1 pedals - black - large,Large,Black,L
+{D7E1AE9D-E7E2-472E-8DB8-1C2008B33C43},BBS33304671Y,072774213016,,21301,Bike - Parts,Bb Set or8 68x110.5 torqlite sq eng campy,origin8,,
+{18F5D428-A517-451F-B072-1C31EFD043FF},270473,710845019517,86.2706.114.105,,Bike - Parts - Chains,06 Cn pc951 114li w pwr.lnk 9spd 1pc,Sram,,
+{B6D7B0EF-4FD1-4B91-B0F0-1C4ABCCC88B3},5254534,710845828041,00.5315.035.031,,Bike - Parts - Brakes - Pads,Am Db brake pad orgstl elxrdblvl pwr,Sram,,
+{D5527F79-9AAE-43C1-B74F-1C60906454D1},88556,763477000491,BBT-9,,Bike - Parts - Tools,Park Tool - hollowtech-ii bb cup/arm tool - bbt-9,Park Tool,,
+{C5F7882A-BD8A-4BD4-B743-1C6D813B9FF3},STE24452363K,072774580095,,58009,Bike - Parts - Stems,"Origin8 - pro-fit alloy ergo threadless stem - 80 x 25.4, +/- 8°",origin8,,"80 X 25.4, +/- 8°"
+{C2826E38-FB20-4E3A-8B6C-1C7BA7CCADB7},5265391,601842640722,0275.007.546-VE8,5265391,Bike - Parts - Electric,Battery Bosch powertube 625w vertical us,Bosch,,
+{CDFC09FC-EC65-4B53-941D-1C8B7BF1FA25},433292,689228744707,ISMRT86M2,,Bike - Parts - Brakes - Disc,Shim Rotorxt180mmice6-bolt sm-rt86xt180mm6-bolt,Shimano,,
+{03D29260-33EB-44CE-8EDF-1D085D574100},413573,185843000094,6902LLB,,Bike - Parts - Bearings,Abec-3 Cartridge bearing 6902 15x28x7,Enduro,,
+{85ACB244-3280-43C8-9E27-1DAAE0707160},MIS345751953,009677,#3,#3-#3,Bike - Parts - Derailleurs,Misc Hanger#3 derailleur hanger #3 black #3,,BLACK,#3
+{24860342-DDF0-42C0-A1A6-1DFEB5DD616D},5251502,689228344129,EFDTY700TSX6,,Bike - Parts - Derailleurs,Shimano - tourney fd-ty700 triple top swing dual-pull front derailleur - 7/8 sp,Shimano,Series Color,
+{622A5EDD-1859-4C48-8B0B-1E0F16F607C1},PRO29362545K,768686259920,,,Bike - Parts,Pro Plugger co2 inflator kit - black,blackburn,Black,
+{1FF3480B-501D-40CF-A0AD-1E201A3285E5},W532843,601479564569,W532843,W532843,Bike - Parts - Bearings,Headset Part trek fsa bearing 1.5in,Trek,,
+{810FC199-635A-4548-90CE-1E3343753856},JAG42724041E,4715910041888,DCAB98,BR3215,Bike - Parts - Brakes - Pads,"Jagwire - pro ebike disc brake pads - sram g2, guide",jagwire,,
+{826167D1-0862-4A0E-AF5B-1E57A60DB299},W300580,745889650594,W300580,W300580,"Bike - Parts - Screws, Bolts and Fasteners",Hanger Trek hanger bolt atb 2010 for 8 series rear each,Trek,,
+{E302FDE2-7143-4F6C-A0B1-1F860D2D5CF6},W438471,601479217656,W438471,W438471,Bike - Parts - Wheels,Wheel Rear bontrager duster elite xd tlr 27.5 black,Trek,,
+{AF0435D3-1498-49C3-BF3A-1FEA7437E062},5255119,815189020110,10870,,Bike - Parts - Hubs & Skewers,Hotrod Thru-axle adapters black,Rockymounts,,
+{50A5E7B3-45A3-4276-B3EA-203FCA1CA0AE},JAG58509900O,4715910020067,DCA063,BR7822,Bike - Parts - Brakes - Pads,Jagwire - sport semi metallic hydraulic disc brake pads - formula oro,jagwire,,FORMULA ORO
+{CB9F8FF7-DD0C-4888-B8E7-205C18E20FBC},581403,840226078304,BAA1130,,Bike - Parts - Bearings,40-series Sealed cartridge bearings 41mm - 1-18 ea,Cane Creek,,
+{BBC2702B-2BDF-4680-B5CE-2072E8B698E7},PAR53363447R,763477004888,PH-T1.2,TL5328,Bike - Parts - Tools,ParkTool PH-T1.2 P-Handle Torx Compatible Driver Set with Holder,Park Tool,,
+{CF864536-55C1-4928-9470-207E3863A5DA},PUS62438254T,840031601254,PK-FEB-690-100,RS0016,Bike - Parts - Suspension,Push Industries polymer rear shock eyelet bearing 2-pieces for one eyelet,push industries,,
+{B5EF48D0-2C40-4129-A3AA-20A023D2E098},5251173,689228157675,Y1E512100,,"Bike - Parts - Screws, Bolts and Fasteners",Fc-7800 Clamp bolt 1e5 1210,Shimano,,
+{094B4FD8-0E94-4D11-8E21-20BAFC0B4E92},W511147,601479429080,W511147,W511147,Bike - Parts - Suspension,Suspension Part trek bolt m8 x 1.25 x 64,Trek,,
+{B6DBC097-E7E6-4FB2-9DAB-20F0D5E54151},WIR221868972,4019238024999,C1230120,,Bike - Parts - Tires,Continental Cross King Tire - 26 x 2.20 Clincher Wire Black PureGrip E25,Continental,,
+{9BCF29F1-D247-4988-A735-20FDF0A221F1},ERG23754157K,840226070193,BAH0001K,,Bike - Parts - Grips and Tape,Ergo Control bar ends black,cane creek,,
+{78A183EF-E338-4F25-ACA9-212654F05422},CAB40442449R,630950040858,B-246-06,,Bike - Parts - Cables & Housing,Cable Rotor ody gyro knarps cable shortner pair,odyssey,,
+{B595D157-6333-49F6-93C8-214E93B3C9AA},RES4219563T,192790241838,EBPB05SRXCS,EBPB05SRXCS,Bike - Parts - Brakes - Pads,Resin Pad w/o fin b05s-rx pad spring w/3 types of split,shimano,,
+{6D1D1994-7A2B-4D80-B2FC-215B51D15767},571623,710845813726,00.6418.015.000,,Bike - Parts - Bottom Brackets,Sram - dub english bottom bracket - english/bsa 68/73mm,Sram,,
+{FE49AC14-6644-4C77-8D44-21C762C5B89E},ARD21613071R,4717784026596,TB85967100,,Bike - Parts - Tires,Maxxis - ardent tubeless dual exo tire - black - 27.5 x 2.4,maxxis,Black,27.5 X 2.4
+{7B2FD682-8F1E-4E8D-AA12-229B9D0105DD},THR39133791A,710845675270,11.6815.022.030,,Bike - Parts - Suspension,Threaded Barb kit remote connection reverb ea,rock shox,,
+{7B4066DD-B217-44B7-B061-22D2AC1159FA},QTU41798871E,708752133259,210148QBP,TU1200,Bike - Parts - Tubes,Teravail - fat bike tube - schrader - 26 x 3.5-4.0,teravail,,26 X 3.5-4.0
+{8E946BF6-242D-489F-8E69-23253D52FC40},MAG26856301T,,0724713,0724713,Bike - Parts - Brakes - Levers,Magura Brake clamp shroud bolt,,,
+{0B179694-B486-4935-A39E-2352BC19C13E},5307008,192790639543,IBPK04SMXA,,Bike - Parts - Brakes,Brake Pad shimano metal disc pad k04smx,Shimano,,
+{38E790E5-241F-43A4-BEA3-23A1BC91297F},QBP431818270,SM2879,SM2879,,Bike - Parts - Stems,"Zoom - quick comfort adjustable stem - 120mm, 25.4 clamp",zoom,80-150D,25.4X120
+{810EEC05-4A0C-4941-B26A-23B1289A7B43},REM35239350,10844482003220,TRC1 HT,PK4010,Bike - Parts - Tubes,Rema 35 Short Schrader Valve Core Bag of 10,Rema,,
+{0F3B9798-6046-437E-BBAC-23CB87EB9211},5252446,812719021869,RLINK,,Bike - Parts - Frame parts,Roadlink 10sp shimano,Shimano,,
+{70C87E22-D364-48F7-9150-243F5C0D833B},BAR35739718S,710845626258,11.5015.029.030,,"Bike - Parts - Screws, Bolts and Fasteners",Bar Clampbolt kit mm brakes elixir 543 nls,avid,,
+{6ADF850C-DDBA-45E1-9B9D-24416A623FDA},597221,192790386935,,597221,Bike - Parts - Shifters,Shift Lever shimano st-m4050 alivio 3 x 9 black set,Shimano,,
+{52827CEC-317D-41DE-9FF2-245FBBE0DD9C},CN72258333S,192790597218,Y06998026,Y06998026,Bike - Parts - Chains,CN-7700 9S CHAIN PIN 100PCS,Shimano,,
+{F843F6DE-4164-4B82-A4C0-24665DC95467},JAG641528640,4715910039762,BWC5004,CA2291,Bike - Parts - Cables & Housing,Jagwire Brake cable basics 1.6x2000mm stainless sramshimano road box of 100,shimano,,
+{102022FD-E659-4C5D-931F-2483AD683F9B},5252348,812719020015,10432,,Bike - Parts - Cranks & Chainrings,"Wolf Tooth - drop-stop chainring - 32t, 104 bcd, 4-bolt, drop-stop",Wolf Tooth Components,,"32T, 104 BCD"
+{B94F5847-2274-4F3C-81FA-24E6D1763AE5},70993,745889135268,70993,70993,Bike - Parts - Tubes,Tube Bontrager standard 650x 18-25 26 x 1.00 presta 48mm,Bontrager,,
+{3CDA6FF2-15CC-4D10-9498-251B916D085E},GA321852426D,4260477068736,42411188,,Bike - Parts - Grips and Tape - Grips,Ergon - ga3 lock-on grips - risky red - large,ergon,Risky Red,
+{E72AF474-F027-4EDD-A9B8-2564B50072C8},PRO366668360,7613052171913,NPBA20120S0100,,Bike - Parts - Wheels - Accessories,Prolock Brass nipple 14g12mm - black box100,dt swiss,,
+{40E2CB3B-0B8A-49BC-8ED0-258E8AADB797},571130,601479930876,571130,571130,Bike - Parts - Tires,Tire Bontrager gr1 team issue 700 x 40c skinwall,Bontrager,,
+{FB6C858F-01CB-4762-91D5-25ADB2E278DE},64780,745889071474,64780,64780,Bike - Parts - Tubes,Tube Bontrager standard 24x1.5-2.125 schrader valve,Bontrager,,
+{12EC1381-7D48-456E-9C18-26436C240772},CON749183185,4019238074079,01506960000,TR8173,Bike - Parts - Tires,Continental Kryptotal Front Tire - 29 x 2.40 Tubeless Folding Black Soft Enduro Casing E25,Continental,,
+{AA416C82-660B-439C-A25C-267E4121AB4D},509775,895428019853,RRSNNW130X42BLK,509775,Bike - Parts - Cranks & Chainrings,"Race Face - narrow wide chainring - black - 42t, 130mm",Raceface,Black,"42T, 130MM"
+{35D11441-B408-4495-9FB0-2692CDA6F81B},BEA42842267K,601842824757,5256341,W5256341,Bike - Parts - Bearings,Bearing Trek Suspension 6801 Max 21x12x8mm Black,Trek,,
+{F64B6E36-9E2D-436A-B621-274A3DD0A26B},SHI57954513Y,192790617121,EBLM4100LL,BR0535,Bike - Parts - Brakes - Levers,Shimano Deore bl-m4100 replacement hydraulic brake lever - left gray,shimano,,
+{03CCF759-5A8D-4187-A781-27FA254299FC},TIR45251193K,763477008350,TPT-1,5305322,Bike - Parts - Tubeless Accessories,Tire Part Park Tool TPT-1 Tubeless Tire Plug Tool Black,Park Tool,,
+{6D7728C6-8576-4511-8109-280419B9D191},FWS41943174E,072774180295,,18029,Bike - Parts - Tubes,"Black Ops - defender 8 key freewheel - 1/2 x 3/32, 18t",black ops,,"18T, 1/2 X 3/32"
+{5D0D27F9-013B-425C-99B8-28C7628B08C0},HUB29238682M,4710944224184,HSA126.0001.0P,,Bike - Parts - Hubs & Skewers,Hub Part sa hsa-126 gear ind rh 163mm,sturmey-archer,,
+{99C7DF5B-1590-4180-B601-28DA7A3508EB},W512884,601479295562,W512884,W512884,Bike - Parts - Tubeless Accessories,Rim Tape bontrager tubeless rim valve road tlr 55,Bontrager,,
+{FBC78688-EFD1-4F90-88CD-28E76C8ED2D0},JAN35249250G,,914951,914951,Bike - Parts,J And b importers - great day to fix a bike mug,j and b,,ONE SIZE
+{E9555622-B224-4BCD-A088-2917AE35A315},DIS47859565T,844171035160,98-26144,,Bike - Parts - Brakes - Pads,"Hayes - semi-metallic disc brake pads - dyno, stroker, ryde, radar, prime, sport",hayes,,
+{BCAA2A47-40FD-4A6C-ACAB-29362E131940},END35886417G,810191012436,BB 6801 LLU MAX-BAG,BB8801,Bike - Parts - Bearings,Enduro Max 6801 sealed cartridge bearing,enduro,,
+{A86C132F-6EA8-43D8-9615-2940C2A15262},5285940,701822997591,10011,,Bike - Parts - Tubes,Air Valve set 44mm - royal blue,Cushcore,,
+{6DB468BA-1650-48A6-B49B-2974F69D7594},SHI417000603,017103,Y8LF98040,Y8LF98040-M6x36.3,Bike - Parts - Brakes,Shimano Y8lf98040 '20 br-m987 caliper bolt m6x36.3,shimano,,M6X36.3
+{5D209C98-77EC-4AC2-815E-29CB128C9C98},W250324,601479223053,W250324,W250324,Bike - Parts - Tubeless Accessories,Rim Tape bontrager tubeless rim valve,Bontrager,,
+{84BE4493-1F3B-4C5F-A3F6-2A14806AD3C8},64790,745889071573,64790,64790,Bike - Parts - Tubes,Tube Bontrager standard 700x35-44c 27x1-38-1-34 sv36,Bontrager,,
+{6D3FDEF6-3B9D-4830-86C9-2A1AF62C287D},W318627,768682934791,W318627,W318627,Bike - Parts - Cables & Housing,Cable Part trek di2 downtube grommet,Trek,,
+{74DEBE9D-90E4-4D12-9BE8-2A271709C1D5},W600627,601842564103,W600627,W600627,Bike - Parts - Suspension,Fastener Trek bolt m12x1.25x81.3 alloy 2021 black,Trek,,
+{A460AC98-0A73-43AE-84C7-2AF3BD010F18},MIS3082929S,006603,MISCTIRES/WHEELS,12312411,Bike - Parts - Tires,Misc Tires/wheels misc tires/wheels - 700 x 52c,,,
+{2906A02B-F818-4948-AB7C-2B9E23FC50EB},WMD389447249,019647,WMDROPOUT-99,WMDROPOUT-99-#99,Bike - Parts - Derailleurs,Wm Dropout-99 '17 derailleur hanger #99 black #99,,BLACK,#99
+{485011C9-8FEB-40D0-8CB9-2BB04FD564A5},BIK29489520M,,#TL01,#TL01,Bike - Parts - Grips and Tape - Grips,Bike Works - screw-on grips - tan - 130mm,bike works,Tan,
+{329C91CB-29C8-4DA9-AE33-2BDB94AE824C},JAG61807436X,4715910020111,DCA065,BR7824,Bike - Parts - Brakes - Pads,"Jagwire - mountain semi-metallic hydraulic disc brake pads - avid, promax",jagwire,,"AVID, PROMAX"
+{C7B90C95-139E-4835-B2D3-2C1A705F733E},MOU4863175G,192790897806,ESMMAF220PPM,ESMMAF220PPM,Bike - Parts - Brakes - Disc,MOUNT ADAPTER FOR DISC BRAKE CALIPER SM-MA-F220P/PM FIXING,Shimano,,
+{A20CD5C2-1653-499F-9667-2C4314A1EEB6},DTS61776657K,7613052139357,W0E1900AGIXSA07017,,Bike - Parts - Wheels,Dt Swiss e 1900 spline 30 front wheel - 27.5 15 x 100mm 6-boltcenter-lock black,dt swiss,,
+{4FC26B9B-5CED-437E-A804-2C783E2161F0},CN930881102S,192790597249,Y0AH98016,Y0AH98016,Bike - Parts - Chains,CN-9000 11S CHAIN PIN FOR HG-EV 100PCS,Shimano,,
+{E4EE4E4B-0951-4830-A4C8-2D12A8E65FE1},TUB38847865S,710845675959,11.6815.028.010,,Bike - Parts - Seatposts,Tubing Strain relief collar reverb black nls,rockshox,,
+{7CFC1B96-65E9-4A74-BAE5-2D2E32C9E01D},511086,601479224593,511086,511086,Bike - Parts - Tires,Tire Bontrager connection trail hard case 29 x 2.0,Bontrager,,
+{8C401D6F-C60F-452A-9503-2D74D782973D},ERG29730265L,4260477066114,42410088,HT3074,Bike - Parts - Grips and Tape - Grips,Ergon GA3 Grips - Black Lock-On Small,Ergon,,
+{8CE51BE2-9230-46E2-BFF9-2E8D9424DB5D},ZOO56514044H,ST2915,SPS-C372 27.2*350MM,ST2915,Bike - Parts - Seatposts,"Zoom - offset suspension seatpost - 27.2mm diameter, 350mm",zoom,,"27.2MM, 350MM"
+{1F9C0B4E-0BF7-4507-9FD1-2F7A6725A315},PDE43899415K,192790617169,,EPDEF205S,Bike - Parts,Pd-ef205 Flat pedal silver w friction plate ind.pack,shimano,,
+{DF955170-9B12-49AA-AFD0-2FA0BB4DAD77},W529969,601479594559,W529969,W529969,Bike - Parts - Suspension,Suspension Part generic washer 10 x 16 x 3.0,Trek,,
+{050598B9-38BA-4224-9DE7-2FDB1A12156E},553992,601479741229,553992,553992,Bike - Parts - Tires,Tire Bontrager xr2 team issue 27.5x2.6 tlr black,Bontrager,,
+{CD1B0370-3032-43D0-AD5B-2FFADC677764},LOW194251894,888818151066,18850-01,OH4410,Bike - Parts - Suspension,Lower Leg seal kt rxf34,ohlins,,
+{326B1D80-0485-4FFA-B28E-3068A2C9A3FF},MUC44287413K,5037835205442,20285,,Bike - Parts - Tools,Muc-off - rim stix tire levers - pink,muc-off,Pink,
+{6B64135E-9FC5-43CD-BC32-30740F5F23BA},TUB32562464M,072774630035,501003K2,63003,Bike - Parts - Tubes,Sunlite - 8 x 1-1/4 wheel chair tube - schrader valve,sunlite,,8 X 1-1/4
+{A22FF7E9-7FD2-4EE0-9BDE-3158D1646859},550172,641300153173,15317,,Bike - Parts - Pedals,Egg Beater 2 pedals black spring,Crank Brothers,,
+{2CAB1E6E-D0E9-4785-9163-31AA15BAD377},5253022,192790447537,ESLM3158RA,,Bike - Parts,Shim Shftraltus8spdrtpod sl-m315-8rwogd black,Shimano,Black,
+{D9E19D46-E152-47EA-BB11-31EDF6D79960},579118,601842053324,579118,579118,Bike - Parts - Tires,Tire Bontrager xr1 12x2.25,Bontrager,,
+{382C842C-657C-46DB-A5AD-3200750744A6},KMC40171211R,766759241032,,,Bike - Parts - Chains,Chain KMC S1 1-Speed 112L Silver,Kmc,Silver,
+{AC914541-4954-4CE5-BB48-3255C0A97283},WTB3277079W,714401655836,W065-0583,SA4076,Bike - Parts - Saddles,"WTB Volt Saddle - Chromoly, Black, Narrow",WTB,,
+{EEC18890-CC15-44B0-8FA4-3330C93873BB},582045,847746030546,AS0146,,Bike - Parts - Stems,Brass Presta valve stem 44mm universal,Stan'S Notubes,,
+{A194A833-53BA-4843-A1FC-33FC58ACC7D0},552414,601479696956,552414,552414,Bike - Parts - Hubs & Skewers,Hub Part bontrager 108 pawls 3 pack,Bontrager,,
+{722137AE-26E0-43AD-9102-348A24086F5A},478333E,846635011284,478333E,478333E,Bike - Parts - Seatposts,Seatpost Part electra clamp wrackmounts 28.6 black steel,Electra,,
+{79E3DDA7-4AB3-4EF4-AE4E-34F8F443ABCF},SP412465521M,689228194519,Y60098580,Y60098580,Bike - Parts - Cables & Housing,Shimano Shift Housing SP41 BLACK 50M,Shimano,,
+{5E71FF9E-8EAA-44A5-BC1C-356A72687405},598647,821973353555,PD20CHEBLK,,Bike - Parts - Pedals,"Raceface - chester platform composite pedals - black - 9/16""",Raceface,Black,9/16
+{7594DD8A-B492-431F-9396-35766CA5A35C},280817,689228108165,ISMMAR180PSA,,Bike - Parts - Brakes - Disc,Shim Disc adptrrear 180 is for post caliper to is frame 18 mm,Shimano,,18 MM
+{F999E285-F389-4608-B785-3691DB9E899A},TEK50712452K,4717592003383,ABBL000220,,Bike - Parts - Brakes - Levers,Tektro 316ag mini v-brk lvrrr 81gforgedrearbmxblack black,tektro,Black,
+{4E3186CF-A462-4CB9-9E46-371C3944E45A},5253212,601842619889,5253212,5253212,Bike - Parts - Tires,Tire Bontrager se6 team issue 29x2.50 tlr,Bontrager,,
+{8A175C15-9872-4220-B614-3785A8C09AA8},SHI7043197K,192790447308,EMT501EJRRXMA170,BR0728,Bike - Parts - Brakes - Disc,Shimano Deore BL-MT501/BR-MT520 Disc Brake and Lever - Rear Hydraulic Post Mount Black,Shimano,,
+{70921D63-E393-4143-89FE-37D6992D3312},1040172,810026604003,60400,,Bike - Parts - Tubeless Accessories,Orange Seal - tubeless tire sealant with twist lock applicator - 4 oz,Orange Seal,,4 OZ
+{40649756-833B-4A5B-9D42-38624FE92464},KMC34435898Y,766759709563,CN09563,,Bike - Parts - Chains,X9 Chain 9sp NP/GY,,,
+{234137CA-2D73-4B67-92F9-386E4D50E63B},ULT30939986S,5037835204865,20087,,Bike - Parts - Tubeless Accessories,Ultimate Tubeless setup kit - dhplus,muc-off,,
+{F78CC33D-1C18-4952-AAD9-387DC728049F},SHI42704102R,689228390898,ESLTZ5006RA,SL0312,Bike - Parts - Derailleurs,Shimano Tourney tz500 6-speed right thumb shifter,shimano,,
+{FCBD1411-8C81-46A9-91C1-38E635464D69},ODY23969519K,630950914401,B-283-BK,BR9231,Bike - Parts - Brakes - BrakeSet,Odyssey Evo 2.5 u-brake black,odyssey,,
+{E87ABC85-9526-4F1D-9D5F-38F77E003276},572657,601479925117,572657,572657,Bike - Parts - Electric,E-bike Part trek bosch powertube battery handle,Trek,,
+{4289A623-30A6-47D0-9724-394B648647BD},SRA27711885P,,00.7015.093.030,,Bike - Parts - Shifters,Sram - x3 trigger shifter pair - 7sp,sram,,3X7SP
+{50464058-AB64-48AF-AFF2-396251E47826},426433,710845642036,00.5315.023.030,,Bike - Parts - Brakes - Pads,Disc Pads 11 code 4-piston - organicsteel pair,Sram,,
+{F79FA85A-8F2C-4305-B7D2-39BC61A4FA89},411840,601479050185,411840,411840,Bike - Parts - Tubes,Tube Bontrager standard 26 x 1.75-2.125 presta valve 33mm,Bontrager,,
+{68B06FD3-888F-40F2-BE90-39DFCF42E1D3},QBP384986551,005502,FS2131,FS2131,Bike - Parts - Derailleurs,QBP Fs2131 '17 derailleur hanger 131 black #131,QBP,BLACK,#131
+{37F26B11-774A-4D4B-B9FD-3AA91C535E47},SHI72292444K,192790875248,,,Bike - Parts - Brakes - Levers,Brake Shimano BL-MT501/BR-MT500 Hydraulic Disc BK Rear/Right,Shimano,Black,
+{CAEE9AF2-214E-4A6C-9C8C-3AD4991B0A6B},SRA64684170T,710845718397,11.7518.014.000,DP5996,Bike - Parts - Derailleurs,SRAM XX1 X01 X1 Rear Derailleur Torx 25 Upper B Bolt and Limit Screws parts Kit,SRAM,,
+{835C3097-1D1B-427A-93CA-3AEBD94834BE},LOO42116078T,3611720145000,18235,PD0394,Bike - Parts,Look - x-track multi directional easy cleats,look,,
+{C2E3786F-A969-4B7D-A995-3B1BD399A46B},CON694393895,4019238080735,,TR8190,Bike - Parts - Tires,Continental Xynotal Tire - 29 x 2.40 Tubeless Folding Black Soft Downhill Casing E25,,,
+{31291896-9797-4EEC-893F-3B1DAFB19AE2},78153,745889206401,78153,78153,Bike - Parts - Tubes,Tube Bontrager thorn resistant 20x1.9-2.125 schrader valve,Bontrager,,
+{10865EAF-122A-47EE-9EC4-3B50592B4F64},SHI69144523R,192790451961,ESMRT64MEC,,Bike - Parts - Brakes - Disc,ROTOR FOR DISC BRAKE SM-RT64 DEORE M 180MM W/LOC,Shimano,,
+{8B9D1B71-D7E1-4244-BC8C-3BCE5FD2AF03},STA36790350M,847746012719,ZH0802,HU2734,Bike - Parts - Cassettes & Freewheels,Stan's Notubes - neo hub cassette spacer - 1.8mm,stan's notubes,,1.8MM
+{A1D5F9D9-C4B0-4928-AEE7-3C06400F4A0B},582046,847746009870,AS0089,,Bike - Parts - Tubeless Accessories,Valve Core replacement presta,Stan'S Notubes,,
+{E59CCA7F-5739-4B40-B7D6-3C2D16E22D65},JB7405127315,013681,740489-F,740489-F-26x1.5,Bike - Parts - Wheels,"J&b 740489-f '16 26"" alloy front wheel blk frnt 26x1.5",j&b,BLK FRNT,26X1.5
+{AFE2D935-84C5-4B5E-9646-3C548C58EB49},DEF17784766T,817180024678,26-DF TRP-MT,,Bike - Parts - Pedals,Deftrap Pedals mint,deity,,
+{63FE05C8-01D6-4500-AEAD-3C7C26554B92},BRE35738012K,5055308116965,DMR-G-BREN2-THIN-K,,Bike - Parts - Grips and Tape - Grips,DMR DeathGrip Flangeless Grips - Thin Lock-On Black,DMR,,
+{5A861728-FA84-4F89-94CB-3C7C4C67AF6B},CHA49356357F,710845808524,11.6218.030.250,,Bike - Parts - Cranks & Chainrings,"Sram - gx eagle chainring - black - 12sp, 30t, 6mm offset - x-sync direct mount",sram,Black,"12SP, 30T"
+{612029AF-5064-4BAA-8A6E-3CFC531098CF},FWS27813966P,072774184965,FW316CPX,18496,Bike - Parts - Brakes - Pads,"Sunlite - easy off single speed freewheel - 18t, 32mm",sunlite,,"18T, 32MM"
+{A927585D-851B-4461-8540-3D04B19E063E},SHI46748435N,689228473270,Y5RS98010,,Bike - Parts - Derailleurs,Shimano - slx rd-m7000 rear derailleur pulley set - 11 sp,shimano,,11 SP
+{594841EF-2848-4D3B-96F0-3D095410B56A},LEV29341353A,844171001455,98-21971,,Bike - Parts - Brakes,Hayes - stroker ryde brake lever pivot pin kit,hayes,,
+{2E4FC724-F45E-41D0-A1BD-3D6541FACA29},JAG71943483P,4715910025239,DCA074,BR0064,Bike - Parts - Brakes - Pads,"Jagwire - sport semi-metallic hydraulic disc brake pads - marta '09+, louise '07, julie hp",jagwire,,"MARTA '09+, LOUISE '07, JULIE HP  "
+{718638CA-6922-4502-B2A9-3DC6FF62A283},598644,821973353586,PD20CHEMAG,,Bike - Parts - Pedals,Chester Composite pedals magenta,Raceface,,
+{AEEFA6A3-F32D-465C-81A3-3DEDA8A504D7},MIC46296338K,086699936943,93694,TR7892,Bike - Parts - Tires,Michelin Protek cross tire - 26 x 1.85 clincher wire black,michelin,,
+{43A46790-5B45-427F-9A53-3E055CDC7CCB},543010,710845788505,00.2518.023.011,,Bike - Parts - Chains,"SRAM X01 Eagle Chain - 12-Speed, 126 Links, Silver",Sram,,
+{C977006D-2910-4066-83FA-3E49C49C29B1},QBP38318962R,011711,BR6848,BR6848,Bike - Parts - Brakes,QBP Br6848 '15 disc brake lever parts resrvoir,QBP,RESRVOIR,
+{0C25B7DC-76CC-4116-8454-3E54CDB812E4},JAG67231114M,4715910021163,71SS4445,CA4414,Bike - Parts - Cables & Housing,Jagwire - sport slick stainless derailleur cable - 4445mm,jagwire,,4445MM 
+{310A8CA7-F6DE-4069-BB69-3EEEF194869E},MIS41516478D,016363,TRADEOUT,TRADEOUT-11-SPEED,Bike - Parts - Cranks & Chainrings,"Misc Tradeout - x-sync chainring - 11sp, 32t",,BLK-32T,11-SPEED
+{9A8E8C76-262A-493A-95C6-3F31960EC56D},BRA36312697O,601479319244,520555,520555,Bike - Parts - Brakes - Pads,Brake Pad campagnolo black prince race pro,Bontrager,,
+{2B23FC5A-B6D1-4B23-8355-3F37BCE70C52},RIT37781214R,796941551434,55050007037,FW0188,Bike - Parts - Hubs & Skewers,Ritchey Zeta/GX WCS Freehub Body - Ratchet XDR,Ritchey,,
+{1E1D89CD-CB99-4245-9192-3F679C241BE0},CHA30966514K,072774162215,TL496BKB,16221,Bike - Parts - Tools,Black Ops - chain tension adjuster - 14mm axles,black ops,Black,14MM
+{37573E7C-350F-4924-AB18-3FD42DAAF21F},PRO6774590S,657993207352,PM203F,BR9642,Bike - Parts,Promax Post mount disc brake adapter for post mount framefork fits 203mm rotors,promax,,
+{C8576924-6B32-4374-BAAF-3FFB5D87CD55},DMR28719454N,5055308116897,DMR-G-BREN2-THICK-K,,Bike - Parts - Grips and Tape - Grips,Brendog Flangeless DeathGrip  Thick - Black,,,
+{43592FAB-BBFB-45BA-9EF2-402A73003A11},SHI56584855R,689228393110,EFDR2030X,,Bike - Parts - Derailleurs,"Shimano - claris fd-r2030 derailleur - 8s, triple 34.9mm w/ adaptor for31.8 and 28.6 front derailleur",shimano,Series Color,
+{4F241A85-6CA4-446A-9248-40769054DE03},5284668,710845862373,00.5018.176.005,,Bike - Parts - Brakes - Disc,Rotor Sram hs2 2-piece centerlock rounded rotor 180mm silver,Sram,,
+{40003130-A588-4A2B-936B-40B1B1210FE9},JB8413655015,4717784021454,894715,,Bike - Parts - Tires,Maxxis - overdrive elite belted wire tire - 20 x 1.35,maxxis,BLK-WIRE,20X1.35
+{71504867-620A-4719-BF15-40DE8C9A5D33},SEA41542866T,601842943090,5316451,5316451,Bike - Parts - Seatposts,Seatpost Part Bontrager Line Dropper Keyway Kit,Bontrager,Grey,
+{68CDD79D-8CAC-48DF-8C29-413F671083CF},QBP316424951,003884,FS2411,FS2411,Bike - Parts - Derailleurs,QBP Fs2411 '17 derailleur hanger #11 #11,QBP,,#11
+{D634B3C4-E70C-458A-87EC-41474BCF8D5C},260303,601479019007,260303,260303,Bike - Parts - Seatposts,Seatpost Part bontrager clamp 31.9-32.5 qr m6 carbonfriendly,Bontrager,,
+{FE8117DA-9F52-4372-93CB-41613D73B25C},540755,601479565191,540755,540755,Bike - Parts - Suspension,Suspension Part trek upper shock mount kit 2017 black,Trek,,
+{534A1982-66D0-40CA-AFBB-41A72AAEC451},1052528,689228881495,EMT200KRRXRA170,,Bike - Parts - Brakes - BrakeSet,"Shimano - hydraulic disc brake - bl-mt200/br-mt200 - right, 1700mm",Shimano,Black,"1700MM, R"
+{8A796555-1CFD-4BEB-8C25-4310B265AFE4},567599,601479868018,567599,567599,Bike - Parts - Cables & Housing,Housing Bontrager elite shift 5mm x 50m box black,Bontrager,,
+{EDA3ADF9-D9F2-466D-9158-4383534DE439},TEL42478006E,812367016491,07590,,Bike - Parts - Seatposts,Tellis Dropper seatpost 170mm 30.9x507mm w1x leve,sdg,,
+{4C30F255-C430-44CF-9694-43A18F3877B0},WOL66435027R,812719021807,SST-10430,CR0282,Bike - Parts - Cranks & Chainrings,"Wolf Tooth - drop stop chainring - stainless steel - 30t, 4 bolt, 104 bcd",wolf tooth components,Silver,"30T, 4 BOLT, 104 BCD "
+{452F0378-9251-48B5-A850-43AE836C6726},JB3379433205,004247,35586,35586-45/45,Bike - Parts - Wheels - Accessories,J&b 35586 '18 bearing head 1-1/8 45/45 blk1-1/8 45/45,j&b,BLK1-1/8,45/45
+{C0232B34-DD62-4C39-B0DE-441E650B68A4},MAX57184858D,4717784040899,TB00421100,TR1872,Bike - Parts - Tires,Maxxis Overdrive Excel Tire - 700 x 47 Clincher Wire Black SilkShield,Maxxis,,
+{A1F800D3-3281-450E-B142-4449F5A9252B},419645,689228096547,Y8BM9803A,,Bike - Parts - Tools,M70t4 Br shoe with nut and washer,Shimano,,
+{B1B71711-4859-49F5-95B0-44769689A905},BLA40854520K,768686065705,7085528,,Bike - Parts - Tubeless Accessories,Blackburn - plugger tubeless tire refills - black,blackburn,No Color,
+{918FD7AF-30D9-4E7D-8A72-44EA629BF952},20R34667938R,765250192010,11.5319.201.000,,Bike - Parts - Brakes - Pads,20-r Threaded brake pads black - box50 pair,avid,,
+{583C8C58-D9B9-49F3-8143-45A13C87CEA0},DIS39637172L,689228880672,EMT2012KRRDRA170,,Bike - Parts - Brakes - Disc,"Shimano - altus hydraulic disc brake assembled set - bl-mt201/br-ur300 - rear, 1700mm",shimano,,"REAR, 1700MM"
+{7CE67759-5E2F-4F98-A710-467E3F8F2828},1040179,810026604102,60410,,Bike - Parts - Tubeless Accessories,Orange Seal - endurance tubeless tire sealant with twist lock applicator - 4oz,Orange Seal,,4OZ
+{FC2E3595-DFBD-468B-9771-46C0BADBCB3D},87839,710845006500,00.0000.200.650,,Bike - Parts - Shifters,Sram - mrx comp 6sp rear grip shifter,Sram,,6SP
+{5F971C5B-5883-47CA-B625-472531410B79},1048792,601842451892,,1048792,Bike - Parts - Brakes - Disc,Rotor Tektro tr160-24 160mm 6-bolt,Tektro,,
+{EFC2B83B-8C50-44B2-9B69-47B2F28BD298},541747,847746019763,ST0071,,Bike - Parts - Tubeless Accessories,Stans - notubes tubeless tire sealant - 2 oz,Stan'S Notubes,,
+{3A3C664B-4DD5-46C5-B9E5-4875D103D619},430699,601479164974,430699,430699,Bike - Parts - Tubes,Bontrager - Tube Standard PV84 - 26 x 2.00-2.40 ,Bontrager,,
+{B3BD6C83-49D1-49BA-8802-48A1BC29B0AC},582849,710845813047,00.5018.037.027,,Bike - Parts - Brakes - Disc,Rotor Cntrln cl 200mm black rounded,Sram,,
+{C5712EB2-64A0-4691-9AA9-49387FC99D4C},JB231663895T,003276,2229'16,222916-,Bike - Parts - Cranks & Chainrings,"Sunlite - chainring - 46t, 5 bolt",sunlite,,46T-5BLT
+{6F3219FA-BDF4-424A-8D0C-49692B5D3684},559738,710845798245,00.5018.110.000,,Bike - Parts - Brakes - Levers,Sram - code a1 r disc brake and lever - front hudraulic post mount,Sram,,
+{D2BA058F-75FD-4081-8E39-49B2F35B373E},SHI42777357R,192790443881,ICNM8100138Q,,Bike - Parts - Chains,Shimano Xt cn-m8100 chain - 12-speed 138 links silver,shimano,,
+{F8018772-7626-42C6-BDDF-49C7B43BA74A},JAG54472962R,4715910039298,DCA765,BR2495,Bike - Parts - Brakes - Pads,"Jagwire - sport organic hydraulic disc brake pads - avid bb5, promax render, decipher",jagwire,,"AVID BB5, PROMAX RENDER, DECIPHER"
+{91E1FA11-C0BF-4501-A213-49CB7A02FE8E},87834,510845006452,00.0000.200.645,,Bike - Parts - Shifters,Sram Mrx comp shifter set 8 speed rear microfriction front includes stationary grips,Sram,,
+{FDFDA408-2200-41D4-8B68-49CD340B5602},578921,601479980734,578921,578921,Bike - Parts - Tires,Tire Bontrager r1 hard-case lite 700x32c,Bontrager,,
+{F6498D66-6240-471F-A7DB-4A8D27569A4C},STA30490237K,641300163653,16365,CE2422,Bike - Parts - Pedals,Stamp 2 Small Platform Pedals  Black,,,
+{35F89A20-EAB4-494E-B43F-4A9F35B80FF4},STR24747284R,689228325265,Y0E098010,,Bike - Parts - Grips and Tape - Tape,Shimano - ultegra st-r8020 brake lever hoods - black,shimano,,
+{31344A2B-5BBE-4688-9843-4ABE67FD57A5},VAL253748990,840226134765,AAD1777,,Bike - Parts - Suspension,Valt Steel coil spring 3.0 x 400,cane creek,,
+{62045D56-D708-4A4A-BFAC-4B5B279AC093},5260243,192790378619,ICNHG70111126Q,,Bike - Parts - Chains,Bicycle Chain cn-hg701-11 for 11-speedroadmtbe-bike c,Shimano,,
+{8449198A-0445-48F9-A0E6-4B7805316599},SHI29520162R,689228994560,Y8L298060,,Bike - Parts - Brakes - Pads,BR-9000 R55C4 CARTIDGE-TYPE BRAKE SHOE & FIXING BOLTSPAIR,Shimano,,
+{0053767B-FF75-465D-8491-4B93BF65B341},DIM41217014L,708752256484,,FW7208,Bike - Parts - Cassettes & Freewheels,Dimension 8-speed 11-30t nickel plated freewheel,dimension,,
+{E2E9706B-5BD2-4E35-A896-4C4D353DBC00},MAX57772757D,4717784040394,TB00394200,TR1871,Bike - Parts - Tires,Maxxis Overdrive Excel Tire - 700 x 40 Clincher Wire Black SilkShield,Maxxis,,
+{A242A81F-8AA3-4975-8795-4C5B2B001B50},W532573,601479548132,W532573,W532573,Bike - Parts - Hubs & Skewers,Skewer Trek abp 197 x 12mm old 246mm,Trek,,
+{5904B1C5-8827-46E6-89E0-4C765E28F67A},BIK37727666M,,#PL0M1,#PL0M1,Bike - Parts - Grips and Tape - Grips,Bike Works - screw-on grips - purple/black - 130mm,bike works,Purple/Black,130
+{522DCA86-BF1F-4270-B489-4D276E8BC49F},599448,601842664353,599448,599448,Bike - Parts - Tires,Tire Bontrager h2 comp 700x45c black,Bontrager,,
+{13E289EB-184F-4A23-94A1-4D3529BB468E},563602,710845809330,00.5018.115.000,,Bike - Parts,Am Db s900 aero hrd front f20 1100,Shimano,,
+{E5EACD67-D1A8-45FA-A53E-4DF958ACC813},431234,183720000205,AS0030,,Bike - Parts - Grips and Tape - Tape,Stan's Notubes - Yellow Rim 21mm tape - 10 yard roll,Stan'S Notubes,,
+{27D77DAC-6408-482D-A012-4DFC1E81921D},5292394,192790444208,EPDM8120,,Bike - Parts - Pedals,Pedal Pd-m8120 deore xt spd wo reflector wcleatsm,Shimano,,
+{717BFAD8-8EB1-457A-98A9-4F28A91E4F7F},JAG46834824K,4715910021385,JS453RPS,BR0033,Bike - Parts - Brakes - Pads,Jagwire Road Pro S Brake Pad Inserts Sramshimano Black,shimano,,
+{7A510CB4-980A-45BA-85F7-4FB46D8CD898},THE76571090K,811120032709,103-06160,CH2221,Bike - Parts - Chains,"The Shadow Conspiracy Interlock V2 Chain - Single Speed 1/2"" x 1/8"" 98 Links Half Link Chain Black",The Shadow Conspiracy,,
+{E7EBB304-E1C4-4A5D-BB43-4FB5113546EE},513834,601479243969,513834,513834,Bike - Parts - Tubes,Tube Bontrager standard fat 26 x 4.0-5.0 presta valve 36mm,Bontrager,,
+{BD816AB9-4803-42BD-8086-4FDF15886CCF},QBP40597760D,019736,BB4020,BB4020,Bike - Parts - Bearings,QBP Bb4020 '17 bearing retainer kit kit assorted,QBP,KIT,ASSORTED
+{CEF56E66-C284-4AB2-B56A-5132774F66D5},598116,763477003683,HCW-16.3,,Bike - Parts - Tools,Park Tool - chain whip pedal wrench - 15mm,Park Tool,,15MM
+{481ED1E2-8286-4626-A06F-5174B961BD5B},280673,765250001879,11.5012.949.000,,Bike - Parts - Brakes - Pads,"Sram - avid organic compound steel backed disc brake pads - juicy, bb7",Avid,,
+{779A7E29-71E9-42EF-9B1A-51F79D89A1FF},W565811,601842041055,W565811,W565811,Bike - Parts - Hubs & Skewers,Skewer Bontrager thru 12 x 122mm axle length black front,Bontrager,,
+{BC3D78FF-FE15-4023-B7EB-52D31E74EFCE},SRA917111532,710845892172,00.7518.174.000,RD0085,Bike - Parts - Derailleurs,SRAM Force XPLR AXS eTap Rear Derailleur - 12-Speed Medium Cage 44t Max Battery Not Included Iridescent Gray D2,SRAM,,
+{A56CB469-5201-4B4C-B07F-54114073614B},SEA20742083M,8050040144228,MTB40F,,Bike - Parts - Suspension,Skf - low-friction dust wiper seal kit = fox 40 mm (fits 2005-2015),skf,,40 MM
+{B51CBC5D-CC30-486B-BE89-544FD645A323},BLA30972538K,768686067655,7099760,7099760,Bike - Parts,Blackburn Outpost corner bag - black,blackburn,Black,ONE SIZE
+{4A61520A-866E-40CD-A0E1-5459D727A56C},SRA714031981,710845837500,00.6118.586.001,CK2184,Bike - Parts - Cranks & Chainrings,SRAM SX Eagle Crankset - 170mm 12-Speed 32t Direct Mount DUB Spindle Interface Black A1,SRAM,,
+{18DB63A8-30E6-40F4-81EC-54ACA110215F},CHA24129438K,710845413810,11.6215.091.000,,Bike - Parts - Cranks & Chainrings,"Truvativ - trushift chainring - black/aluminum - 36t, 104mm",truvativ,Black,36T 104MM
+{CAEA351C-B3C9-4FFA-AEC5-54DE1F78A461},PRO45413433R,708752133310,YCW-815A,CR1238,Bike - Parts - Tools,Problem Solvers - 8mm hex crank arm fixing bolt cap - pair,problem solvers,,8MM
+{2B584D92-A69C-4765-BDFD-554AF349E61B},551358,722589427077,VP-535 1/2 BK,551358,Bike - Parts - Pedals,Pedal Vp grind 1/2 inch black pair,Vp Components,,
+{8F69BCC9-BE0D-4A90-AB09-55DA59D697BA},PRO82450787S,657993207154,IS160R/IS180F,BR9632,Bike - Parts,Promax Post mount disc brake adapter for is mount framefork fits 180mm front and 160mm rear rotors,promax,,
+{095B53D8-EA1E-431F-AD5F-55FB0B1316BA},87841,710845006524,00.0000.200.652,,Bike - Parts - Shifters,Sram - mrx comp microfriction 3sp front shifter,Sram,,
+{634A861C-9DE0-4792-84DB-5674B19F44D6},FOR24279437R,611056143919,803-00-945,,Bike - Parts - Suspension,Fork Part Fox Dust Wiper Kit Flangeless 34mm Black,Fox,Black,
+{030A2B1B-5701-451F-9077-5677DEA7C2A7},W542094,601479745067,PD04IBT1700000000000,W542094,Bike - Parts - Electric,Crankset Ride bosch 2 without guard 175mm black,Ride+,,
+{FCE04254-B755-4EC4-8353-56F2486DA86B},STA34969064R,641300163622,16362,,Bike - Parts - Pedals,"Crank Brothers Stamp 2 Pedals - Platform Aluminum 9/16"" Raw Silver Large",Crank Brothers,,
+{29B3BE8C-49E3-4C98-B585-571BEF93C9E6},BRA48702884M,4717592009651,ABOT000072,,Bike - Parts - Brakes - Disc,Tektro - disc brake hydrolic hose kit comp-ws - black - 1800mm 5.5mm,tektro,,
+{9028A781-F973-4550-BBD3-57B340C4956B},87838,710845006494,00.0000.200.649,,Bike - Parts - Shifters,Sram - mrx comp rear derailleur shifter - 7 sp (shimano compatible),Shimano,,7 SP REAR
+{CE6FDE25-E4E4-40F7-B2EA-57D2457882AC},XDD26663472S,7630024365989,HWRABM00S3869S,,Bike - Parts - Hubs & Skewers,Dt Swiss - sram xd driver 3 pawl freehub body w/ no end cap -11/12 sp,dt swiss,,11/12 SP
+{5B2DB4E7-094C-458A-831F-58395A0FA92C},437939,768682737736,301620,437939,Bike - Parts - Hubs & Skewers,Skewer Trek qr-18 100mm bolt-on front black,Delta,,
+{51E3AA16-917C-43B4-8CC7-584286245D85},WMD337321302,009118,WMDROPOUT#12'16,WMDROPOUT#1216-#12,Bike - Parts - Derailleurs,Wm Dropout #12 '16 derailleur hanger 12 #12,,,#12
+{835045D2-6C58-4866-A6A3-584AD43ED829},SRA24350349B,,211191,21191,Bike - Parts - Bottom Brackets,Sram - Dub Pressfit 89/92 MTB - BB ,Sram,,89/92
+{3F99AC7D-D349-4E3C-905E-58553EBDBB82},427262,689228675629,ECSHG417128,,Bike - Parts - Cassettes & Freewheels,"Shimano - acera cs-hg41 cassette - 7 sp, 11-28t",Shimano,Nickel,"7 SP, 11-28T"
+{1BBA8BD3-6190-4389-89BB-58C6D800CF9E},WHE38698416R,836572002049,AXLE-12,HU1625,Bike - Parts - Wheels,Wheels Manufacturing axle 12 9.5 x 26 x 146mm qr,wheels manufacturing,,
+{00EAF86E-1FA6-45D4-9A6F-594396711B58},W504671,601479378760,W504671,W504671,Bike - Parts - Derailleurs,Frame Part trek hanger stranglehold black,Trek,,
+{8CCF5ECE-B31B-409F-AB28-5945D795A7AC},531122,601479477203,531122,531122,Bike - Parts - Tubes,Tube Bontrager standard fat 27.5 x 3.5-4.8 presta 36mm rv,Bontrager,,
+{9180C5A9-9FF2-4632-833B-595B656C1A25},527849,710845771774,00.7018.209.002,,Bike - Parts - Shifters,Shifter Sram gx trigger 11sp rh bk,Sram,,
+{0A4B1892-87AA-4D32-833E-59984D940359},63374,840226002309,.ASN0,,"Bike - Parts - Screws, Bolts and Fasteners",Star Nut 1 steel some 1-18 alum,Cane Creek,,
+{94C4D9D1-257A-4C7C-9823-59B4E934F223},SHI56881184K,689228413283,IRDT6000SGSL,RD0010,Bike - Parts - Derailleurs,Shimano Deore rd-t6000-sgs rear derailleur - 10 speed long cage black,shimano,,
+{A9286D6B-784B-46F7-B8A9-5AC102A43693},W543168,601479576173,IS-2-HBS/42/ACB,W543168,Bike - Parts - Headsets,Headset Part trek knock block headset assembly,Trek,,
+{B48BBAF9-46A9-4148-9A8D-5BA2C68914D6},SRA47885616R,710845779343,00.7018.210.000,LD4550,Bike - Parts - Shifters,SRAM eTap Blip Shift Buttons with 150mm Wires Black Pair,SRAM,,
+{E3F4CACA-8437-4EAB-B100-5BDA9CB68044},STR22875009G,192790470412,Y0F398030,,"Bike - Parts - Screws, Bolts and Fasteners",Shimano - 105 st-r7020 hydraulic brake shifter bleed screw w/ o-ring,shimano,,
+{1BE7F25F-2BCC-472C-BE8D-5C2573A61216},JAG315107820,4715910023242,BSA030,BR7879,Bike - Parts - Cables & Housing,Jagwire 90 degree brake noodle bag10,jagwire,,
+{BBE605F8-9693-4325-B011-5C3752BED04B},JB63974835,016520,6356,6356-26x1.75-,Bike - Parts - Rims,J&b 6356 '20 26x1.75-2.125 rim strip blk-20mm 26x1.75-,j&b,BLK-20MM,26X1.75-
+{6C452626-576F-48E4-B735-5C89976FD4B9},432586,836572000441,DROPOUT-6,,Bike - Parts - Derailleurs,Derailleur Hanger dropout 6,Wheels Manufacturing,,
+{752C62CB-5186-49E1-BD65-5CA421774029},JB7292775348,010814,73824,73824-26x1-3/8,Bike - Parts - Wheels,J&b 73824 '17 zac 20 wheel rear 26x1-3/8,j&b,REAR,26X1-3/8
+{E602B025-49C9-498C-9F58-5CEDEA682FF6},SCH31272439M,009867,S-W21150,S-W21150-,Bike - Parts - Derailleurs,Schwinn S-w21150 hg 1 bolt der hanger m,,,
+{472BCF10-2AA9-472E-AC98-5CF7DF0B2C8F},BMC28397928R,,,,Bike - Parts - Derailleurs,Bmc - dropout #48 derailluer hanger,bmc,,#48
+{E9E491F8-2DD1-4DDF-A23B-5D33F2231C85},553706,763477008848,TWS-1,,Bike - Parts - Tools,Torx Wrench set t9-t40 tws-1,Park Tool,,
+{1E898E2F-63CA-4EAC-B2A4-5D5C816F236E},SHI43863702K,689228602243,ESLTX50P7SAT,,Bike - Parts - Derailleurs,Shim Shftrtourney7spdset sl-tx50sis silverblack,shimano,Silver/Black,
+{D6C8BF9B-2DF3-42AB-8ECC-5D9D8064D99C},W436111,601479223084,W436111,W436111,Bike - Parts - Tubeless Accessories,Rim Tape bontrager tubeless rim valve road tlr 70,Bontrager,,
+{12E7ECFE-CCFB-4AD4-9E0D-5DADCF651AFB},JAG72557660,4715910023761,6009862,CA4416,Bike - Parts - Cables & Housing,Jagwire Sport Shift Cable - 1.1 x 2300mm Slick Stainless Steel For SRAM/Shimano Box of 100,Jagwire,,
+{25ECE559-B88B-4D2E-AE46-5DD3B6C29007},5252454,812719026673,AXLE15-110-FX,,Bike - Parts - Hubs & Skewers,Fox Replacement axle 15x110mm - black,Wolf Tooth Components,,
+{FEE646FE-5959-4915-BB47-5E653BC24EBB},BLA27647155A,4026495810500,11133427.02,SW6147,Bike - Parts - Tires,"Black Jack Tire 26x2.25"" Black NLA",,,
+{EDA8527E-E83C-4682-871B-5E8F85A19DF6},PRO59606359E,708752073609,03-000196,BR0381,Bike - Parts - Tools,Problem Solvers - centerlock to 6-bolt rotor adaptor kit - qr and 12mm axle,problem solvers,,12MM AXLE
+{8A7B0764-3E1D-479D-B673-5EC5649CC816},WHE42938842K,601479877614,W566965,W566965,Bike - Parts - Wheels,"Wheel Front Trek J35A/DC20 Rim Brake 24"" 28H QR Black",Trek,,
+{EB4E3DCB-CBE9-45E7-8A76-5EF8EB11042D},WMD332107219,009238,WMDROPOUT#79,WMDROPOUT#79-#79,Bike - Parts - Derailleurs,Wm Dropout #79 '15 derailleur hanger 79 #79,,,#79
+{C4EA2BEF-9D42-4404-BFC3-5F1697903605},SRA814649782,710845892189,00.7618.176.000,FD0007,Bike - Parts - Derailleurs,SRAM Force AXS eTap Front Derailleur - 2x12-Speed Braze-On Battery Not Included Iridescent Gray D2,SRAM,,
+{DFF3FA46-B5A2-4E6F-8FFB-5F3A7E42A628},PRO15274547K,768686252303,,,Bike - Parts,Pro Plugger - black,blackburn,Black,
+{D42F66CA-59D6-4764-A2C8-5F4D136CB1B7},582848,710845813030,00.5018.037.026,,Bike - Parts - Brakes - Disc,"Sram - centerline disc brake rotor - center lock, 180mm",Sram,,180MM
+{88D24AC4-ED58-4D4E-B209-5FE009A8846B},W439634,601479867615,W439634,W439634,Bike - Parts - Suspension,Suspension Part trek axle abp convert 148 drive black,Trek,,
+{5E215312-5186-41E2-AF8F-5FEA75B2EE72},CRA32503374R,400310004758,390-2030,FS0004,Bike - Parts - Cranks & Chainrings,Crank Bolts with Caps JIS-M8 Steel Pair,,,
+{D4E36B7F-57DB-4C60-A36E-60419F3C2B2B},564880,601479872916,564880,564880,Bike - Parts - Saddles,Saddle Bontrager boulevard fluid 205mm black,Bontrager,,
+{5E2E247C-3E64-4CB7-AD0E-608B9413ABD2},5307005,192790639550,IBPJ04CMFA,,Bike - Parts - Brakes - Disc,Brake Pad shimano metal finned disc pad j04cmf,Shimano,,
+{39660D32-AF88-4FBA-99AA-6183C8804ABF},AMA30620071K,710845840135,00.7918.093.000,,Bike - Parts - Derailleurs,Sram - universal derailleur hanger - aluminum - black,sram,,UNIVERSAL
+{4E24332E-6D82-4E91-B11B-61C1E19EE34D},AMA15958640R,,,AMA15958640R,Bike - Parts - Derailleurs,Amazon Der hanger,,,
+{BF9F96D1-C5CE-4C78-813F-62DB17A9F04E},5253146,710845853487,00.7518.137.000,,Bike - Parts - Derailleurs,GX Eagle 12sp Rear Derailleur Long Cage Lunar,,,
+{7DD0D9C9-717C-4C91-BAC6-6334F870F215},FOR49370139M,710845848384,00.4318.045.005,,Bike - Parts - Suspension,RockShox Dust Wiper Kit - 38mm Flangeless Ultra-low Friction SKF 6mm Foam Rings - ZEB A+/2021+,Rockshox,,
+{FCCECDB0-DAE9-44A2-8979-63FC4C3FCF7C},5286069,701822997683,29002-V,,Bike - Parts - Tubeless Accessories,Pro Tire insert 29 single with valve,Cushcore,,
+{8ADC9C1B-50D6-41A9-9C9A-63FE673A7F29},SRA58319437S,710845772498,11.5018.036.012,BR4956,Bike - Parts - Brakes - BrakeSet,Sram Bulk trail caliper piston seals for guide rrsrsc 10 caliper sets,sram,,
+{4AB76CBB-8E93-48EE-A58F-6403B2B9A90E},SHI52773961K,192790386959,ESTEF5002PV8A3,,Bike - Parts - Shifters,Shim Shifteracerasti3x82f st-ef500-2asetshftrbrkblk black,shimano,Black,
+{00470FEB-0D62-4BA0-9B80-6438FFD17389},SHI40175568T,689228731066,Y8VY98020,BR8948,Bike - Parts - Brakes - Levers,Shimano Bl-m396 bl-m395 brake lever lid unit left,shimano,,
+{88B48D6F-D2F1-4C0D-9149-643ED60B235E},579958,710845818011,00.2418.086.000,,Bike - Parts - Cassettes & Freewheels,"Sram - nx eagle cassette - pg-1230 - 12 sp, 11-50t",Sram,,"12 SP, 11-50T "
+{8C7A1CAA-6DFE-4E16-B826-644A20B778BA},527137,689228927278,IRD4700GS,,Bike - Parts - Derailleurs,Shim Rr dertiagrags10spd rd-4700 series color,Shimano,Series Color,
+{7BB3E526-C75B-492F-B8D0-645B81B8FC76},MIS326493272,005652,#42,#42-#42,Bike - Parts - Derailleurs,Misc Hanger#42 derailleur hanger #42 #42,,,#42
+{CBF42236-768A-48A3-947D-650C20BB55EF},SHI74296928R,192790327419,EBPL05ARFA,,Bike - Parts - Brakes - Disc,Shimano L05a-rf disc brake pad and spring - resin compound finned alloy back plate one pair,Shimano,,
+{A99CADE1-92B8-4563-85E7-65DE39229505},560047,689228623347,ICSR800011132,,Bike - Parts - Cassettes & Freewheels,Shim Csstultegra11spd11-32 cs-r8000 gray,Shimano,Gray,
+{37EC1CF2-D222-457A-862A-66967C360BB0},596757,192790447315,IM8120JLFXNA100,,Bike - Parts - Brakes - BrakeSet,Shim Disc brkxtftpost blbr-m8120pre-bledi-spec ev series color,Shimano,Series Color,
+{E0B67ADB-64D4-46FD-A61C-66A2206C73E3},GA326419467E,4260477068743,42411288,,Bike - Parts - Grips and Tape,Ga3 Grips large - midsummer blue,ergon,,
+{AFB2A1BD-E00A-4EE6-9330-6730F1C78DF1},64778,745889138795,64778,64778,Bike - Parts - Tubes,Tube Bontrager standard 16x1.50-2.125 schrader valve,Bontrager,,
+{CA3FA521-5C2D-45E0-9945-6764C343EEDA},PED41890685M,192790444185,EPDM8100,EPDM8100,Bike - Parts - Pedals,PEDAL PD-M8100 DEORE XT SPD W/O REFLECTOR W/CLEATSM,Shimano,,
+{72F1D315-D645-4943-B0DB-67DC1F32FB89},428058,710845674860,00.5315.035.020,,Bike - Parts - Brakes - Disc,"Sram - organic compound alluminum backed disc brake pads - level, elixir, db",Sram,,
+{25083DAB-C32C-4D4B-95E7-6813073920FF},5253015,192790620909,IFDM4100D4,,Bike - Parts - Derailleurs,Shimano - deore 2x10s front derailleur - fd-m4100-d,Shimano,,2X10S
+{7B576A1E-2954-40AF-9667-6854C6AA6AF9},280674,765250693005,11.5369.300.500,,Bike - Parts - Brakes - Disc,Disc Pads bb-5 mech - organicsteel pair,Avid,,
+{EEE6EC10-FD35-4D80-A5C8-6881B83B7C0D},JB239396715T,710845674846,210851,210851-74/30T,Bike - Parts - Cranks & Chainrings,"Truvativ - fsa road chaining - black - 30t, 74mm, 5 bolt",truvativ,5-BOLT,74/30T
+{409701F3-9B2B-4A32-AD8C-68FA54AB5319},527116,689228921283,ERDT3000SGSL,,Bike - Parts - Derailleurs,Rear Derailleur rd-t3000-sgs acera 9-speed,Shimano,,
+{F587FE6F-0880-4E19-BA45-690399309CF4},582177,601842090015,582177,582177,Bike - Parts - Tubes,Seatpost Part bontrager line elite dropper multi clamp lever,Bontrager,,
+{0ECCDD05-DE35-453C-A10B-6967738C7F1B},1040589,192790447551,ESLM2010LB,,Bike - Parts - Shifters,Shim Shifteraltus3spdpod sl-m2010wogdblack black,Shimano,Black,
+{1A2B5E40-1EDE-4C9D-B5F4-698F5E080162},5289291,710845848377,00.4318.045.004,,Bike - Parts - Forks - Suspension,RockShox Dust Wiper Kit - 35mm Flangeless Ultra-low Friction SKF,Rockshox,,
+{6A0843A4-3539-4CCB-8AF5-699713969423},TRU449522224,710845408205,11.6215.015.000,CR2385,Bike - Parts - Cranks & Chainrings,Truvativ Trushift 44t x 104mm bcd steel ring black v4,truvativ,,
+{9C924C97-09F2-4148-B65B-69C9D96E7011},430313,763477008572,VC-1,,Bike - Parts - Tools,Valve Core tool vc-1,Park Tool,,
+{DFB97D24-4BF0-4C10-B1B5-6B3FFBC95A54},BRE35216471K,5055308119379,DMR-G-BREN2-THICK-PN,DM2942,Bike - Parts - Grips and Tape - Grips,Brendog Flangeless DeathGrip  Thick - Pink,,,
+{9CDAB5F9-87CC-462B-A04A-6B67D9CB4ADE},MIC79517827E,4710495434193,FD-R539-B,FD0193,Bike - Parts - Derailleurs,"Microshift - rd-r539-b triple clamp mounted front derailleur - 9 sp - shimano compatible, 52-42-30t",shimano,,
+{8FBAF64D-DFFF-4886-A874-6B851F4EE37E},TOO37195757K,641300350176,K1500317,77543,Bike - Parts - Tools,Tool Crankbrothers Multi-17 Mini Tool Black,Crankbrothers,,
+{CA231BE6-B5AA-4680-A228-6C08D1944034},CHA45454777K,766759057107,ML57107,,Bike - Parts - Chains,KMC MissingLink CL571R 7.1mm Connector - 7 8-Speed Reusable Silver 2 Pairs/Card,Kmc,,
+{BB4E5ADF-06D5-4233-9545-6C5F494BBDA7},ROC455252680,710845868351,11.4118.091.839,,Bike - Parts - Suspension,Rockshox Rear shock mounting hardware - 3-piece 12 8 x 40,rockshox,,
+{A84453A9-D99D-4A69-A7B3-6CC1ADA6EAD4},004255,5021646008699,12269,,Bike - Parts - Brakes,"Clarks - organic disc brake pads - hayes sole, gx2, gx2, mx2, mx3, mx4",clarks,,VX828
+{318D2D6E-2F7A-42D8-99AD-6CD18D02C5E2},ROC436681332,710845767807,00.4118.123.002,,Bike - Parts - Suspension,Rockshox Monarch rl rear shock 6.50x1.50 165x38mm c2,rockshox,,165X38MM
+{60BF9C6D-E18B-47A0-AAF8-6D20349D05E7},5265147,601842643990,C2019125,5265147,Bike - Parts - Tires,Tire Continental ultra sport iii pure grip 700x25 folding bk,Continental,,
+{C962181C-7400-4106-BBDC-6D56B99189F6},STA30990808K,641300163639,16363,CE2426,Bike - Parts - Pedals,Stamp 2 Large Platform Pedals  Black,,,
+{7A628309-4CB6-444D-B85E-6D738F12B28E},ELI27612372A,875850000995,SP-H001,,Bike - Parts - Saddles,"Thompson - elite seatpost saddle clamp replacement nut, bolt, washer set",thomson,,
+{AF9DBDEB-68BA-46AB-8390-6DBBA47D894A},JAG44932310K,4715910009000,JS908H,BR0056,Bike - Parts - Brakes - Pads,Jagwire Mountain sport brake pads smooth post black,jagwire,,
+{C89CAC85-F9A2-4EA9-A72B-6DC7B5A6D82C},428057,710845674853,00.5315.035.010,,Bike - Parts - Brakes - Pads,Disc Pads xx xo elixir - metallicsteel pair,Avid,,
+{EA2987AE-0CF7-45A5-82E5-6E5E94970142},78154,745889206418,78154,78154,Bike - Parts - Tubes,Tube Bontrager thorn resistant 24x1.9-2.125 schrader valve,Bontrager,,
+{58881A0A-1365-41E1-9715-6E5F8715C0DC},543462,689228867215,ISLM8000LBP2,,Bike - Parts - Shifters,"Shimano - deore xt sl-m8000-l front shifter - 2x, 3x",Shimano,Series Color,
+{43194A5B-E75F-42DC-B601-6E85683F1E15},5254503,710845749629,11.7518.032.000,,Bike - Parts - Derailleurs,Der Part sram pulley x01dh,Sram,,
+{B34A6B3F-491F-4B1A-8713-6ED7A049A90F},439463,689228310865,ESLRS45P7A,,Bike - Parts - Shifters,Shim Shifterrevo7 Spd L  R Sl-Rs45Shift Lever Set 09' Silverblack,Shimano,Silver/Black,
+{C64CC48E-C960-4480-A13E-6F01A2C5A5DD},429337,766759710361,CN10361,,Bike - Parts - Chains,X10 10sp chain silverblack,Kmc,,
+{EB839DF4-5C39-434B-A994-6F17B773142C},BIK29840582M,,#RL01,#RL01,Bike - Parts - Grips and Tape - Grips,Bike Works - screw-on grips - red - 130mm,bike works,Red,130MM
+{1073EEC5-842A-42C1-A517-6F8D546BD5A8},FOR24406846R,611056143841,803-00-933,,Bike - Parts - Suspension,Fork Part Fox Dust Wiper Kit Flangeless 36mm Black,Fox,Black,
+{DE493DF5-D412-428E-9B23-6F9EE643E214},519516,763477007285,SW 7.2,,Bike - Parts - Tools,"Park Tool - triple spoke wrench - sw-7.2 - 127, 130, 136",Park Tool,,
+{5211EB6E-2586-4FF1-BB30-7005E486E234},428277,689228034402,Y8B598040,,Bike - Parts - Brakes - Pads,Shimano - disc resin brake pads - m02 - m555 and spring,Shimano,,
+{35CAD713-D952-472F-B12D-705A08A36A32},FTU21433455Z,714636165889,,J069523190,Bike - Parts - Cables & Housing,Ft Upper cable insert 1sz,full tilt,,1SZ
+{689A4CCC-FB05-44A4-B30A-709060AFBEA8},GIA309446827,760343270453,27045,,Bike - Parts - Frame parts,Giant - derailleur hanger - rear fcr 07,giant,,
+{F5EDA8E6-9884-417A-A703-70927AEBCD4E},BRE33437551K,5055308113582,DMR-G-BREN-THICK-K,,Bike - Parts - Grips and Tape,DMR DeathGrip Flanged Grips - Thick Lock-On Black,DMR,,
+{869DCD5F-6E8B-42DE-8028-710BFE726C80},KHS36698989M,4718251592057,09-582-900,09-582-900 -31.8-MM,Bike - Parts - Frame parts,Bryton - out front mount - 31.8mm,bryton,BLACK,31.8-MM
+{5383932C-FDE8-4F53-AD40-726633A7F91B},572184,601479914951,572184,572184,Bike - Parts - Seatposts,Seatpost Part bontrager line dropper key way kit,Bontrager,,
+{7C010C5E-F7EE-49C2-909E-727E2B52962F},549413,689228320420,Y5Y898060,,Bike - Parts - Derailleurs,Shim Der pulleyrd-9070 11-speed dura acegdetnsn,Shimano,,
+{97C65F0D-1BA9-4C1B-9069-72B7B46CA8A5},579250,710845813825,11.6418.001.001,,Bike - Parts - Tools,Sram - dub bb preload adjuster kit,Sram,,
+{8F5EBDD8-0D14-4F92-A460-731BB4E49145},579286,601842029671,579286,579286,Bike - Parts - Tires,Tire Bontrager xr4 team issue 29x2.60 tlr,Bontrager,,
+{D940609B-52ED-4CFD-A434-732D5C72F8AF},75681,763477101334,GP-2,,Bike - Parts - Tools,Park Tool - glueless individual patch kits,Park Tool,,
+{C9E72423-C27F-4C18-A594-73462EFCB6FE},601136,766759001018,ML01018,,Bike - Parts - Chains,Missinglink-cl559r Connector 5.88mm 2card,Kmc,,
+{AD329840-09F1-4DB5-A754-73FDC63513E7},BOT45395561L,689228326453,EBBES300I13,,Bike - Parts - Bottom Brackets,"Shimano - octalink bottom bracket - bb-es300 - 70mm, 113mm",shimano,,"70MM, 113MM "
+{CC803CDC-D1D3-4B19-B1A5-748BD6FB1968},R5544856855N,689228392212,Y8PP98060,,Bike - Parts - Brakes,Shimano - road brake pad replacement inserts for carbon rim - r55c4-a - 24-28mm,shimano,,R55C4-A
+{7DFCE9C5-75E5-42EB-AC5A-75676AF202D6},20042658681O,710845808777,00.4315.032.646,,Bike - Parts - Tools,200 Hour1 year service kit 18 pike b1 charger2 solo,rockshox,,
+{42E8632E-79D4-4003-B802-75E540FA8CA0},75191,763477000293,AWS-10,,Bike - Parts - Tools,Folding Hex wrench set aws-10 - blue,Park Tool,,
+{6050A39D-8CBE-45B1-99FD-75F1E953663C},688465,846635012687,688465,688465,Bike - Parts - Tires,Tire Electra cruiser vintage diamond 26 x 2.35 cream,Electra,,
+{C302CC0E-8569-43DC-8D72-761A3F8DB2E5},JAG789388751,4715910005507,DCA001,BR7800,Bike - Parts - Brakes - Pads,"Jagwire - sport semi-metallic hydraulic disc brake pads - hfx-9, mag, mx1",jagwire,,"HFX-9, MAG, MX1"
+{30E260A4-7C64-4CC7-9B4E-764E58785A3A},5289289,710845848353,00.4318.045.002,,Bike - Parts - Suspension,Rockshox - dust wiper kit - 32mm flanged low friction 5mm and 10mm foam rings,Rockshox,,32MM
+{F406A213-6834-4B2C-8961-766CB8C5DD22},BIK35672591M,,#BL0M1,#BL0M1,Bike - Parts - Grips and Tape - Grips,Bike Works - screw-on grips - blue/black - 130mm,bike works,Blue/Black,
+{83F95A6D-3315-46A6-BE50-767D25D5DF2D},582230,601842078440,582230,582230,Bike - Parts - Tubeless Accessories,Pop Bontrager tlr tire sealant display box 12 x 3oz,Bontrager,,
+{C9942B46-7C9F-4DDA-A5C0-7688B1EC364A},FOR24488261R,821973387321,803-01-493,,Bike - Parts - Suspension,Fork Part Fox Dust Wiper Kit Flangeless 38mm Black,Fox,Black,
+{ADE802B1-5D35-497E-A347-768BB98F1853},433291,192790818108,ISMRT86L2,,Bike - Parts - Brakes - Disc,Shimano - Brake Rotor Disc SM-RT86 203MM 6-BOLT,Shimano,,
+{B12CD027-A7D3-4B76-A7B0-769680EC2C32},HAY48686514T,844171001509,98-21976,842190512,Bike - Parts - Brakes - Pads,Hayes - stroker ryde semi-metallic disc brake pads,hayes,,
+{A28951A2-77F4-437D-A576-76A4A57F2246},432454,601479178650,432454,432454,Bike - Parts - Tubes,Tube Bontrager standard 700x28-32c 27x1-18-1-14 sv 48mm,Bontrager,,
+{4BE1F450-D622-4D06-9A66-76BE215B0B9D},TOO3520772R,641300163981,K2016398,5265137,Bike - Parts - Tools,Tool Crankbrothers M13 Multi-Tool Silver,Crankbrothers,,
+{2212EA9C-B98F-47E8-B661-77C4FBCC3762},415459,601479080199,415459,415459,Bike - Parts - Tubes,Tube Bontrager standard 26x2.50-2.80 presta valve 48mm,Bontrager,,
+{665ED3A2-7288-4805-A58C-783DC8C94D22},BRE33945887M,5055308116958,DMR-G-BREN2-THIN-GU,DM2933,Bike - Parts - Grips and Tape - Grips,Brendog Flangeless DeathGrip  Thin - Gum,,,
+{D6935322-235A-4C45-AF55-78465F144DE1},W581273,601842089378,W581273,W581273,Bike - Parts - Seatposts,Frame Part trek domane isospeed cover matte dnister black,Trek,,
+{995D36ED-B5E1-46E3-92EF-784DE1B432D0},5253130,710845853050,00.2418.109.000,,Bike - Parts - Cassettes & Freewheels,Fh Cass sram xg1175 10-52 xd 12s bk,Sram,,
+{D31AECE0-541D-4B4E-85B0-785204400DD7},BEA438302562,072774190881,6000-2RS,19088,Bike - Parts - Bearings,Bearing Sunlt cartridge 6000-2rs 10ix26ox8w bgof2,sunlite,,
+{F63FA591-D8DE-42F6-AD8F-78DC59A1408A},BRA41924689O,689228637450,ISMBH59SBL170,,Bike - Parts - Brakes - Levers,Brake Hose sm-bh59-sb black 1700 mm straightbanjo,shimano,,
+{BE8E53C2-7D7B-4C2A-B5FF-78FA2F881929},527847,710845771743,00.7018.208.002,,Bike - Parts - Shifters,Sram - gx trigger rear shifter - 10sp,Sram,,10SP
+{DFDE17AA-EF36-45AB-A56F-7A3E6622E3C0},506132,601479217960,506132,506132,Bike - Parts - Cables & Housing,Cable Bontrager comp shift 100 count bulk box,Bontrager,,
+{0E82EAE0-0B4E-4CCA-80EB-7A4E548A1A1A},432302,601479176779,432302,432302,Bike - Parts - Tires,Tire Bontrager connection trail 29 x 2.00,Bontrager,,29 X 2.00
+{37A9B424-BD88-403D-8216-7ACFF0A80051},JAG45802601R,4715910041093,DCR042,BR1310,Bike - Parts - Brakes - Disc,"Jagwire - sport sr 1 disc brake rotor - silver - 140 mm, 6-bolt",jagwire,Silver,140 MM 6-BOLT
+{0D8EEFB9-E88E-4792-8374-7B39427F2474},W529223,601479565252,W529223,W529223,Bike - Parts - Suspension,Suspension Part trek mino 2017 black small,Trek,,
+{5342764E-C21C-46E3-AACC-7B5702413ABC},AVI665388997,765250690073,,,Bike - Parts - Brakes - Pads,Brake Pad Avid Juicy/BB7 Disc Standard Compound Pair,Avid,Brown,
+{BA8B6A89-E29E-48FB-865E-7B9590E0FEB1},JAG82169364E,4715910039090,DCA799,BR0434,Bike - Parts - Brakes - Pads,"Jagwire - sport organic hydraulic disc brake pads - sram red 22 b1, force 22, cx1, rival 22, s700 b1",jagwire,,
+{FFECE3C8-38A3-4488-B7D3-7C1126CAEC01},5270771,836572002070,901-AN,,"Bike - Parts - Screws, Bolts and Fasteners",Wmfg Outer axle nuts9.0x1 1 per bag,Wheels Manufacturing,,
+{7210D8E0-1260-42E0-99A6-7C25B29AE05E},1042546,847746052654,TP0002,,Bike - Parts - Tubes,Dart Tool tool plus 2 darts - blacksilver,Stan'S Notubes,,
+{3239F6BD-FC79-4FA2-B4BE-7C5A04A7986B},66943,745889092080,66943,66943,Bike - Parts - Tubes,Tube Bontrager standard 12-12x2-14 schrader valve,Bontrager,,
+{528298BC-B99E-4EB0-A24A-7C7AC314BEDB},QBP365746658,848712067290,B37877,,Bike - Parts - Tires,Crown Gem - tubless tire - 24 x 2.8,vee tire co.,TUBELESS,24X2.8
+{C0DDAB51-84DC-4B06-9540-7C7F22151764},64783,745889071504,64783,64783,Bike - Parts - Tubes,Tube Bontrager standard 26x1.25-1.75 presta valve 48mm,Bontrager,,
+{AF2E5421-714D-4737-8EF7-7CD424420EE2},SEL36606483S,400310069542,390-2001,,"Bike - Parts - Screws, Bolts and Fasteners",Self-extracting Crank bolt 24mm nbd cranks,full speed ahead,,
+{1E3D60FC-A02D-4258-B523-7CD553710EBB},5273584,601842778753,5273584,5273584,Bike - Parts - Tires,Tire Bontrager r4 classics handmade clincher 700x28c,Bontrager,,
+{1FD98715-EB4B-4AD2-94A1-7CF69DD69EB9},541745,847746065593,ST0068,,Bike - Parts - Tubeless Accessories,Stans - tubless tire sealant - 16oz,Stans,,
+{0EFF9D73-A9F7-421B-86CC-7D4DAED351F4},MIC46702848T,657993171417,Y-RD201,RD0226,Bike - Parts - Cables & Housing,Microshift - rear derailleur barrel adjuster kit,microshift,,
+{036F5C5D-0AE0-4122-88E0-7D583B77FF82},5291940,811079024626,DROPOUT-326,,Bike - Parts - Derailleurs,Derailleur Hanger dropout 326,Wheels Manufacturing,,
+{B0309581-2EF5-4352-B583-7E83BA79121A},W587161,601842215678,W587161,W587161,Bike - Parts - Grips and Tape,Grip Trek kids' 92125mm trek black,Trek,,
+{593BDBE9-3696-4AE6-81EC-7E93AFB5E7CB},562742,022255354042,KSMDBOILO,,Bike - Parts - Brakes,Shim Mineral oil1 litr bottle 33.8 oz. 1 l,Shimano,,1 L
+{4720356F-13D0-44B0-8718-7ED7E0B13C0D},432293,689228299450,IIRDM786GSL,,Bike - Parts - Derailleurs,Shimano - xt rd-m786-gs medium cage rear derailleur - 10 sp,Shimano,Black,10 SP
+{E5C248D7-9FE4-41B1-8E8F-7F1FBDDDF3F1},QTU53420516E,708752053984,529003C9,TU5730,Bike - Parts - Tubes,Q Tubes - 22 x 1.75 tube - schrader valve,teravail,,22 X 1.75
+{22599D46-639D-47C7-ABF4-7F54DFE5D827},MOU47663834N,192790506128,ESMMAF180PP2A,ESMMAF180PP2A,Bike - Parts - Brakes - Disc,MOUNT ADAPTER FOR DISC BRAKE CALIPER SM-MA-F180P/P2 FIXIN,Shimano,,
+{AA4DEBB9-A9B5-48EF-A020-7F7572EC90C8},DIM38735271K,708752082489,SAR-32T-BCD104 S.B. BLK,CR1907,Bike - Parts - Cranks & Chainrings,Dimension 32t x 104mm middle chainring black,dimension,,
+{7A1577F7-85C4-4F8D-B64F-7FC7DD43B66D},JB239148500M,012172,21666,21666-94-MM,Bike - Parts - Cranks & Chainrings,"Origin 9 - alloy blade chainring - 34t, 94mm, 5 bolt",origin 8,34T-5BLT,94-MM
+{2435C4F3-E3D3-4485-B194-80B316AF2477},579327,601842031438,579327,579327,Bike - Parts - Electric,E-bike Part e-bike rib powerfly charge door frame bracket,E-Bike,,
+{C4CC4182-5712-4BDB-9337-80C0EAB0F102},40S24645147K,840226095226,BAA0087,,Bike - Parts - Headsets,"Cane Creek - 40 series is52/30 integrated lower headset - black - 1-1/8""",cane creek,,"1-1/8"""
+{ED108F22-DAF7-4F36-9D9D-81318A7BFDCE},BIK34385525M,,#AL01,#AL01,Bike - Parts - Grips and Tape - Grips,Bike Works - screw-on grips - baby blue - 130mm,bike works,Baby Blue,130MM
+{665BB090-0AFA-45D9-ACF7-81CB7DB292D0},SEL41440686S,8021890570192,8466DG0A18096,SA0541,Bike - Parts - Saddles,Selle Royal avenue saddle - black moderate women's,selle royal,,
+{AE76E6D5-9CA8-4883-AFE8-81D91462CCDD},5270772,836572001646,9524-AN,,Bike - Parts - Hubs & Skewers,Axle Nut steel - 389.5mmx24tpi ea,Wheels Manufacturing,,
+{39595004-53AF-4169-BEFC-81D9FE87FEC7},534753,763477003911,MT-20,,Bike - Parts - Tools,Park Mt-20 multi-tool,Park Tool,,
+{B67100F2-8EE4-43BB-8389-8221EE3A5118},64789,745889071566,64789,64789,Bike - Parts - Tubes,Tube Bontrager standard 700x28-32c presta valve 48mm,Bontrager,,
+{9968A695-74A7-4AFF-9BAD-825DB5A3E131},432585,836572000434,DROPOUT-5,,Bike - Parts - Derailleurs,Wmfg Derailleur hanger 05,Wheels Manufacturing,,
+{6F999E29-C0DE-400E-9BC0-826327A81B79},510193528875,195748039549,,SH01133,Bike - Parts,5.10 Freerider pro sh 7.5,five ten,,
+{15A50342-7727-473A-885D-82A7EC3DEA91},5253071,192790620404,ESLM31002LB,,Bike - Parts - Shifters,Shift Lever sl-m3100-2l alivio left 2-speed rapidfir,Shimano,,
+{DD93B76D-7FCF-4432-B4B7-8374FF8F5046},BRA344988143,5021646009917,VX843,11274,Bike - Parts - Brakes - Pads,Clarks - vx organic disc brake pads - vx843,clarks,,VX843
+{2876CC7B-9D73-41CA-9D5A-8380ADBB836F},598494,846635011468,598494,598494,Bike - Parts - Saddles,Saddle Electra ergo welastomers black,Electra,,
+{8D121272-165F-4F38-B5E7-83A21DE2A78B},5253024,192790447544,ESLM3152LB,,Bike - Parts - Shifters,Shim Shifteraltus2spdpod sl-m315-2lwogd black,Shimano,Black,
+{54C86963-136E-47E3-B90A-8407BB880FCE},TMA18724109O,817180020434,26-TMAC-BLK,DY7001,Bike - Parts - Pedals,Deity TMAC Pedals Black Anodized,,,
+{92ABDC59-E969-45EC-9AA2-842C2B81D1E0},87831,710845006531,00.0000.200.653,,Bike - Parts - Shifters,Sram - twist shifter 3.0 - 8s - pair,Sram,,8S
+{AD530535-F40A-42BC-9771-846E8A6D7575},536958,710845780752,00.3018.117.000,,Bike - Parts - Electric,Am Etap battery charger and cord,Sram,,
+{7ADFB278-CB2C-4026-B950-851A084DD09A},WMD415642487,019648,WMDROPOUT-217,WMDROPOUT-217-#217,Bike - Parts - Derailleurs,Wm Dropout-217 '17 derailleur hanger #217 black #217,,BLACK,#217
+{A177840E-8E68-4CBD-A9F5-8591B51AF274},DIS344828C,760251075393,KS-D630,,Bike - Parts - Brakes - Pads,"Kool Stop - organic disc brake pads - shimano m960, m965, m966, m975, m765 xtr",shimano,,
+{4A70E2DD-0FE4-43CB-82AB-85E4D92D03BF},SAL276709750,657993126516,QR SPRINGS,QR2101,Bike - Parts - Hubs & Skewers,Salsa Qr skewer springs bag of 10,salsa,,
+{0CB6C740-CD05-4AEE-A3D5-8609DD596E13},BRA295602700,7613052135182,N0BA20120S0100,,Bike - Parts - Spokes,Brass Nipple 14g12mm - black box100,dt swiss,,
+{8DC8DEE9-528B-43DC-9B1E-8610C47C8305},BRA358878706,072774120819,BK984STZ,12081,Bike - Parts - Brakes - Disc,Brake Part or8 disc bolts-m5x10 torx pkof6,origin8,,
+{18517FE8-CC83-49B5-9E47-865C75C29739},MIC72262752E,4710495434728,FD-R539F,FD0106,Bike - Parts - Derailleurs,Microshift - r539 triple braze on front derailleur - 9 sp - shimano compatible,shimano,,9 SP
+{6099E21F-9897-478C-B391-8698A99A52DE},5268104,094664047907,NDCRL-03-R3,5268104,Bike - Parts,Light Nite ize nitedog rechargeable led collar large blue,Nite Ize,,
+{B2F04388-83FA-487E-84A1-870B2F30B63A},417160,710845412332,00.6415.004.000,,Bike - Parts - Bottom Brackets,Truvativ - power spline bb set - 68x108 alloy cups,Truvativ,,68 X 108
+{4A6606EC-A424-4BE3-9886-872276260ADB},70041,745889141740,70041,70041,Bike - Parts - Brakes - Pads,Cable Part bontrager guide tube 90 degree,Bontrager,,
+{549E7846-DD08-4CAC-AA42-87A1A1D2F81C},78155,745889206425,78155,78155,Bike - Parts - Tubes,Tube Bontrager thorn resistant 26x1.9-2.13 schrader valve,Bontrager,,
+{3C5AA0DC-6B6F-4AEC-A724-8844783484D5},WOL52529886K,810006807868,10432-B,,Bike - Parts - Cranks & Chainrings,Chainring Wolf Tooth 104 BCD 32T 4-Bolt Drop-Stop B Black,Wolf Tooth Components,Black,
+{5D64A551-DC1C-4DD6-8A7E-88C087E2B419},511084,601479224579,511084,511084,Bike - Parts - Tires,Tire Bontrager connection trail hard case 26 x 2.0,Bontrager,,
+{37A08D33-0BCE-4F2C-B97E-89008FB815E6},SMS44537369P,192790646947,ISMSH56A,ISMSH56,Bike - Parts - Pedals,SM-SH56 CLEAT SET W/O CLEAT NUT MULTIPLE RELEASE MODE / P,Shimano,,
+{A9B5DE5C-4080-46D7-9EBE-890C64274C0E},W600629,601842564066,W600629,W600629,Bike - Parts - Suspension,Fastener Trek bolt m10x1x21mm 18.5mm head black,Trek,,
+{0D73AFD5-053C-4566-8D17-893F2CE5ACAD},W509392,768682957745,W509392,W509392,Bike - Parts - Suspension,Suspension Part trek bolt m10 x 1 x 18 alloy black,Trek,,
+{90A411F5-03E7-4857-829A-894287566E24},JB132184096M,019802,12335,12335-330-MM,Bike - Parts - Cables & Housing,J&b 12335 '17 straddle cable canti 330-mm,j&b,CANTI,330-MM
+{02DCAE32-9580-450F-A284-89556BB87A9D},5253021,192790447520,ESLM3157RA,,Bike - Parts - Shifters,Shimano - altus sl-m315-7r right rapidfire plus shifter - 7s,Shimano,Black,7S
+{9775FA08-F41C-4142-8328-896FF4F04AD8},W285875,768682278178,W285875,W285875,Bike - Parts - Suspension,Suspension Part trek bolt m10x1x19 alloy,Trek,,
+{7349F9EA-F29E-43B6-AB58-89E55C36B09A},W333725,768682832486,W333725,W333725,Bike - Parts - Brakes,Housing Part trek brake housing c-clip black,Trek,,
+{1EAC684A-6966-4B64-A261-8A412D4FCA89},XDC39224616S,796941550895,RC5097,RC5097,Bike - Parts - Hubs & Skewers,XD Conversion Kit WCS Road/CX for 17mm Axle Hubs,BTI,,17MM
+{69CB4613-E95C-4EA0-A411-8BAC1D5A5619},W584134,601842307038,W584134,W584134,Bike - Parts - Frame parts,Trek 2020 fuel ex main pivot d-nut,Trek,,
+{0C0E04E6-5191-4F67-BC02-8BC87AB171AA},JAG959090747,4715910038734,DCA785,BR0436,Bike - Parts - Brakes,Jagwire Sport organic disc brake pads - for shimano s700 m615 m6000 m785 m8000 m666 m675 m7000 m9000 m9020 m985 m987,shimano,,
+{9CC5AA57-90C1-4BE6-A733-8BC880CB499E},87842,710845002892,00.0000.200.289,,Bike - Parts - Chains,07a Cs pg-950 11-32 9 speed,Sram,,
+{2BCDB2C5-60A7-42C8-8CAF-8BF1262B591B},597115,192790447513,ESLM20109RA,,Bike - Parts - Shifters,Shim Shifteraltus9spdpod sl-m20109rwogdblack black,Shimano,Black,
+{BD639577-5312-4FCD-BEE5-8BFBDC84C082},542900,710845782275,00.5318.010.004,,Bike - Parts - Brakes - Pads,"Sram - sintered compound steel backed monoblock disc brake pads - hrd, level ult, level tlm",Sram,,
+{DD32BE71-3138-4C46-93C5-8D3FC28F4A58},5252390,812719022491,FATPAWGRIP-BLK,,Bike - Parts - Grips and Tape - Grips,Fatpaw 9.5mm thick36mm dia grip set blk,Wolf Tooth Components,,
+{07F91813-E718-44F9-A1D8-8D88E7023C4D},579266,601842029473,579266,579266,Bike - Parts - Tires,Tire Bontrager xr2 comp 29x2.20,Bontrager,,
+{C1826A06-E821-4A29-A369-8E3B7F0EA151},598643,821973353616,PD20CHERED,,Bike - Parts - Pedals,RACEFACE CHESTER PEDALS - PLATFORM COMPOSITE 916 RED,Raceface,,
+{20E89DA3-0532-46FB-AE4F-8E7A8FBCAB43},BAC26966321R,,,,Bike - Parts - Headsets,Backshop Parts - headset spacer,,,
+{A2B67893-F162-4D19-8827-8E8DA394ACD7},SHI29427753S,192790639505, IBPG04SMXA,,Bike - Parts - Brakes - Pads,Shimano - Metal Disc Brake Pads - G04S,Shimano,,
+{89FD9807-3547-42C9-A031-8EC14B7D5BDE},580649,601842091197,580649,580649,Bike - Parts - Rims,Rim Tape bontrager rubber rimstrip 27in700c 12mm 50 pack,Bontrager,,
+{3FD27E9E-8D6A-4807-90BF-8ED27AAF8E0D},DIS30523072R,844171035337,98-28142,,Bike - Parts - Brakes - Pads,Hayes - mechanical disc brake pads - cx-5,hayes,,CX-5
+{138F0AA2-C1F6-4CFE-8433-8F1A1B95FC72},562292,689228415058,ISMCN90011A,,Bike - Parts - Chains,Shim Chain quick link11spd sm-cn900-112 pair,Shimano,,
+{6D468738-ABCF-46F3-B5BA-8F289A9EA7BB},BRE34853711O,5055308116934,DMR-G-BREN2-THIN-C,DM2909,Bike - Parts - Grips and Tape - Grips,Brendog Flangeless DeathGrip  Thin - Camo,,,
+{3D3A9DA0-E99E-4CD8-9F4E-8F9C727954B9},FTT26148992R,714636494552,,J095511100,Bike - Parts - Cables & Housing,Ft Topmiddle cable 255mm clear,full tilt,Clear,255
+{CA11CD25-C622-4F49-88A0-8FD1C809569E},433498,710845716683,00.2518.003.000,,Bike - Parts - Chains,Sram - chain powerlock silver 11s quicklink,Sram,,
+{1D245B88-A3C9-446E-8FA7-8FDC422F6432},FIT31699119E,5055168026602,HBSPC33,,Bike - Parts - Brakes,Fitting Kit hope 5mm tubing - 0d in-line,hope,,
+{04E28A44-BA7D-4158-93EA-90883AD7F0E9},WMF18931131G,836572000274,1411-AN,,Bike - Parts - Hubs & Skewers,Wmfg Axle nut14mm2bg,wheels manufacturing,,
+{79D6A0D8-6544-43BB-B520-90FCF194BA36},CHA335517544,710845807909,00.2518.027.007,16559,Bike - Parts - Chains,Chain Con link sram 12sp eagle sil cdof4,sram,,
+{00FE7779-713E-48EC-A950-918D6275DA98},5268602,710845862946,00.2518.044.011,,Bike - Parts - Chains,SRAM Rival AXS Chain - 12-Speed 120 Links Flattop Silver D1,Sram,,
+{99DBE938-0438-4DFC-BEAE-91AA7F5E0A7F},VAL31365011K,601479861965,530750,W530750,Bike - Parts - Tubeless Accessories,Valve Bontrager Tubeless 40mm Black,Bontrager,,
+{2510A667-1900-40E6-B2EC-91D6D6682A60},5307941,811079027245,DROPOUT-404-02,,Bike - Parts - Derailleurs,Wheels Manufacturing Derailleur Hanger UDH 404-02,Wheels Manufacturing,,
+{B59E8FD8-1B98-47EE-8E65-91E84F3DE511},WHE384718971,811079023964,DROPOUT-301,FS2519,Bike - Parts - Derailleurs,Wheels Manufacturing Derailleur Hanger - 301,Wheels Manufacturing,,
+{CA67DD38-8E0D-432C-89CE-921F0705BC57},567356,601479897964,567356,567356,Bike - Parts - Saddles,Saddle Bontrager commuter fluid 165mm black,Bontrager,,
+{2C24619E-3E9F-4299-BB4F-924B36652182},SEA31916297C,072774517206,SP688BKB,51720,Bike - Parts - Seatposts,Sunlite - alloy seatpost clamp - 31.8mm,sunlite,,31.8MM
+{3270FC0D-279F-4B68-B62F-92524F4A9A89},SRA89715933K,710845886171,,,Bike - Parts - Chains,Chain Part SRAM Powerlock T-Type 12-Speed 4-Pieces Black,Sram,Black,
+{751E46B3-A535-420D-A281-92F2785E5A7C},ISS41248292T,708752108875,ISSI CLEATS PAIR 98A W,PD2720,Bike - Parts,Issi - spd cleats - 2-bolt 4 degrees float,issi,,
+{572F1741-0253-448F-9B0C-92F4D85DB286},599194,601842316856,599194,599194,Bike - Parts - Saddles,Saddle Bontrager verse comp 155mm black,Bontrager,,
+{EE8F6657-2BD0-4E59-84E6-930F6B0A993C},579825,710845813085,00.2518.031.011,,Bike - Parts - Chains,"SRAM NX Eagle Chain - 12-Speed, 126 Links, Gray",Sram,,
+{D8347FE1-06D0-409B-922A-9316D829E801},559668,710845805516,00.5018.037.013,,Bike - Parts - Brakes,Sram - centerline disc brake rotor - silver - 6-bolt 160mm,Sram,,6 BOLT 160MM
+{490D4770-2056-4CEF-8E43-93BCFBBEB901},LOG30558363K,796941331456,33022617001,,Bike - Parts - Headsets,Logic Headset ec3428.6ec3430 black,ritchey,,
+{E0903733-FB58-4E0C-B685-93F1840D4B0D},CON62253720R,4019238581447,01006420000,TR8111,Bike - Parts - Tires,Continental Gatorskin Tire - 700 x 32 Clincher Folding Black PolyX Breaker,Continental,,
+{61E9BB46-B6E7-4439-935C-943C4DB4345A},587874,766759057305,MISSING LINK,,Bike - Parts - Chains,Missinglink Ii connector cl573r 7.3mm 2card,Kmc,,
+{12288C2D-5652-4C3E-B035-95309F42F869},STA30526381K,641300160041,16004,,Bike - Parts - Pedals,"Crank Brothers Stamp 7 Pedals - Platform Aluminum 9/16"" Black Small",Crank Brothers,,
+{1102D636-8103-448E-9F4A-9580D5FC9F97},JB4229699074,014996,47941,47941-24,Bike - Parts - Rims,"J&b 47941 '16 519 rim black 24""",j&b,BLACK,"24"""
+{835ACD62-4BE4-440B-8BFD-9642FF8CBF28},550956,710845791048,00.2518.027.003,,Bike - Parts - Chains,Sram - powerlock 12sp eagle chain link - rainbow,Sram,Rainbow,12SP
+{9314CC42-1120-44E8-A95A-973DB83F126F},QTU41632012M,708752041882,570005X6,TU6796,Bike - Parts - Tubes,Q-tubes 29 x 1.9-2.3 schrader valve tube 700c x 47-52mm,teravail,,
+{EF7D35F8-F36E-410D-B126-9775CC9EE192},275858,763477004437,IB-3,,Bike - Parts - Tools,I-beam Mini fold-up w chain tool ib-3,Park Tool,,
+{EBF248EA-54AC-4361-90AF-9825CE13682E},589199,836572008768,DROPOUT-167,,"Bike - Parts - Screws, Bolts and Fasteners",Derailleur Hanger dropout 167,Wheels Manufacturing,,
+{34EE7102-D970-4BBF-861C-985878DFA085},IRC53424058K,4571244748394,190587,TR0129,Bike - Parts - Tires,Irc Tire - boken double cross tubeless ready folding tire - 700 x 42c,irc tires,,700 X 42C
+{AF9617A4-D790-401E-8B06-986B86D63B6B},527519,689228326507,EBBES300C26,,Bike - Parts - Bottom Brackets,Bottom Bracket bb-es300 splinedhollow-type axle bsa,Shimano,,
+{3D8E02A7-1F5A-40F0-BB3E-98ABBAF0CC0B},280794,710845503467,85.2737.270.073,,Bike - Parts - Chains,Sram - chain powerlock black 10s quicklink,Sram,,
+{07B113EC-D1BE-4F36-A79D-9915FCF3AF3F},567598,601479868001,567598,567598,Bike - Parts - Cables & Housing,Housing Bontrager elite brake 5mm x 50m box black,Bontrager,,
+{98D2AE21-6877-4111-AD68-993DA74554DD},TUB49725051M,601479015511,88453,88453,Bike - Parts - Tubes,Tube Bontrager Standard 27X1-38-1-34700X35-44Cpresta33mm,Bontrager,,
+{B48E8153-AF69-43F5-85CC-9942252CD8EB},SHI74863233R,192790327389,EBPN03ARFA,,Bike - Parts - Brakes - Pads,RESIN PAD W/ FIN N03A-RF PAD SPRING 1 PAIR IND.PACK,Shimano,,
+{77313B82-60F2-40AD-BCDE-995F371819C9},563784,601479845828,563784,563784,Bike - Parts - Grips and Tape - Tape,Bar Tape bontrager gel cork black,Bontrager,,
+{5CA3A7AD-A7D2-446A-8FAB-9967F8B4C5D4},5253065,192790617725,EMFTZ5106428CP,,Bike - Parts - Cassettes & Freewheels,"Shimano - multi-speed freewheel sprocket - 14-28t, 6sp, mf-tz510-6-cp",Shimano,,"14-28T, 6SP, MF-TZ510-6-CP"
+{60580508-87ED-477A-810C-997499EFC8DD},83747,763477007957,TL-5,,Bike - Parts - Tools,Heavy Duty steel tire levers tl-5 pr,Park Tool,,
+{499B7221-41C6-445E-A302-9976EEE2D327},LIZ30318741K,696260758104,PLUDS100,,Bike - Parts - Handlebars,Lizard Skins - handle bar plugs - black,lizard skins,Black,
+{982D47EF-9C86-436D-A868-99DF37901F53},W282091,185843000124,6901LLUMAX,,Bike - Parts - Bearings,Max Cartridge bearing 6901 12x24x6,Enduro,,
+{306C9AC9-8E50-48FB-A147-9A283F3F0561},PRO39762248L,710845907395,00.5318.045.002,GS41322,Bike - Parts - Tools,Pro DOT V2 Bleed Syringe Hose Kit With DOT5.1 Oil,,,
+{458AE14C-D468-445D-B3F9-9AE24A512C1A},STA32196492K,847746064558,ZH2577,FW3305,Bike - Parts - Hubs & Skewers,Stan's No Tubes E-Sync Freehub - XDR Black,Stan's No Tubes,,
+{89BC0061-2259-407B-9B57-9B01BB607847},SHI431115790,192790639512,IBPK04TIMXA,,Bike - Parts - Brakes - Pads,Shimano - metallic ti disc brake pads - k04ti,shimano,,
+{1045496D-459A-46E4-9696-9B67B9B187B6},556433,4019238371390,01000840000,,Bike - Parts - Tires,Continental Gatorskin Tire - 700 x 25 Clincher Folding Black PolyX Breaker,Continental,,
+{A7E84B19-2869-44BD-A194-9BE13BDF3058},JB8343036145,018413,894806,894806-700x25,Bike - Parts - Tires,J&b 894806 '17 padrone tire blk-fold 700x25,j&b,BLK-FOLD,700X25
+{A1CE182A-CA21-48C9-B73E-9C2A3F7F2977},W593548,601842294178,W593548,W593548,Bike - Parts - Wheels - Rear,Wheel Rear bontrager connectiondc22 27.5 disc sv 32h black,Bontrager,,
+{BC2FADA2-1699-475A-B774-9C6DAF9A8F70},533017,601479458790,533017,533017,Bike - Parts - Saddles,Saddle Bontrager sport women's black,Bontrager,,
+{0C31DEE0-CF8F-463C-9232-9CD744278A40},559906,689228392137,EFDM2000DSX6,,Bike - Parts - Derailleurs,Shimano - altus fd-m2000 triple down-swing dual-pull front derailleur - 9 sp,Shimano,Series Color,9 SP
+{E879BB82-5A70-44CC-9570-9CF6072B9984},543243,192790639475,IBPL04CMFA,,Bike - Parts - Brakes - BrakeSet,Shimano - metalic disc brake pads w/ fin - l04c,Shimano,,L04C
+{C8C825A8-F378-47E9-B077-9D228008C8E6},582160,710845716720,00.4315.032.350,,Bike - Parts - Forks - Suspension,Basic Service kit 14 pike solo air 35mm,Rockshox,,
+{EE30FA85-4095-4AD1-998D-9DDC65E514C9},QBP317498828,019719,FS2478,FS2478,Bike - Parts - Derailleurs,QBP Fs2478 '19 derailleur hanger #78 #78,QBP,,#78
+{451A9CBE-FEE6-46C8-AF4D-9DF685189018},CNM23562521S,192790597201,Y04598026,Y04598026,Bike - Parts - Chains,CN-M732 7/8S CHAIN PIN 100PCS,Shimano,,
+{5CD2CBF9-B455-4C57-A971-9E085D70B226},5277241,192790598338,ESMRT66S,,Bike - Parts - Brakes - Disc,Brake Rotor Disc SM-RT66 S 160MM 6-BOLT TYPE,Shimano,,
+{2D6387F4-C6AF-4D6D-985F-9E0F87E98CFA},DIA41612206E,657993062944,GORDO-AD996TW-UNIV-BLA,BR9006,Bike - Parts - Brakes - BrakeSet,Diatech Gordo ad996tw front or rear black u-brake,diatech,,
+{CCFA739E-AB5B-4C55-8EAB-9E250544B04D},478334E,846635011291,478334E,478334E,Bike - Parts - Seatposts,Seatpost Part electra clamp wrackmounts 31.8 silver alloy,Electra,,
+{BB9216B9-C907-48E9-9ADA-9E4CBA92D268},428154,710845673757,00.7515.081.000,,Bike - Parts - Derailleurs,Sram - x5 rear long cage derailleur - 10sp,Sram,Black,10SP
+{6453063D-8C92-4363-88C4-9E82AD52B94B},JB6356878845,016517,6387,6387-16x1.75,Bike - Parts - Rims,J&b 6387 '20 16x1.75 rim strip blk-20mm 16x1.75,j&b,BLK-20MM,16X1.75
+{A84CCC0F-0DCA-4F07-9FAC-9FB09AE73E82},5304329,3611720061515,8146,,Bike - Parts,Look - delta 9 degree cleats - red,Look,,
+{38718D43-9576-49F1-AC7C-A05CD9EA5F9C},580651,601842091210,580651,580651,Bike - Parts - Rims,Rim Tape bontrager rubber rimstrip 26in 20mm 50 pack,Bontrager,,
+{F2F758FE-C7E3-4369-873A-A12CAB0B0E3E},SRA66588218E,710845610035,00.7015.095.010,LD4528,Bike - Parts - Brakes,Sram - rival doubletap right shift/brake lever - carbon fibre - 10sp,sram,,10 SP
+{EAF4230C-4F04-424B-8251-A14C900964F3},521414,821973209661,BBXTTM,,Bike - Parts - Bottom Brackets,Team-xc Bb cup set 6873mm,Raceface,,
+{FBA01AE0-F2A2-4DDA-9C32-A1C01A1098FF},SRA29297810T,710845729997,11.7518.019.000,DP5958,Bike - Parts - Derailleurs,SRAM X5 Rear Derailleur Pulley Kit,SRAM,,
+{FE3EDBBD-B68C-4293-9674-A1C183E7D0AF},MUC18190872T,5037835206005,206,TL0418,Bike - Parts - Tools,Muc-Off Five Brush Set,Muc-Off,,
+{9704255B-717C-42CE-B7C0-A1CC3824ECB2},552376,601479686414,552376,552376,"Bike - Parts - Screws, Bolts and Fasteners",Light Part bontrager flare rack quick mount kit,Bontrager,,
+{CAD40145-8074-4C98-9D7F-A233750E79E1},WHM19151984P,192790740737,Y3GD10000,Y3GD10000,Bike - Parts - Hubs & Skewers,WH-MT501 OUTER SEAL CAP,Shimano,,
+{60B70E32-9A07-4013-A05E-A2441A2833E9},SAG26941196R,016098,GEARCABLE,GEARCABLE-,Bike - Parts - Cables & Housing,Sa Gear cable s.a. gear cable gear,gear for sports,GEAR,
+{4B69267C-672B-41D3-AB42-A28D49D1999F},579350,601842029756,579350,579350,Bike - Parts - Tires,Tire Bontrager h5 hard-case lite 26x1.50 reflective,Bontrager,,
+{63499436-6EB1-490E-B801-A2A703C0CCC4},66940,745889091281,66940,66940,Bike - Parts - Tubes,Tube Bontrager race x lite 700x18-25c presta 60mm red cap,Bontrager,,
+{22480AFD-EB14-4A9A-9F8B-A2E03664A14A},SHI35524983K,710845663017,11.7015.033.070,,Bike - Parts - Shifters,Shifter Sram rep trigger clampbolt kit bk,sram,,
+{7F31DB73-0B14-4801-8C5C-A33A9577C7F7},MUC37999418E,5037835205374,20132,,Bike - Parts - Tubes,Muc-off - puncture plugs - 10 refill pack,muc-off,,
+{5E91364B-3265-456D-954D-A374D6EF4E28},5286066,701822997577,70027,,Bike - Parts - Tubeless Accessories,Xc Tire insert set with valves 29,Cushcore,,
+{89CAEB00-F91D-48D4-931D-A422193D86EB},BLA26133232K,768686587269,7102601,7102601,Bike - Parts,Blackburn Local ride kit - black,blackburn,Black,ONE SIZE
+{341A6289-FE68-4A7E-A71B-A42E5058246A},566763,601479861934,566763,566763,Bike - Parts - Tubeless Accessories,Bontrager Rectangular Base TLR Valve Stem 40mm,Bontrager,,
+{BAB9C0DA-4019-4AB6-B72F-A4874A8AC3D8},432399,810191012511,432399,,Bike - Parts - Bearings,Abec-3 Cartridge bearing 6903 17x30x7,Bontrager,,
+{9CE114E1-4D9B-4F02-970A-A51552122E91},W597345,601842491553,W597345,W597345,Bike - Parts - Tubes,Valve Bontrager tubeless 60mm black,Bontrager,,
+{2C721B62-8972-43B1-9093-A51F609F7177},BEA44579392K,601842824719,5256340,W5256340,Bike - Parts - Bearings,Bearing Trek Suspension ABP UDH Max 30x20x7mm Black,Trek,,
+{81A01BAF-CFD5-4991-BE67-A54D1B2B24EC},PRO42177863M,708752012851,1P212-7209A0S,ST0237,Bike - Parts - Seatposts,"Problem Solvers - seatpost shim - 3.7mm, 27.2-30.9",problem solvers,,"3.7MM, 27.2-30.9 "
+{25944DE1-99D8-4E31-909E-A56EB00138AA},FOX25617763L,821973421032,925-06-005,ST0097,Bike - Parts - Seatposts,Fox Transfer lever - universal,fox,,
+{BD66FFF2-B77B-44AA-B723-A5BF2DA27D47},529880,689228869059,ESMBB52B,,Bike - Parts - Bottom Brackets,Shimano - deore bb52b hollowtech bottom bracket - english,Shimano,Silver,
+{4E2DE00D-147B-4DBE-940B-A5C56A101C4C},WTB3094312E,714401655898,W065-0589,SA4082,Bike - Parts - Saddles,"WTB Volt Saddle - Chromoly, Black, Wide",WTB,,
+{3C8D1831-A895-49E3-84B1-A5D8A7559C11},SAD39118725K,601842638699,5254981,5254981,Bike - Parts - Saddles,Saddle Bontrager Verse Short Comp 145mm Black,Bontrager,,
+{F66CEAE8-1E86-4508-82A4-A60C62E57149},FTL22716030K,886745361268,,J1302010022,Bike - Parts - Cables & Housing,Ft Lower cable 350mm black,full tilt,Black,350
+{C67C1518-C7B1-4FEC-B08E-A6692D35220E},1051603,763477007872,THH-1,,Bike - Parts - Tools,Sliding T-handle hex wrench set thh-1,Park Tool,,
+{94DCF7B4-4A8C-42B3-A2DA-A66B533BD9F2},BEA43945152K,601842824733,5256338,W5256338,Bike - Parts - Bearings,Bearing Trek Suspension 3803 Max 26x17x10mm Black,Trek,,
+{C5D714BB-4C9D-4FA4-A7ED-A66E5BA0731B},582231,601842078457,582231,582231,Bike - Parts - Tubeless Accessories,Tire Part bontrager tlr tire sealant 3 oz single,Bontrager,,
+{0A47CEE4-2985-48B3-95BA-A6D39A12C0AB},TEK56474386K,4717592037289,ABHD000813,BR8024,Bike - Parts - Brakes,Tektro Hd-t280 disc brake and lever - rear hydraulic post mount black,tektro,,
+{9FDC5254-A8B6-4BA5-90BF-A84BBEBDD89C},FTL2286438K,714636023851,,J069506152,Bike - Parts - Cables & Housing,Ft Lower cable 330mm black,full tilt,Black,330
+{BB1A818D-DC0C-4C47-A278-A884963DB075},562934,601479830206,562934,562934,Bike - Parts,Fender Trek verve anthracite frontrear set,Trek,,
+{F0413C61-3225-460A-B882-A895A1A43872},TEK51601436K,4717592009385,ABBR000188,BR7554,Bike - Parts - Brakes - BrakeSet,Tektro 985 bmx sidepull front freestyle caliper brake black,tektro,,
+{E0FA22EE-3400-4EA3-8C8A-A896BB83727E},MIN26961718R,4717784031873,TB96908100,,Bike - Parts - Tires,Minion Dhf tire 27.5 x 2.8 dcexotr,maxxis,,
+{49E83EEB-C5A8-4B93-8305-A9198EEE1C8F},429643,689228602557,Y8JA98020,,Bike - Parts - Cables & Housing,Shimolive  insert fits sm-bh90 brake housing,Shimano,,
+{2B343094-18EC-4837-80F6-A9BFB5A4BF24},433072,763477004826,PP-1.2,,Bike - Parts - Tools,Hydraulic Brake piston press pp-1.2,Park Tool,,
+{5BABA647-DB5A-4B45-B833-AA7208703850},SHI31298791T,689228403093,Y1P417000,,Bike - Parts - Cranks & Chainrings,Fastener Shimano fc-6800 crank arm fixing bolt,Shimano,Black,
+{3742064F-667E-448E-A1D0-AA7E3F498019},TUB44490043E,601479046959,403697,403697,Bike - Parts - Tubes,Tube Bontrager standard 14x1.75-2.125 schrader valve,Bontrager,,
+{1C625F84-4F37-410E-BCE8-AAA50CB7D274},599450,601842376775,599450,599450,Bike - Parts - Tires,Tire Bontrager h2 comp 700x32c black,Bontrager,,
+{43ACD4EF-2AC8-4745-B0F2-ABACD1389BDF},5253026,192790622200,ISLM4100RAP1,,Bike - Parts - Shifters,Shimano - deore shifting lever - sl-m4100-r - 10 sp,Shimano,,"REAR, 10 SP"
+{56714B54-490A-41DD-95E6-ABAF31898BEF},RIM22696576L,5037835204766,20077,,Bike - Parts - Grips and Tape - Tape,Rim Tape 28mm - 50 meter roll,muc-off,,
+{D9A12491-0B36-467B-8023-ABD75932E524},BRA30402285L,072774127047,BK851SLZ,12704,Bike - Parts - Cables & Housing,Brake Part strdl cbl sunlt 380mm sgl,sunlite,,
+{46F4ECA4-5D10-4068-8C8E-ABED7AC950CC},WMD389082123,019646,WMDROPOUT-83,WMDROPOUT-83-#83,Bike - Parts - Derailleurs,Wm Dropout-83 '17 derailleur hanger #83 black #83,,BLACK,#83
+{CD19937D-13FE-4AD3-99EE-ABF0A262A194},SRA797091091,710845837562,00.6118.587.001,CK6397,Bike - Parts - Cranks & Chainrings,SRAM SX Eagle Crankset - 170mm 12-Speed 32t Direct Mount Power Spline Spindle Interface Black A1,SRAM,,
+{27191135-17B4-494F-9155-AC05DF0614CD},WMF28461848G,836572000724,101-AN,,"Bike - Parts - Screws, Bolts and Fasteners",Wmfg Outer axle nuts10x1 1 per bag,wheels manufacturing,,
+{756DCAED-1890-4152-82D5-AC211ABDD656},W273935,745889426311,W273935,W273935,"Bike - Parts - Screws, Bolts and Fasteners","Trek Main pivot axle nut, black m16 x 5mm",Trek,,M16 X 5MM
+{E0A89F1B-97BF-4086-890B-AD0A3CA894E9},ROT39967542G,192790442242,IRTMT800LE,IRTMT800LE,Bike - Parts - Brakes - Disc,ROTOR FOR DISC BRAKE RT-MT800 L 203MM W/LOCK RING,Shimano,,
+{006B5E0A-A5CE-40D3-B5FE-AD867DCDE762},TUB17291081T,5037835205367,20131,,Bike - Parts - Tubes,Muc-off - puncture plug tubeless repair kit,muc-off,,
+{66D00300-F1F2-4BE2-80C9-ADB6E7F0CB64},600718,601842330562,600718,600718,Bike - Parts - Hubs & Skewers,Hub Part bontrager 108 shimano ms freehub nopawlssprings v2,Shimano,,
+{59D6B7D6-ADFD-4930-9BD8-AE263B12016C},FTA28853961Z,714636493319,,J095513090,Bike - Parts - Cables & Housing,Ft Alum lower cable anchor kit 1sz,full tilt,,1SZ
+{5F54FCED-C2C6-401F-98E2-AE56EAF74D2E},432397,185843000162,6804LLB,,Bike - Parts - Bearings,Abec-3 Cartridge bearing 6804 20x32x7,Enduro,,
+{D0303223-A874-445C-9478-AF6164A9A360},HIG45532525D,641300163714,16371,,Bike - Parts - Seatposts,Highline 3 dropper post - 100mm - 31.6 - remote not included,crank brothers,,100MM
+{BC606610-4FA8-4F3F-AC24-AF91502306AF},598544,763477001191,BBB-4,,Bike - Parts - Tools,Big Blue book of bike repair 4th edition,Park Tool,,
+{10557039-A962-45D1-97E5-AFC8C2159935},430722,183720000267,AS0015,,Bike - Parts - Tools,Stan's Notubes - notubes presta/schrader valve core remover - red,Stan'S Notubes,Red,
+{FB6D513B-3F79-4EEE-89A6-B028227621FF},QTU47397172E,708752053991,53401063,TU5732,Bike - Parts - Tubes,Q-tubes 24 x 1.5-1.75 schrader valve tube 150g low lead valve,teravail,,
+{137434ED-9AD6-4CDD-B2FD-B04698230ED1},422611,710845644689,93.2712.114.105,,Bike - Parts - Chains,11 Cn pc1051 114li w pwr.lck 10s 1pc,Sram,,
+{3FE2B14D-E7CA-4F59-906C-B13E2BDE1B9E},JB6394067635,017657,64012,64012,Bike - Parts - Wheels,J&b 64012 '20 mtb single-wall wheel frnt-36h 26x1.5,j&b,FRNT-36H,26X1.5
+{D0B27861-348B-454B-B5AF-B157A9857D06},TUB396047750,888571030851,,63735,Bike - Parts - Tubes,Sunlite - 24 x 1.75-1.95 tube - 32mm schrader valve,sunlite,,24 X 1.75-1.952
+{AA8A3154-9EA9-4EF2-B6CE-B15E867519AF},W543605,601479623129,W543605,W543605,Bike - Parts - Cables & Housing,Cable Part trek hydraulic housing entrance guide 2017 black,Trek,,
+{00345E5C-06EF-417D-BD31-B1A41AC20FA6},JAG67654398M,4715910023921,73SS3100,CA4412,Bike - Parts - Cables & Housing,Jagwire Sport derailleur cable slick stainless 1.1x3100mm sramshimano tandem,shimano,,
+{A6230DEA-777D-4B02-9704-B1A8797BB87D},5285937,659424991588,10008,,Bike - Parts - Tubes,Cushcore - 44mm valve set - black,Cushcore,Black,44MM
+{BC6C547F-1009-4CEC-AF8E-B2D21EE2CCD0},CRA28842508K,072775224653,,22465,Bike - Parts - Cranks & Chainrings,"Sunlite - one piece forged steel crank arm - 115mm, 24 tpi",sunlite,,
+{64DCD7F6-3490-4E7A-88C4-B2D85E125D18},CRA65992358L,641300167477,16747,PD8147,Bike - Parts - Pedals,"Crank Brothers Stamp 7 Pedals - Platform Aluminum 9/16"" High Polish Silver Small",Crank Brothers,,
+{EB6B07D3-EFAE-4637-ADB3-B2D9C64CE512},CHA21848333T,710845750700,00.4318.007.000,,Bike - Parts - Tools,Rock Shox - charger standard damper bleed kit,rockshox,,
+{59AC8412-23E4-440A-BDE6-B4214F8DD79A},SHI422804992,017096,Y8J498010,Y8J498010-M6x40.2,Bike - Parts - Brakes,Shimano Y8j498010 '20 br-m8000 caliper bolt m6x40.2,shimano,,M6X40.2
+{4647B7B8-989C-46C6-9915-B4855A5B7D66},478332E,846635011277,478332E,478332E,Bike - Parts - Seatposts,Seatpost Part electra clamp wrackmounts 28.6 silver steel,Electra,,
+{64D04E3C-3D7D-400E-9814-B4B0A6664A32},TEK38335397R,4717592033205,ABRT000137,BR1627,Bike - Parts - Brakes - Disc,Tektro Tr203-24 disc rotor - 203mm 6-bolt silver,tektro,,
+{43757059-95D1-491B-B9C9-B4B4A0EA086B},MUC45861884K,5037835205862,20284,TL0107,Bike - Parts - Tools,Muc-off - rim stix tire levers - black,muc-off,Black,
+{17E5251A-8EED-4979-9E1D-B4BE6458C16E},AGG27633505D,4717784033235,TB85984100,,Bike - Parts - Tires,Aggressor Tire 27.5 x 2.5 trdcwtdd,maxxis,,
+{B0B3FF8F-EB07-41C2-BC2C-B4C6FD8115BF},W564408,601479891528,W564408,W564408,Bike - Parts - Tubes,Tube Bontrager 20x2.8-3.0 schrader valve,Bontrager,,
+{59EF37BA-A08C-4AC4-8159-B517BEA0D9C9},599953,689228749344,ECNHG71T116Q,,Bike - Parts - Chains,Shim Chaincn-hg718 spd 116lalivio-altuswq-link silvergray,Shimano,Silver/Gray,
+{4802C660-38F6-4E8F-B823-B53C5F1EC54D},W311727,601479076703,W311727,W311727,Bike - Parts - Cables & Housing,Cable Part trek single stop wbolt bolt-on,Trek,,
+{5BD9879F-A926-40A7-9C87-B5CDA312D074},ROT38103613C,192790451978,ESMRT64SEC,,Bike - Parts - Brakes - Disc,Shimano - Grx Sm-Rt64-S Deore Centerlock Disc Brake Rotor With External Lockring - 160Mm,shimano,,160MM
+{53651392-F21C-4F6C-A6B3-B5D6D4151FDD},428160,710845638831,00.7915.042.000,,Bike - Parts - Brakes,Shiftbrake Lever hoods red force rival apex,Sram,,
+{94088383-2563-4FD5-8341-B62285CA6118},FRS337010561,002965,FR803-00-377'11,FR803-00-37711-,Bike - Parts - Suspension,Frs 803-00-377 '11 32 talas3 service kit '11,,,
+{1A35F2F8-6F42-461B-B72A-B70C0B38AFF1},427132,601479138678,427132,427132,Bike - Parts - Tires,Tire Bontrager xr2 29 x 2.20 comp,Bontrager,,
+{C5CE7501-58C7-435F-90E7-B71B5A1CFDDD},SHI87455585K,689228594272,EFCT4060EX422XL,CK0594,Bike - Parts - Cranks & Chainrings,"Shimano - alivio front chainwheel crank set - 175mm, 32-22t",shimano,,"175MM, 32-22T"
+{8D70F41E-F7A4-4806-9B39-B757D0CEA5ED},75211,763477002778,DCW-3,,Bike - Parts - Tools,Double 1718mm cone wrench dcw-3,Park Tool,,
+{FDA38D68-2A80-4DB9-B300-B76D4D50B4A1},SRA26187591S,710845763878,11.2018.026.002,HU2529,Bike - Parts - Hubs & Skewers,Sram Mth 746 wheel hub bearings,sram,,
+{E977D893-3450-4101-B15C-B7A1CB4B046D},FTL22905161K,714636023868,,J069506154,Bike - Parts - Cables & Housing,Ft Lower cable 355mm black,full tilt,Black,355
+{325D1A95-619E-41F5-8CC1-B7A1E21A1522},5254524,710845311123,11.4015.067.000,,Bike - Parts - Suspension,Rockshox - domain lyrik dust seals and foam rings - 35 mm,Rockshox,,35 MM
+{D8DFF6E1-DC33-46B8-93FA-B7DB0391255D},5253129,710845853098,00.2418.107.002,,Bike - Parts - Cassettes & Freewheels,Fh Cass sram xg1299 10-52 12s xd rainbow eagle,Sram,,
+{8040CBCA-1EAF-4711-896D-B804DB3BDC57},W593445,601842238578,W593445,W593445,Bike - Parts - Electric,Frame Part e-bike allant9.9zouma sup charge port cover,E-Bike,,
+{3E8C5C89-C474-4A71-89FC-B85A26830E16},5290116,745889103182,5290116,5290116,Bike - Parts - Frame parts,Paint Touch-up 30ml tk542-p gloss hex blue,Trek-Diamant,,
+{541BA4FE-F250-4643-B697-B8916782ED59},DIS31781641R,844171000557,98-16314,,Bike - Parts - Brakes - Pads,Hayes - hfx semi-metallic disc brake pads,hayes,,
+{5C65AED8-A1AB-40C2-93DF-B8AA043F8FCA},434483,601479194957,434483,434483,Bike - Parts - Tires,Tire Bontrager xr3 29 x 2.20 comp,Bontrager,,
+{9A241EDF-72A4-4885-9BA4-B8B27043B6A3},SHI427835904,017097,Y8J498020,Y8J498020-M6x34.4,Bike - Parts - Brakes,Shimano Y8j498020 '20 br-m8000 caliper bolt m6x34.4,shimano,,M6X34.4
+{CCFBAEF1-7F85-4FB0-8E0E-B8B93891B8B9},1052527,689228881488,EMT200KLFPRA100,,Bike - Parts - Brakes - BrakeSet,"Shimano - hydraulic disc brake - bl-mt200/br-mt200 - left, 1000mm",Shimano,Black,
+{069415F4-4403-4663-8F58-B8C2EE53F665},426432,710845642012,00.5315.023.010,,Bike - Parts - Brakes - Pads,Disc Pads 11 code 4-piston - metallicsteel pair,Sram,,
+{0F92F343-8BB0-4EFF-9F4C-B8EED2D16AF4},73600,710845007514,72.2740.200.751,,Bike - Parts - Chains,Powerlink 9sp chain connector gold,Sram,,
+{1945A219-ABCB-4CF9-B89C-B906A117F03D},64775,745889071429,64775,64775,Bike - Parts - Tubes,Tube Bontrager thorn resistant 27x1-18-1-14700x28-32c sv,Bontrager,,
+{728768DE-A1A6-4108-8438-B9955133E097},JBS21364612K,019593,912287,,Bike - Parts - Headsets,Sunlight Custom headset cap,,,
+{953E05A6-590E-40F9-A833-BA024E4D9C0D},527125,689228920774,ESLM3000RA,,Bike - Parts - Shifters,Shim Shifteracera9spdpod sl-m3000-rwogd series color,Shimano,Series Color,
+{C7E3ADAD-DEFD-403A-833D-BA2037DFD4C2},BIK22506820K,799403100386,BH1002N,,Bike - Parts - Cables & Housing,Bike Hitch lockable black,delta,,
+{A1E304C9-1367-4E9C-B7E3-BA67270E3B21},542194,710845780462,00.5318.010.002,,Bike - Parts - Brakes - Pads,Disc Pads sram roadlevel - organicsteel pair,Sram,,
+{83BD20BC-572B-4895-9A27-BA684E99A003},TIR404539346,763477008558,VP-1,,Bike - Parts - Tubes,Tire Part park vp-1 vulcanized patch kit box of 36,Park Tool,,
+{B58DC68F-A9A1-4B60-AE75-BA6DD8662488},ULT39853736P,4019238026917,C2019128,,Bike - Parts - Tires,Ultra Sport iii 700x28 black folding puregrip,continental,Black,700X28C
+{FFB0054C-C225-4B91-B954-BB3B0E90EE40},BRA33694553R,689228332348,Y8G698080,,Bike - Parts - Brakes - Pads,BR-6700 R55C3 CARTRIDGE-TYPE BRAKE SHOE SETPAIR,Shimano,,
+{8B8A663D-E93B-419A-B26E-BB6A78A95253},BRA27707664L,4717592022865,ABBR000297,,Bike - Parts - Brakes - BrakeSet,Tektro - linear pull brake caliper - front/rear - 837al,tektro,,
+{AC19A4C7-6C0D-4D99-B85C-BB7BA20A861E},BRA3444458K,888571005859,HL4123AD,120128,Bike - Parts - Brakes - Levers,Origin8 - duo trigger brake lever set - alloy,origin8,Black,2 FINGER
+{A0118AC8-12E9-40EF-B22C-BBC49A4ABC4C},DIS36415555U,4055184003336,0722419-,,Bike - Parts - Brakes - Pads,"Magura - typ3 6.2 endurance brake pads - marta 2009-11 louise, 2007-9 julie",magura,,
+{18C09FD9-0B67-4EEE-89B0-BBD0A573B1A3},5263845,601842619582,5263845,5263845,Bike - Parts - Stems,Fastener Bontrager blendr adjustable threadless stem bolt bk,Bontrager,,
+{FAE0E9C9-4815-4C3A-97AA-BC5A90EDC900},FTT26224132K,886745077541,,J120202101235,Bike - Parts - Cables & Housing,Ft Topmiddle cable 235mm black,full tilt,Black,235
+{D74EE7C5-E0F5-493B-818C-BC923EE2F8C9},MIS46517651D,016455,TRADEOUT'16,TRADEOUT16-3-SPEED,Bike - Parts - Shifters,Sram - x9 front trigger shifter - 3 sp,sram,FRONT,3-SPEED
+{BA151E86-2C40-45FE-801A-BCDDC344DD00},FTT26125940K,886745077558,,J120202201245,Bike - Parts - Cables & Housing,Ft Topmiddle cable 245mm black,full tilt,Black,245
+{4142F0D6-00BD-4728-8AFC-BD1432BB83B0},74M26652729M,844171000458,98-15073,,Bike - Parts - Brakes - Disc,Hayes - post disc brake adaptor - 74mm,hayes,,74MM
+{42964976-2A16-4A3F-97ED-BD441E3DA43B},SHI4359382K,689228423947,IFD5700BLL,,Bike - Parts - Derailleurs,Shim Ft der105dbl34.9blk fd-5700-bll34.9black black,shimano,Black,
+{0E38B107-9235-4E45-98BF-BD9665949303},JAG65432442E,4715910027073,BHL205,CA4281,Bike - Parts - Cables & Housing,Jagwire 4mm sport derailleur housing with slick-lube liner 50m file box white,jagwire,White,
+{E4F41B77-2DA1-4100-9C45-BDB3FD4907A9},DTS19133774G,7613052115252,HCDXXX00S1083S,HU1393,Bike - Parts - Hubs & Skewers,Dt Swiss 240s shim ring,dt swiss,,
+{707F70AE-AF60-4CE0-8A25-BE6F260F3AA5},572239,601842029114,572239,572239,Bike - Parts - Tires,Tire Bontrager se4 team issue 29x2.60 tlr,Bontrager,,
+{312C42EF-96C3-4DD6-BC03-BEB4D7540FB6},533383,601479488209,533383,533383,Bike - Parts - Tires,Tire Bontrager connection trail 20 x 2.0 black,Bontrager,,
+{8CE55F42-A69C-4247-8815-BF0049FAE24D},579829,710845818028,00.7518.119.000,,Bike - Parts - Derailleurs,Sram - nx eagle long cage rear derailleur - 12 sp,Sram,,12 SP
+{E72542B2-B244-4DB6-A634-BF563B6A08B0},DTS589573850,7613052143163,NPBH20150S0020,SP1313,Bike - Parts - Spokes,Dt Swiss squorx pro head pro lock brass nipples 2.0 x 15mm black box of 20,dt swiss,,
+{A3948A64-AB11-4085-B0AC-BFD63E8C9835},571624,710845813757,00.6418.016.000,,Bike - Parts - Bottom Brackets,"Sram - dub pressfit bottom bracket - bb89.5/bb92, 89/92mm, mtb",Sram,,"BB89.5/BB92, 89/92MM, MTB"
+{1D18A028-5FA0-48B8-BE0B-C01D1D50A1CB},541150,601479547777,541150,541150,Bike - Parts - Stems,Stem Part bontrager blendr xxx barstem mono base,Bontrager,,
+{D3133690-CB78-4F89-8231-C0369BD0E743},BBP5474111R,072774217267,CC950CPZ,21726,Bike - Parts - Bottom Brackets,Bb Part axle bolt sunlt fshiisis spline one key release 15mm pair,sunlite,,
+{D25EA3AC-EECF-431F-8D33-C03F7EA75ED2},5253132,710845853074,00.2418.107.000,,Bike - Parts - Cassettes & Freewheels,Fh Cass sram xg1299 10-52 12s xd copper eagle,Sram,,
+{C1E5756E-58B5-4D89-9278-C05112288289},MOU47616645N,192790506111,ESMMAF203PPMA,ESMMAF203PPMA,Bike - Parts - Brakes - Disc,MOUNT ADAPTER FOR DISC BRAKE CALIPER SM-MA-F203P/PM FIXIN,Shimano,,
+{11145FF3-D477-480A-A86A-C06EC0621EA2},GRA27723405K,4931253012068,RF726-GK-B,,Bike - Parts - Tires,Panaracer - gravel king clincher folding tires - 700x26c,panaracer,,700X26C
+{ED8ED840-AADF-4BD5-9C7A-C0C9281D9BCA},JAG475108950,4715910026083,CC102,BR4137,Bike - Parts - Cables & Housing,Jagwire Double-ended straddle wire 1.8mm x 380mm bag of 10,jagwire,,
+{38155079-388A-4638-9A24-C107559DC093},598540,846635011772,598540,598540,Bike - Parts - Saddles,Saddle Electra Cruiser Xl Wsprings Black,Electra,,
+{E53D3765-FA3C-455E-9D4C-C147F68A3371},533016,601479458806,533016,533016,Bike - Parts - Saddles,Saddle Bontrager sport mens black,Bontrager,,
+{0E418765-ED68-4341-ABE3-C1ED1267E2BB},JAG51681446K,4715910006412,JS909H,BR1350,Bike - Parts - Brakes - Pads,Jagwire Mountain sport brake pads smooth post 70mm pad black,jagwire,,
+{E0035BCC-D660-4C72-8434-C2F08F72F4B4},ULT39399653P,4019238026849,C2019125,,Bike - Parts - Tires,Continental - grand & ultra sport tires iii folding tires - 700x25,continental,Black,700X25C
+{52F5EC87-465E-476C-A02A-C33F306E80B7},SEA4948143K,810006807721,REMOTE-PRO-CLMP,,Bike - Parts - Seatposts,Wolf Tooth ReMote Pro Dropper Lever - 22.2mm Clamp,Wolf Tooth,,
+{3C60B7FD-EA05-4921-959B-C3749FA3269D},559670,710845805530,00.5018.037.015,,Bike - Parts - Brakes,"Sram - centerline rounded edge disc rotor - 200mm, 6 bolt",Sram,,"200MM, 6 BOLT "
+{1CAD3D80-85B5-45FE-8BDE-C42E5F0886A1},SRA723436051,710845822933,00.7018.387.001,LD2533,Bike - Parts - Shifters,SRAM Force eTap AXS Shift/Brake Lever - Right 12-Speed For Mechanical Rim Brakes Black D1,SRAM,,
+{2DF87DAC-537F-4A8C-B6A4-C521A23C650E},429368,710845413797,11.6215.089.000,,Bike - Parts - Cranks & Chainrings,"Truvativ - allow 2x10 chainring - black - 22t, 64mm",Truvativ,Black,"22T, 64MM"
+{504F4DE9-9602-46A7-BDAB-C5E0AB64705D},413425,766759708566,CN08566,,Bike - Parts - Chains,X8 Chain 8sp nickel plateddark silver,Kmc,,
+{BE5E3C42-5F83-4A97-9D42-C605EC110E3A},40S351026028,840226093352,AAA0001B,,Bike - Parts,40-series Compression ring 4128.6 - blue 1 18,cane creek,,
+{15F3A6BC-201D-4B11-98B0-C680293E66C4},SHI73315745R,689228543119,ERDFT35AB,RD8173,Bike - Parts - Derailleurs,Shimano - tourney rd-ft35a short cage rear derailleur - 6/7 sp - dropout claw hanger,shimano,,6/7 SP
+{84315804-8556-4248-93E4-C72D14994CBD},FTT26333613K,886745077565,,J120202301255,Bike - Parts - Cables & Housing,Ft Topmiddle cable 255mm black,full tilt,Black,255
+{63E7B128-B806-4925-ACB4-C79B1232D83F},014452,,BR1595,,Bike - Parts - Brakes - Pads,QBP Br1595 '16 | basics right & left brake pads threaded molded,QBP,THREADED,MOLDED
+{1826A868-6DFC-4003-B8E6-C7B229532287},MIC50337752D,4710495438115,CS-H092 11-25,FW0402,Bike - Parts - Cassettes & Freewheels,Microshift H09 cassette - 9 speed 11-25t silver nickel plated,microshift,,
+{8198AD96-75EB-41AB-AEB5-C7EF2BA41ECC},SLI37392779K,710845667145,00.7115.017.010,,Bike - Parts - Brakes,Sram - slickwire brake cable system - black - 5mm,sram,Black,5 MM
+{57C5E870-E300-4CBB-B20A-C8106D8C98E7},FRS27180484M,002954,FR803-00-380'11,FR803-00-38011-,Bike - Parts - Suspension,Frs 803-00-380 '11 fit seal kit 32mm,,32mm,
+{217D8167-97D8-4A6D-A2E5-C897BA3DDAD0},FUJ3241738A,010179,FUJIDER,FUJIDER-NEVADA,Bike - Parts - Derailleurs,Fuji Der hanger fuji der hanger nevada,,,NEVADA
+{509EA7B3-9D17-4448-86F7-C8C11E8B9547},QBP313597575,008897,FS2485,FS2485,Bike - Parts - Derailleurs,QBP Fs2485 '10 derailleur hanger 85 85,QBP,,85
+{DC46EC4B-5C16-4689-8BB7-C8DABE5F6B6D},551366,720825775203,VP-503,,Bike - Parts - Pedals,Vp Components aim pedals - platform aluminum 916 black,Vp Components,,
+{1A235CBE-5C15-4746-B1CC-C9412DDED10B},VBR41660219S,192790900407,EBRT610FX41XLP,EBRT610FX41XLP,Bike - Parts - Brakes - BrakeSet,V-BRAKE BR-T610 DEORE FRONT X-TYPETHIN SPACER OUTS,Shimano,,
+{12436835-547F-4800-90A7-C95F27D172D1},76650,760251075645,KS-D280,,Bike - Parts - Brakes - Pads,Kool Stop - metallic mechanical disc brake pads - avid bb5 - ks-d280,Kool Stop,,KS-D280 
+{5F63154F-DDA7-46BF-9A70-C9EEC0A419F3},575230,716281509070,G20452,,Bike - Parts - Tubeless Accessories,Side Of bacon rope plugs - 20 piece,Genuine Innovations,,
+{73157CAE-6ADB-4347-B59D-C9F0FE8BBD7D},5277242,192790598321,ESMRT66M,,Bike - Parts - Brakes - Disc,"Shimano - sm-rt66 disc rotor - 6-bolt, 180mm",Shimano,,"6 BOLT, 180MM"
+{E6BA6064-E8FE-400C-8D62-C9F52AD8C552},558846,836572009574,DROPOUT-176,,Bike - Parts - Frame parts,Derailleur Hanger dropout 176,Wheels Manufacturing,,
+{19C00C59-4D84-479E-9F57-C9FD68B6B1BC},567358,601479897971,567358,567358,Bike - Parts - Saddles,Saddle Bontrager commuter fluid 185mm black,Bontrager,,
+{993EEBCB-35EA-4DF2-AA14-CA4C1B52AB4C},W518694,601479360543,W518694,W518694,Bike - Parts - Suspension,Suspension Part washer 10 x 16 x 2.8,Trek,,
+{625F5DEA-1B58-4124-ABFD-CA603D9C9EA5},END35758489G,810191011354,BB 6800 LLU MAX-BAG,,Bike - Parts - Bearings,MAX Cartridge Bearing  6800 10x19x5,,,
+{B2DC7B79-EBFE-4F6C-944A-CB22B95AFE86},596752,192790443843,ICSM8100051,,Bike - Parts - Cassettes & Freewheels,Shim Csstxt12spd10-51 m8100-1210-51t silver,Shimano,Silver,
+{8B03F4FB-ABA9-4D9B-ACA6-CB3C74B20F2D},550202,601479662814,550202,550202,Bike - Parts - Tires,Tire Bontrager xr1 comp 24 x 1.85 black,Bontrager,,
+{6D1A5B93-0913-49B3-AEDE-CB8204693937},527823,601479493135,527823,527823,Bike - Parts - Bottom Brackets,Bb Trek bb90 bearing shimano oversized 37.1 x 24 x 7,Shimano,,
+{495E79E1-8F65-4EE9-9353-CBC4DEF093BC},5253150,710845853555,00.7018.432.000,,Bike - Parts - Shifters,Sram Gx eagle trigger shifter - single click rear 12-speed discrete clamp lunar,Sram,,
+{B3A00878-DDC2-41F3-BA0E-CBF1851462A7},END65587425M,811780023130,ACB4545150SS,BB2100,Bike - Parts - Bearings,Enduro 1.5 45 x 45 stainless steel angular contact bearing 40mm id x 52mm od x 7mm,enduro,,
+{67CF38FC-B237-4444-A374-CC03F9166AA8},597488,766759056605,ML56605,,Bike - Parts - Chains,Kmc - missing link 9 sp connector - silver - reusable,Kmc,,9SP
+{011F47E9-8CBC-4CCC-B45B-CC21BAD9B1DC},562237,710845805912,00.2518.027.007,,Bike - Parts - Chains,Chain Part sram powerlock 12-speed connector silver 4 pack,Sram,,
+{B5724DB1-D63D-45D3-9FF6-CD12AED8F538},JB133777383X,004147,19100,19100-15Ix24Ox,Bike - Parts - Bearings,J&b 19100 '17 cartridge bearing 15ix24ox,j&b,,15IX24OX
+{D13E2FB9-EF75-46D9-89CC-CD145AA3C5E2},DER242381171,888571006719,GH-001,250052,Bike - Parts - Derailleurs,Der Part sunlt rd hanger s-001,sunlite,,
+{2669A355-66E5-4522-9077-CD20280AE8D6},582229,601842078433,582229,582229,Bike - Parts - Tubeless Accessories,Tire Part bontrager tlr tire sealant per 2 oz,Bontrager,,
+{A0BFD6AB-170A-43C2-B12C-CDA05F3846DB},5304335,3611720061577,8152,,Bike - Parts,Look - keo grip 9 degree float cleats - red,Look,,9 
+{92390F7E-CEC6-44CC-BB48-CE3D0FF3B8AF},TIR50818437K,850004474365,DPD-4365,5283241,Bike - Parts - Tubeless Accessories,Tire Part Dynaplug Dynaplugger Tubeless Tire Repair Kit Bk,Dynaplug,,
+{0E7D5F91-7533-4D6C-8B9E-CE408B3EFC0D},JB7396434035,013682,740489-R,740489-R-26x1.5,Bike - Parts - Wheels,"J&b 740489-r '16 26"" alloy rear wheel blk rear 26x1.5",j&b,BLK REAR,26X1.5
+{2D53DFE1-0666-4495-BBEA-CE7A174FDC96},553993,601479741236,553993,553993,Bike - Parts - Tires,Tire Bontrager se2 team issue 29x2.6 tlr black,Bontrager,,
+{90909A02-FD62-4605-8F43-CEA30FDC0D4C},W514417,601479272150,W514417,W514417,Bike - Parts - Rims,RIM TAPE BONTRAGER RIMSTRIP AEOLUS TLR 700c x 19.5mm,Bontrager,,
+{CDEEB31E-E896-4CBB-892D-CEAA9D4A0246},5284665,710845862342,00.5018.176.002,,Bike - Parts - Brakes - Disc,Rotor Sram hs2 1-piece 6-bolt rounded rotor 200mm silver,Sram,,
+{6CA19292-4193-4C86-9268-CEBEB6C31553},404602,710845504761,68.2793.114.205,,Bike - Parts - Chains,"Sram - pc 1 nickel chain - single speed, 114 links",Sram,,SINGLE SPEED
+{AA505D4E-59EE-4E36-BD67-CEE3C438EE91},FTL22132821K,714636315987,,J080090375,Bike - Parts - Cables & Housing,Ft Lower cable 375mm black,full tilt,Black,375
+{CFBCC698-89CD-41A9-8AB7-CF460B996E7A},JB2291095097,004905,26365'14,2636514-#77,Bike - Parts - Derailleurs,J&b 26365 '14 #77 derailleur hanger #77,j&b,,#77
+{41DDEDF7-F309-4E07-B10B-CF66B9B63A15},RIN22768779M,7630024378361,HCDXXX00N6137S,,Bike - Parts - Hubs & Skewers,Ring Nut 3-pawl hub m34x1mm,dt swiss,,
+{B3681FA7-DE33-4B29-98BB-CF8141983889},598646,821973353562,PD20CHEBLU,,Bike - Parts - Pedals,Chester Composite pedals blue,Raceface,,
+{460DD2F6-4F61-4199-8DE7-D0943F4BB045},552411,601479696932,552411,552411,Bike - Parts - Hubs & Skewers,Hub Part bontrager 108 sram xd freehub,Bontrager,,
+{B6DC3020-D942-4C90-BDBC-D0DFAA7D73E3},CLN39119395N,544989774182,RD-008,,Bike - Parts - Tires,Rhinodillos - tire liner - 26 x 2.0-2.125,rhinodillos,Brown,26 X 2.0-2.125
+{0120CCF5-6029-432E-83E6-D0E568D4E3FA},STU43775996M,4710944223682,HSJ102.0001.HP,CA3215,Bike - Parts - Cables & Housing,Sturmey Archer classic trigger shift cable 1420mm,sturmey-archer,,
+{CB99490A-DA1A-410F-9761-D117B3238C28},SHI32438533T,192790598345,ESMRT66L,,Bike - Parts - Brakes - Disc,ROTOR FOR DISC BRAKE SM-RT66 L 203MM 6-BOLT TYPE,Shimano,,
+{8CBC8AF0-833F-4784-9EBA-D16F4A350CF8},CHA44472277R,710845892448,00.2518.054.010,,Bike - Parts - Chains,SRAM GX Eagle T-Type Flattop Chain - 12-Speed 126 Links Hollow Pin Includes PowerLock Connector Silver,Sram,,
+{F6A6722D-D33F-40E3-97D4-D188400F8749},SEA51444103T,601842767887,5265370,5265370,Bike - Parts - Seatposts,Seatpost Part Bontrager Line Elite 34.9Mm Dropper Keyway Kit,Bontrager,,
+{35FC34FE-63A6-422E-B163-D1D8FEA24336},MIS374521863,009099,#93,#93-#93,Bike - Parts - Derailleurs,Misc Hanger#93 derailleur hanger #93 black #93,,BLACK,#93
+{94AB3CCB-E05E-493D-A192-D1DF134196A0},552415,601479696963,552415,552415,Bike - Parts - Hubs & Skewers,Hub Part bontrager 108 pawl spring 3 pack,Bontrager,,
+{BBC4B819-37F1-4139-9F9E-D2062EC76137},5287806,710845872419,00.6718.002.000,,Bike - Parts - Pedals,Pedal Time atac mx 2 enduro grey,Time Sports,,
+{0C92ACC3-D869-4A94-A1BF-D288DF4AFA49},FTT26393455K,886745422594,,J120202301265,Bike - Parts - Cables & Housing,Ft Topmiddle cable 265mm black,full tilt,Black,265
+{FD3C976E-0776-40B1-A2B3-D2A6558AFD77},529388,689228919952,IBBMT800B,,Bike - Parts - Bottom Brackets,Shimano - xt bb-mt800 english bottom bracket - hallowtech ii,Shimano,Black,
+{408707BF-5FD6-4E8C-8691-D3064D6EA225},DIS31849704C,844171036198,98-26517-K002,,Bike - Parts - Brakes - Pads,Hayes - t106 semi metallic disc brake pads w/ steel back,hayes,,
+{7734EBB4-05DC-46F0-87EE-D38B7E1AF88B},SHI48734133R,710845853548,00.7018.431.000,,Bike - Parts - Shifters,SRAM GX Eagle Trigger Shifter - Rear 12-Speed Discrete Clamp Lunar,Sram,,
+{64FE5B9D-DA46-4A6E-9D4D-D3F53E731E68},CN727465126S,192790597225,Y08X98026,Y08X98026,Bike - Parts - Chains,CN-7900/7801 10S CHAIN PIN 100PCS,Shimano,,
+{E11F06EC-0074-4C27-8670-D404F34F6FB0},BTI43578853M,009967,BTIAB9974'08,BTIAB997408-30MM,Bike - Parts - Suspension,Bti Ab9974 '08 seal kit abi enduro manit manitou 30mm,,MANITOU,30MM
+{96D6EF12-3429-4352-A071-D42924FBF5F9},FUL404750103,710845734502,11.4118.038.000,,Bike - Parts - Suspension,Full Servicerebuild kit 2014 monarch rrlrtrt3,rockshox,,
+{43518BB5-39FD-4CAA-84A3-D4B2C63E24E0},550302,601479692613,550302,550302,Bike - Parts - Grips and Tape,Grip Bontrager satellite elite 13090mm black,Bontrager,,
+{8EE784E1-4281-4099-BC7E-D4D9D387CF72},69024294050H,7613052113975,HSBXXX00N2336S,,Bike - Parts - Bearings,6902 Cartridge bearing- each,dt swiss,,
+{BD5CABAD-74E3-45BA-9A9A-D52D8694F494},543906,689228393622,ERDTY300D,,Bike - Parts - Derailleurs,"Shimano - tourney long cage rear direct mount derailleur - 6,7 sp, rd-ty300-sgs",Shimano,Series Color,"6,7 SP, RD-TY300-SGS"
+{E27BEDBF-E19A-4CF9-9E97-D5499B82CE00},571129,601479930869,571129,571129,Bike - Parts - Tires,Tire Bontrager gr1 team issue 700 x 40c,Bontrager,,
+{93FF9828-B209-4091-A1EF-D559BA36B03A},425138,601479125333,425138,425138,Bike - Parts - Tubes,Tube Bontrager standard 29x2.002.40 schrader valve 48mm,Bontrager,,
+{67C013F7-88AE-4355-9C75-D566419A8D2E},SHI23348411H,5391109106485,00.0000.200.648,53490,Bike - Parts - Shifters,Sram - mrx comp right shifter - 8sp,sram,,8SP
+{83CDFB7D-F364-4E7C-AD61-D6FFDC481C70},W529224,601479541973,W529224,W529224,Bike - Parts - Bearings,Suspension Part bearing 6801v max 10x19xsuspension part bearing 6801v max 10 x 19 x 88,Trek,,
+{243CD0D2-CA60-4E37-957C-D818093CFD29},5251702,689228768567,EBRM6000MPPRXL,,Bike - Parts - Brakes - Disc,Shimano - deore br-m6000 disc brake caliper with resin pads,Shimano,Black,
+{4C9F5592-0297-44E3-A1D4-D83ADC028BBF},CHA3752426E,710845820823,11.6218.041.001,,Bike - Parts - Forks - Suspension,Chainring Sram 32t direct 6mm stl bk nxeagle,sram,,
+{669D5150-CACA-4DF8-A300-D86010B89039},1042082,689228882287,ISMCN91012A,,Bike - Parts - Chains,Shim Chain quick link12spd sm-cn910-122 pair,Shimano,,
+{14C38717-98AA-446D-B35B-D87BD2544CB3},FTT2668815R,714636493289,,J095511090,Bike - Parts - Cables & Housing,Ft Topmiddle cable 245mm clear,full tilt,Clear,24.5
+{FA670D96-384C-4319-B741-D8A5FF858C3B},JAG67186859Y,4715910031926,BHL458,CA4107,Bike - Parts - Derailleurs,Jagwiresport Derailleur housing with slick-lube liner - 4mm 30m file box ice gray,jagwire,,
+{A9161331-F1C8-48E1-806F-D8F50DBCD24F},ABE329214219,185843000063,6904LLB,,Bike - Parts - Bearings,Abec-3 Cartridge bearing 6904 20x37x9,enduro,,
+{BC9DB3D2-1796-434E-9D3F-D914BF7991F0},582847,710845813023,00.5018.037.025,,Bike - Parts - Brakes - Disc,Sram - centerline rounded edge disc brake rotor - black - 160mm,Sram,Black,160MM
+{0C19B5E1-75E7-4DB1-AE2F-D9560682A395},W586543,601842121573,586542,W586543,Bike - Parts - Bearings,Bearing Trek 6801v llu double 12 x 21 x 8mm,Trek,,
+{07BDF7A5-763A-485C-BAAE-D98317B48C03},432456,601479178698,432456,432456,Bike - Parts - Tubes,Tube Bontrager standard 700x35-44c 27x1-38-1-34 sv 48mm,Bontrager,,
+{82AC6C81-02DF-4C08-9870-D98777AD3A26},428276,689228284890,Y8FL98010,,Bike - Parts - Brakes - BrakeSet,Shimano - disc metal brake pads - e01s - br-m575 spring with pin,Shimano,,
+{0E408BF2-9972-4003-B3B4-D9A0BA284CB0},582163,710845729539,00.4315.032.380,,Bike - Parts - Suspension,Basic Air can service kit 2014 monarch shocks,Rockshox,,
+{BAC50803-388F-4112-8E69-D9DA47E394D2},ABE338209447,810191014003,MR17286LLUMAX,,Bike - Parts - Bearings,Abec-3 Cartridge bearing 17287 17x28x7,enduro,,
+{23D959D5-40CB-419A-B9E3-DA8B6F32AC24},TUB25365205M,072774063772,529006H5,6377,Bike - Parts - Tubes,Sunlite - 22 x 1.75 tube - 32mm schrader valve,sunlite,,22 X 1.75
+{BB403438-9CAB-4FD3-8553-DAB774717C35},BBP4158588K,710845863059,11.6418.002.002,,Bike - Parts,Bb Part sram axle spacer dub 17pc kit mtbroad v3 bk,sram,,
+{C9D1D5C7-1DAE-48C3-A4E9-DADE7CDB52E9},MOU48509115G,192790897783,ESMMAF220PPL,ESMMAF220PPL,Bike - Parts - Brakes - Disc,MOUNT ADAPTER FOR DISC BRAKE CALIPER SM-MA-F220P/PL FIXING,Shimano,,
+{492D7042-47DF-4518-8BAC-DB4904BFA13A},W557653,601479844289,W557653,W557653,Bike - Parts - Tubeless Accessories,Rim Tape bontrager tubeless 80mm valve black,Bontrager,,
+{96E38376-5EBD-40C6-AA5E-DBA4131F5DF1},TOO44875698R,763477001641,BBT-79.3,5305317,Bike - Parts - Tools,Tool Park Tool BBT-79.3 Bottom Bracket 12-Notch Silver,Park Tool,Silver,
+{79F8EA65-80C9-49C5-A552-DBACB0E97B0E},5270773,836572000908,9526-AN,,Bike - Parts - Hubs & Skewers,Axle Nut steel - 389.5mmx26tpi ea,Wheels Manufacturing,,
+{B6C76E45-325D-4334-97DA-DBB411C84152},514198,689228673427,Y8H298039,,Bike - Parts - Cables & Housing,Shimolive  insert fits sm-bh59 brake housing,Shimano,,
+{B0B1347C-FC47-4D77-AD98-DC42FBB288B4},553705,763477005847,PTD-6,,Bike - Parts - Tools,Preset Torque driver ptd-6 14 - 53 inlb 6nm,Park Tool,,
+{05610DDB-98D8-465C-8916-DC765F4BB8F2},5252362,810006801064,10432-SH12,,Bike - Parts - Cranks & Chainrings,Wolf Tooth 104 bcd chainring - 32t 104 bcd 4-bolt requires shimano 12-speed hyperglide chain black,Shimano,,
+{DD9573E1-52BA-49A3-8417-DC7FAF9F7C4A},W290375,745889540758,W290375,W290375,Bike - Parts - Suspension,Suspension Part trek bolt main pivot m16x1.5,Trek,,
+{216A95A1-93BE-4813-BEDA-DCE5B3035A2A},MAX56733805L,,,TR0533,Bike - Parts - Tires,Maxxis - Minion DHF tire - 27.5x2.6 - black - exo - wide ,maxxis,,
+{31CC6C17-A211-4BE2-89A1-DD332A2DB739},CON104367576T,4019238055580,C1027128,,Bike - Parts - Tires,TIR CNT GP5000STR 700X28 BK/BR,Continental Tire,,
+{F782A058-ED1A-41C9-80B3-DD6BF048004B},SUS30514338Z,611056142653,025-03-023,,Bike - Parts - Forks,Fox 5 weight damper fluid 1 quart,Fox,,
+{AE05508C-CE7C-45E7-8CDD-DDB30466457D},W5256339,601842824740,5256339,W5256339,Bike - Parts - Bearings,Bearing Trek suspension 6800 max 19x10x8mm black,Trek,,
+{A056B156-9880-4A37-97D4-DDD0A1154D22},WOL93297217K,810006808247,SDM30-BST-B,CR4827,Bike - Parts - Cranks & Chainrings,Wolf Tooth Direct Mount Chainring - 30t SRAM Direct Mount Drop-Stop B For SRAM 3-Bolt Boost Cranks 3mm Offset Black,Wolf Tooth,,
+{9527A325-849A-4CF7-944A-DDE8D525B683},TRU44694132,710845414916,11.6915.027.000,CR2516,Bike - Parts - Cranks & Chainrings,Truvativ - gxp crank arm self-extracting bolts,truvativ,,
+{F1A28298-2E2A-4F01-AD5D-DDFBDD113416},AGG26926593T,4717784033228,TB85984000,,Bike - Parts - Tires,Aggressor Tire 27.5 x 2.5 exotrwt,maxxis,,
+{BBC76E6D-A42D-4549-B9B5-DE6D5582B59A},CAB29893658K,072774141685,BK955BKZ,14168,Bike - Parts - Cranks & Chainrings,Cable Boot sunlt v-brake rubber blk,sunlite,,
+{9AECA3F7-629C-4073-A581-DEAB412B2FC6},560043,689228768833,ICSHG8001111134,,Bike - Parts - Cassettes & Freewheels,"Shimano Ultegra CS-HG800 Cassette - 11 Speed, 11-34t, Silver",Shimano,Champagne,
+{C1AB067A-0987-458E-94BF-DEF19C84B7B5},439622,763477006745,SPK-1,,Bike - Parts - Tools,Stainless Steel spork spk-1,Park Tool,,
+{173422DD-38A5-49BA-A090-DF4581EDE373},526143,847746009863,AS0088,,Bike - Parts - Tubeless Accessories,Brass Presta valve stem 35mm universal - 25box,Stan'S Notubes,,
+{718EE2E2-D09E-446C-833D-DF6A3716C74A},SKF42820962M,,,FK0201,Bike - Parts - Suspension,Skf - low-friction dust wiper seal kit - rockshox 36mm,skf,,36 MM
+{C2432182-651F-4D7F-A559-DF795ABFFAC9},582352,4019238581430,,,Bike - Parts - Tires,Continental Gatorskin Tire - 700 x 28 Clincher Folding Black PolyX Breaker,,,
+{FCA00528-0931-4A16-BE22-E01FBBACEABE},5307014,4550170327361,EBPD03SRXA,5307014,Bike - Parts - Brakes - Pads,Shimano D03s resin disc brake pads,Shimano,,
+{EAA81610-87FA-4C94-ABE8-E0DF8129FB85},TUB42793420E,601479016549,89773,89773,Bike - Parts - Tubes,Tube Bontrager trike 8x3 90degree schrader valve,Bontrager,,
+{64CD1FEB-A9BA-450D-A1DF-E13C16C76FE1},411835,601479050086,411835,411835,Bike - Parts - Tubes,Tube Bontrager standard 700x20-25c presta valve 48mm,Bontrager,,
+{F9E59B75-ED82-4FDB-849A-E17B886E257D},W333770,768682926451,W333770,W333770,Bike - Parts - Hubs & Skewers,Skewer Trek abp boost 148 148x12mm old 198mm,Bontrager,,
+{952DC4D6-9A62-4330-97BD-E198C14EE500},W290057,768682278291,W290057,W290057,Bike - Parts - Suspension,Suspension Part trek topfuel 09 pivot spacer 18x18x2al black,Trek,,
+{09AC3064-13EF-4541-95B3-E19F812E491B},W282876,768682253502,W282876,W282876,Bike - Parts - Suspension,Suspension Part trek bolt m8x1.25x54 alloy black,Trek,,
+{82CDE42D-5EA0-4FBA-8D18-E1F75A1C8CBC},TIR40367151T,4717784039695,TB00308200,,Bike - Parts - Tires,Tires Max assegai 27.5x2.5 bk fold120 3cgexotrwt,maxxis,,
+{B68513F9-86A5-4E52-BDC2-E2BB2C69CC62},JAG70722515,,DCAB85,BR3213,Bike - Parts - Brakes - Pads,"Jagwire Pro ebike disc brake pad fits shimano xtr m9000, xt m8000, slx m7000, deore m615",shimano,,
+{4FBDD675-BBFB-416D-984B-E2E4E6CD24DD},84189,763477008855,TWS-2,,Bike - Parts - Tools,Folding Torx wrench set tws-2 - green,Park Tool,,
+{5BF19A86-69DE-4917-ADE9-E35009978919},QBP27585949G,000125,HU6095,HU6095,Bike - Parts - Bearings,QBP Hu6095 '17 cartridge bearing,QBP,,
+{048392A2-0F14-4A9C-8C89-E3E6A5AD6A4A},WIR221708224,4019238024913,C1230100,,Bike - Parts - Tires,Continental - wire bead trail king tire - 26 x 2.4,continental,Black,26X2.4
+{4FBE194F-E9BA-40D2-BB89-E437AFDD974B},MAX57208227D,4717784040387,TB00394100,TR1870,Bike - Parts - Tires,Maxxis Overdrive Excel Tire - 700 x 35 Clincher Wire Black SilkShield,Maxxis,,
+{80319737-BBC4-4068-9EA3-E484933DA976},513800,601479238767,513800,513800,Bike - Parts - Tubes,Tube Bontrager standard 27.5 x 2.2-2.5 pv 48mm,Bontrager,,
+{87DA3483-1BAE-4BD7-8014-E4FF30FA3499},5253027,192790636023,ISLM5100RA1P,,Bike - Parts - Shifters,Shift Lever sl-m5100-r deore right 11-speed rapidfi,Shimano,,
+{630A42F8-0406-459E-9B55-E53D841166AB},HAY47112191M,847863022110,,22121,Bike - Parts,Reynolds Arx ar atrs atr trs tr disc hub end cap - front 12mm,hayes,,12 MM
+{19CB1CEF-58BC-40EA-AA17-E54AC4F15250},PRO37725212K,400310008428,370-0239,,Bike - Parts - Cranks & Chainrings,"Fsa - pro road chainring - black - 39t, 5 bolt",full speed ahead,Black,"39T, 5 BOLT"
+{F14DA3FC-84D8-4E69-9EB0-E5710DDDC8FA},QTU43243644E,708752053922,50300789,TU5700,Bike - Parts - Tubes,Q-tubes - 12.5 x 1.75-2.25 tube - 35mm schrader valve,teravail,,12.5 X 1.75-2.25
+{06DDC7B5-7532-49F7-8E4F-E584B45FB45F},SRA42155174T,,,,Bike - Parts - Suspension,"Sram Air can std, high volume and debonair parts kit",sram,,
+{EDD516DA-B66C-467B-8FA8-E5B66DEE832C},DIS383118805,192790447285,EMT501EJLFPMA100,BR0729,Bike - Parts - Brakes - Disc,"Shimano Deore BL-MT501/BR-MT520 Disc Brake and Lever - Front, Hydraulic, Post Mount, Black",shimano,,1000MM
+{7F99855D-BCC6-4B49-9755-E5C1C9B1D3A6},579764,601842095874,579764,579764,Bike - Parts - Tires,Tire Bontrager xr3 comp 27.5x2.80,Bontrager,,
+{DC3D33C1-0BEA-466E-9A8C-E5F9D516F4BC},SHI50149032K,192790595702,Y13098582,,Bike - Parts - Cables & Housing,Shop - shimano - hydraulic disc brake - sm-bh90 -ss (per foot),shimano,Black,
+{9127A28A-A1EC-4903-9C7E-E64101B14D8C},510170,710845753374,00.2518.006.000,,Bike - Parts - Chains,Cn Pc1130 114li w pwr.lck 11s 1pcs,Sram,,
+{866B1E86-EF3B-42C7-B5B3-E6693FC7DC71},TIR35467741C,4717784025117,TB88987000,590314,Bike - Parts - Tires,Maxxis - mud wrestler tubeless ready tire - 700 x 33,maxxis,,700 X 33
+{740E6CD1-66F6-4C7F-98BC-E6B2A349DBC7},SHI56487740K,4550170897734,ERDM30208SGSL,RD4111,Bike - Parts - Derailleurs,Shimano Acera RD-M3020-SGS Rear Derailleur - 7/8 Speed Long Cage Black,Shimano,,
+{5392CE92-7342-401F-B755-E6DE49776B31},549337,601479687169,549337,549337,Bike - Parts - Saddles,Saddle Bontrager boulevard 205mm black,Bontrager,,
+{A43667F8-D3BE-4DAA-9D2F-E6DEE64716AE},SRA36402571M,710845882203,00.5318.039.000,00.5318.039.000,Bike - Parts - Brakes - BrakeSet,"Sram Disc brake hose kit - black banjo, 2000mm",sram,BLK,2000
+{389A011A-59E3-46CF-BAA7-E73916D588BA},CRA38586367K,689228161993,,5251171,Bike - Parts - Cranks & Chainrings,Crank Part shimano fc-5600 safety plate black,Shimano,Black,
+{7B264B1A-2015-4DD6-8B61-E757FB4941A2},SEA24298794M,8050040144082,MTB34OX,,Bike - Parts - Suspension,Skf - low-friction dust wiper seal kit - ohlin sx-fusion 34 mm,skf,,34 MM
+{CF801366-591D-43A4-A1E1-E75935F073EF},CHA27782488L,5021646044994,C-C8AR,16738,Bike - Parts - Chains,Clarks - aniti-rust bicycle chain - 8sp,clarks,,8SP
+{3A797821-9157-4E5E-8EDD-E75C047408D5},87843,710845002908,00.0000.200.290,,Bike - Parts - Cassettes & Freewheels,07a Cs pg-950 11-34 9 speed,Sram,,
+{9AA30D9D-6BEE-4F76-B113-E78C04293634},563603,710845809347,00.5018.115.001,,Bike - Parts,Am Db s900 aero hrd rear f20 2000,Sram,,
+{3E62B66B-2C0D-419B-89C7-E7B7BF74D3B5},JAG66711518M,4715910024072,96SS3500,CA4434,Bike - Parts - Cables & Housing,Jagwire - road slick stainless sport brake cable - 3500mm,jagwire,,3500MM
+{66496F6F-95B4-457D-9E43-E7C61E999350},MUC43351993K,5037835300000,300,,Bike - Parts - Tools,Muc-off - expanding microcell sponge - pink,muc-off,Pink,
+{125DF5DB-E9FA-4369-A885-E7E0B993D84D},BRE35510923O,5055308116866,DMR-G-BREN2-THICK-C,DM2910,Bike - Parts - Grips and Tape - Grips,Brendog Flangeless DeathGrip  Thick - Camo,,,
+{1CDF3EA9-295E-411D-B622-E8216EB7B913},87837,710845006487,00.0000.200.647,,Bike - Parts - Shifters,Sram - mrx comp 8sp rear shifter - shimano compatible,Shimano,,
+{F734BAFE-54AF-47F5-B53F-E850F59FDBF0},DER254307229,836572006207,DROPOUT-99,,Bike - Parts - Derailleurs,Derailleur Hanger dropout 99,wheels manufacturing,,
+{6957BB32-E15D-4DF4-A463-E885B573D1E6},REY545444567,847863022059,,22128,Bike - Parts,Reynolds Arx ar atrs atr trs tr disc hub end cap - rear 12x142/148/157,hayes,,12X142/148/157
+{D029460B-678D-4092-A9DF-E885C7910C98},SRA46444267M,710845744921,11.2418.002.000,FW6225,Bike - Parts - Cassettes & Freewheels,SRAM Cassette Lockring for 11 Tooth First Cog Aluminum,SRAM,,
+{01E9C8D2-8273-41B7-AED8-E8AC45684C56},517616,710845760051,00.5318.003.004,,Bike - Parts - Brakes - Pads,"Sram - organic compound steel disc brake pads - trail, guide, g2",Avid,,
+{1432E21C-B12B-4F7B-AEBF-E8CC2956050D},559739,710845798252,00.5018.110.001,,Bike - Parts - Brakes - Levers,Sram - code a1 r disc brake and lever - front or rear hydraulic post mount - 1800mm,Sram,,1800MM
+{A7D2E2AC-0FD8-48B3-B762-E8D025FC4771},533381,601479488216,533381,533381,Bike - Parts - Tires,Tire Bontrager connection trail 24 x 2.0 black,Bontrager,,
+{D94E8277-B733-40CC-891A-E908FD2FDAFE},ZOO43458359R,ST2916,AT-101+SQR-115 28.6MM,ST2916,Bike - Parts - Seatposts,Zoom - alloy quick release seat clamp - 28.6mm,zoom,,
+{B6D24C05-FC03-4225-888D-E94E7452F8A7},WHE34851095K,,250551,250551,Bike - Parts - Electric,Wheels - Derailleur Hanger - Universal - Blk,Whee;s,Black,Universal
+{59D07640-F712-41B9-BE8F-E96AECF3592A},411832,601479050024,411832,411832,Bike - Parts - Tubes,Tube Bontrager standard 26x1.75-2.125 presta valve 48mm,Bontrager,,
+{E8F4F2FB-521F-4D07-8B0E-E96D2EF9642E},TUB3755333M,072774632435,523W04J3,63243,Bike - Parts - Tubes,Sunlite - 20 x 4.25 tube - 32mm schrader valve (fits sting ray),sunlite,,20 X 4.25
+{2E9A9D95-D910-4B5D-9ABD-E96F0DD558B2},FTL22579931K,886745361275,,J1302010029,Bike - Parts - Cables & Housing,Ft Lower cable 385mm black,full tilt,Black,385
+{EDC26F6D-B742-487A-A906-E9953044DD7C},SHI61808532R,689228602144,EBRTX805FPRL,BR8761,Bike - Parts - Brakes - BrakeSet,Shimano - tourney br-tx805 resin mechanical disc brake calipers - front/rear,shimano,,
+{D1ACDC63-CA9D-4130-8D2F-EAAADF7BCA07},427400,710845409059,11.6215.064.000,,Bike - Parts - Cranks & Chainrings,Truvativ Trushift 22t x 64mm chainring steel black,Truvativ,,
+{ECDAAEBF-97FF-47A5-B1B9-EAC5459575B2},1040150,192790444680,EFCM3152E62XL,,Bike - Parts - Cranks & Chainrings,Front Chainwheel fc-m315-2 for rear 78-speed 175mm 36-,Shimano,,
+{60FC63A1-F052-4D28-BCB1-EADED37F64D2},QBP42316219H,003510,RM7543,,Bike - Parts - Rims,QBP Rm7543 '11 alex td17 disc road rim black 700c 36h,QBP,BLACK,700C 36H
+{B39A9954-DEEC-4058-8C87-EAE5A9BBE0EB},BLM21488300G,689228593701,Y8V398010,,"Bike - Parts - Screws, Bolts and Fasteners","Shimano - xt bl-m8000 slx bl-m7000 brake lever bleed screw w/ o-ring fit for xtr bl-m9020, xt bl-m785",shimano,,
+{7F97CB51-7AC2-44DE-A50E-EB1EBDAFC7F2},FCE44459912S,689228886667,Y1R298060,Y1R298060,Bike - Parts - Cranks & Chainrings,FC-E6000 44T Double Chain Ring Cover & Fixing Bolt 5pcs,Shimano,,
+{50EA32FF-5E83-480B-8142-EB9B9D432467},W561881,601479803217,W561881,W561881,Bike - Parts - Suspension,Suspension Part trek m10x1x16 alloy 2018 black,Trek,,
+{E1723A8B-2FEA-4EA2-BA44-EC4620D73D67},SLM19625469T,192790595924,Y0GT98050,Y0GT98050,Bike - Parts - Shifters,SL-M8100-I R.H. COVER UNIT,Shimano,,
+{FDD8D786-A5CA-4709-A847-ECC548BC688E},JB7387449535,015808,741572,741572-27.5,Bike - Parts - Wheels,"J&b 741572 '20 mtb double-wall wheel rear-32h 27.5""",j&b,REAR-32H,"27.5"""
+{A0964E2E-5B73-4527-949F-ECDB5DABE69B},546201,844171061664,263-32972-F001,,Bike - Parts - Rims,"Hayes - sun ringle mulefut rim strip - 27.5"" x 60mm",Sun Ringle,,
+{E9E0B3B5-3F76-4AEF-A30A-ECF4A280DC3E},DEV28445839E,714401656185,W065-0618,,Bike - Parts - Saddles,Wtb - deva chromoly saddle - black - w's m,wtb,,
+{1A58923A-2022-4BAA-9543-ED8AC2626A5B},5253023,192790447506,ESLM315LB,,Bike - Parts - Shifters,Shimano Altus SL-M315-L 3-Speed Left Rapidfire Plus Shifter,Shimano,Black,
+{4A18E61E-A661-412C-9C82-EDA4140BBA92},CON104372236T,4019238055641,,TR8077,Bike - Parts - Tires,Continental Grand Prix 5000 S TR Tire - 700 x 32 Tubeless Folding Black/Transparent BlackChili Vectran Breaker LazerGrip ACT,,,
+{EF14B114-597B-4EC4-8041-EDAFBB7E881A},BIK32186627M,,#PL01,#PL01,Bike - Parts - Grips and Tape - Grips,Bike Works - screw-on grips - purple - 130mm,bike works,Purple,130
+{FCAB083E-EDB8-43DE-845C-EDCEE9BE4449},ACS52903193L,816411002393,63855-0000,,Bike - Parts,"Acs Paws - competition single speed freewheel - 15t, 1/8"", 3/32""",acs,Black/Nickel,"15T, 1/8"", 3/32"" "
+{620F37AB-938F-4153-AC37-EE6DC1AB1086},SRA516944994,710845826870,,,Bike - Parts - Chains,Chain Part SRAM PowerLock 12s Road Connector Silver 4 Pack,Sram,Silver,
+{05DEB652-23B6-4DF3-A272-EEA5EE7A236B},404600,710845504730,47.2708.114.005,,Bike - Parts - Chains,Chain Sram pc850 114li w pwr.lnk 8spd 1pc,Sram,,
+{43FD296F-EB38-49A7-9C89-EEC82571C856},5254490,710845820403,11.6118.060.001,,Bike - Parts - Hubs & Skewers,Bb Part sram axle bolt dub self extracting m1830 bk,Sram,,
+{2E9565A3-F7B4-41E3-BD10-EF11CC1D12AE},KSE54945142D,,2020 ETENI 30.9 125,ST5376,Bike - Parts,Ks Eteni dropper seatpost - 30.9mm 125mm black remote not included,ks,,
+{5166172E-30CD-494F-9B07-EF2EB3BE6304},433293,689228744677,ISMRT86S2,,Bike - Parts - Brakes,Shim Rotorxt160mmice6-bolt sm-rt86xt160mm6-bolt,Shimano,,
+{B01FDDCA-2DE7-48D0-94B8-EF31FDB42D7E},SHI47695772M,689228434929,ESL3S41EALS,,Bike - Parts - Shifters,Shimano - sl-3s41e nexus revoshift lever - black - 3sp,shimano,Black,3 SP
+{B4A3BB19-D12C-4B20-B927-F048EC2617AB},12A28172133K,710845674501,00.1915.126.010,,Bike - Parts - Grips and Tape - Tape,12a Bar tape service course black,zipp speed weaponry,,
+{08C94D8F-FA0C-4002-BB67-F0555E2819C2},596758,192790447377,IM8120JRRXNA170,,Bike - Parts - Brakes - BrakeSet,Shim Disc brkxtrrpost blbr-m8120pre-bledi-spec ev series color,Shimano,Series Color,
+{3A9C9747-779A-4398-B80B-F0872DB21EA6},260301,601479018987,260301,260301,Bike - Parts - Seatposts,Seatpost Part bontrager clamp 36.4mm qr m6 bk carbonfriendly,Bontrager,,
+{D96C2F84-6972-44E5-8B75-F1C910F7A34F},5252393,812719025942,FATPAWGRIP-GRY,,Bike - Parts - Grips and Tape - Grips,Wolf Tooth fat paw grips - gray,Wolf Tooth Components,,
+{7D380E7E-587D-4ED8-AA27-F25B7BF3F396},REN41444348D,5026190156841,M177-01-AG,HB5294,Bike - Parts,Renthal Fatbar v2 handlebar 31.8mm 30x800mm gold,renthal,,
+{945FC0A3-B031-4CC5-929D-F2673BDC0504},W527257,601479567065,W527257,W527257,Bike - Parts - Tubeless Accessories,Rim Tape bontrager tubeless atb 50mm valve,Bontrager,,
+{3FD5C6F6-91CF-49ED-A4B6-F2B6A27ADD9E},DIM41734841K,708752238497,SP-2019,ST6134,Bike - Parts - Seatposts,Dimension - two-bold seatpost - matte black - 30.9 x 350,dimension,,
+{8CA667FE-666D-4087-B853-F2DDB838DF48},TIR3735191E,072774594443,,59444,Bike - Parts - Tires,Sunlite - alphabite wire tires - 24 x 1.95,sunlite,Black,24 X 1.95
+{3124092D-2AC6-4167-BED3-F2E16897B1D8},599909,601842322260,599909,599909,"Bike - Parts - Screws, Bolts and Fasteners",Suspension Part trek rail 29 2020 main pivot hardware kit,Trek,,
+{C27F45ED-18AE-4B8B-9234-F304E8DCAFEA},433207,710845713729,11.6218.004.001,,Bike - Parts - Cranks & Chainrings,"Sram - xx1 chainring - 1x9-11sp, 30t",Sram,,30T
+{3CDC5D7C-8657-4C66-80A8-F35DCDF22A88},PRO29905705K,723660981044,BEBO1,HB1438,Bike - Parts - Handlebars,Profile Design - boxer bar ends - black,profile design,Black,
+{CA24030E-2387-4B92-B69E-F388018913B2},QUA80662032R,708752207257,,WE1223,Bike - Parts - Wheels - Rear,Quality Wheels value double wall series rear wheel - 26 10 x 1 x 135mm rim brake hg 10 black clincher,quality wheels,,
+{CDF19B46-A9F5-407B-87BE-F38956824CF9},FOX36449929H,611056190821,213-01-263,,Bike - Parts - Forks - Suspension,Fox Rear shock eyelet flanged bushing each,fox,,
+{5F65729A-46EE-4A51-BCB6-F4810CB014FC},FOR24749475R,611056143865,803-00-944,,Bike - Parts - Suspension,Fork Part Fox Dust Wiper Kit Flangeless 32mm Black,Fox,Black,
+{E2A67FAE-E0AD-46C9-8AE2-F58D387F9D28},GA325518394W,4260477068750,42411388,,Bike - Parts - Grips and Tape - Grips,Ergon - ga3 lock-on grips - yellow mellow - large,ergon,Yellow MellowL,
+{8BD5364B-4788-4081-B237-F58DAFC0070E},5287165,710845872686,00.6718.025.000,,Bike - Parts,Time - atac 13/17 degree cleats,Time Sports,,13/17
+{424AA42D-330F-4918-9ABD-F5E318635E5D},AXL29937456M,611056161739,820-09-012-KIT,,Bike - Parts - Forks - Suspension,Fox Factory - 2015 36mm fork 20mm axle converstion kit,fox factory,,"36MM, 20MM"
+{CBB412AA-950B-43D8-9BE9-F5F3B673953F},BEA311114134,072774019151,BR611CPZ,1915,Bike - Parts - Bearings,Bearing Loose balls sunlt 14 bgof144,sunlite,,
+{45FBEB1F-1471-4941-84B5-F611986E8534},599911,601842322277,599911,599911,Bike - Parts - Suspension,Suspension Part trek abp universal hardware kit 2020 black,Trek,,
+{14B44BF1-32E4-4FCA-AD8B-F68594840D42},5254527,710845752414,11.4018.028.009,,Bike - Parts - Suspension,Rockshox - dust seal foam ring set - flangeless 32mm x 41mm - fits blutors-1sid b1 2017 and 32 mm boost forks,Rockshox,Flangeless,32MMX41MM
+{23F04D40-AE04-46E7-9A7A-F6B814DA9296},ORA64317036Z,810026608100,60810,LU0325,Bike - Parts - Tubeless Accessories,Orange Seal endurance tubeless tire sealant with twist lock applicator - 8oz,orange seal,,
+{548F886B-AC4C-4637-B23F-F6ECC65C0B50},GIA36730416K,002720,14,,Bike - Parts - Frame parts,Giant Hangers '14 trance / lust hangers black,,BLACK,
+{BF8A85A5-07AB-4CC2-B496-F7048F18199D},ROC99670574S,710845848346,00.4318.045.001,,Bike - Parts - Forks - Suspension,Rockshox Dust wiper kit - 30mm flangeless low friction dust wipers and 10mm foam rings - judy silverjudy gold boost forks,rockshox,,
+{2CDD1B4E-4FDE-4EE1-B51B-F81D4055CB64},84074,689228072978,Y42U98010,,Bike - Parts - Pedals,Shimano - spd sl cleat set - self-aligning mode (sm-sh11),Shimano,,
+{3593D39F-43F7-4B6A-91E4-F841AF34E758},W439598,601479400591,W439598,W439598,Bike - Parts - Rims,"Bontrager TLR Rim Strip 29"" x 30mm",Bontrager,,
+{610CCB54-A85B-4D1F-AC73-F87B33B9DD62},5289845,710845775420,00.2518.006.010,,Bike - Parts - Chains,Cn Pc1130 120li w pwr.lck 11s 1pcs,Sram,,
+{00309611-05F7-4063-9E17-F8F76C471DF4},1042547,847746052661,TP0003,,Bike - Parts - Tubeless Accessories,Stan's Notubes dart tool - refill pack of 5,Stan'S Notubes,,
+{65869685-D680-473C-B265-F94932FAAF2D},CHA60973500E,8855627005707,00570,TR0694,Bike - Parts - Tires,Challenge - getaway pro tubeless folding tire - black/tan - 700 x 40,challenge,Black/Tan,700 X 40
+{ECF936DC-3ADE-4D73-8A2E-F96837E0BD57},500544,689228072930,Y8GK98100,,Bike - Parts - Brakes,Br-ct91 Brake shoe set 10 pairs product of malaysia for,Shimano,,
+{65701E79-C48F-48B8-9E77-F9ADE7C6A403},DIS38802972M,192790452746,,ISMBH90SBMLL200A,Bike - Parts - Brakes - Levers,Disc Brake hose sm-bh90-sbm black banjo 2000mm,shimano,,
+{B668D7FF-A219-44F8-9D31-F9E77FD1FB06},W513945,601479295579,W513945,W513945,Bike - Parts - Tubeless Accessories,Rim Tape bontrager tubeless rim valve road tlr 90,Bontrager,,
+{2CCD242B-662C-44DE-B9E1-FA5F89CE8415},566765,601479861958,566765,566765,Bike - Parts - Tubeless Accessories,Rim Tape bontrager tubeless 70mm valve black,Bontrager,,
+{BBB70412-57C4-4EAC-9A08-FAA024E809B3},543011,710845788482,00.2518.024.020,,Bike - Parts - Chains,Cn Pcxx1 eagle gld 126l pwr.lck 12s 1pcs,Sram,,
+{F0643C61-4D24-4913-BE14-FAD505788E5F},582047,847746009887,AS0090,,Bike - Parts - Stems,Schrader Valve hole reducers,Stan'S Notubes,,
+{A4E1D5B5-B751-43F8-8F81-FB10DF7157A4},430698,601479164950,430698,430698,Bike - Parts - Tubes,Tube Bontrager standard 26x2.00-2.40 sv48,Bontrager,,
+{0EC88C93-F9EC-4983-8551-FB3FB8ADBB8F},RIM35370561K,601479223091,W406892,W406892,Bike - Parts - Tubeless Accessories,"Rim Strip Bontrager TLR 29"" MTB 22.5mm Black",Bontrager,,
+{C0B5AC4B-0CAE-4CB1-AC6F-FB52B9D880A1},5292447,192790448282,EPDRS500,,Bike - Parts - Pedals,Shimano - spd-sl pedals w/ cleats - pd-rs500,Shimano,,
+{ED7B4522-B72E-4344-BA14-FBA6C7415F61},SHI78535012K,192790622231,ISLM4100RAP,LD3406,Bike - Parts - Shifters,Shimano - deore sl-m4100-r right shift lever - 10sp rapidfire+optical gear display - black,shimano,,
+{073EFEB9-0421-4367-852F-FBBD125F78B8},KOO47136264S,760251076253,KS-DR2CF,,Bike - Parts - Brakes - Pads,Kool Stop - dura 2 brake pads - carbon fibre,kool stop,Black Pads,
+{D1873C10-A814-441F-B00E-FBE50D7F448F},FTL2210003K,714636023875,,J069506156,Bike - Parts - Cables & Housing,Ft Lower cable 340mm black,full tilt,Black,340
+{ADA78CD5-DF17-4B6B-8B1A-FC3CB955304E},MEG31811180M,400310064653,200-1869,,Bike - Parts - Bottom Brackets,Megaexo Road standard bb bb-6200 68mm,full speed ahead,,
+{2554794B-D500-4C74-A212-FC3E4F6B5185},HTC53166478K,4711126208428,102001M2XXXX1J01G1X1,PD1430,Bike - Parts,"Ht Components m2 pedals - dual sided clipless aluminum 9/16"" black",ht components,,
+{BAC3967D-0367-4424-81A1-FC7E3DF11B9B},432897,689228033894,Y8FA98130,,Bike - Parts - Brakes - Pads,Shimano - r55c plus 1mm road brake pads,Shimano,Black,
+{54BD9DD2-75F2-42BC-84A0-FC93B4F1793F},RAC35450618E,821973010052,D30019,CR8254,Bike - Parts - Cranks & Chainrings,Raceface M15 bolt for 2008 evolve and ride,raceface,,
+{FDF246CB-F0F6-4CF2-978E-FCC379B13131},527082,689228926172,EBBRS500B,,Bike - Parts - Bottom Brackets,Shimano - hollowtech ii english bottom bracket - bb-rs500 - 68mm,Shimano,Silver,68MM
+{9DF412A6-F6B4-444B-9FF9-FDAB0B3F7106},VAL42960270K,601842121306,578872,W578872,Bike - Parts - Tubeless Accessories,Valve Bontrager  Aeolus Pro 3V Tubeless 55mm Black,Bontrager,,
+{9C74322D-12C6-425E-A03F-FDD89033151F},MCL318535534,710845655814,11.5015.064.020,,Bike - Parts - Brakes - Levers,Avid - lever internals/svc kit - elixir cr/r/5,avid,,ELIXIR CR/R/5
+{B3E9E736-4E12-4FB1-8372-FDE7AC9F8CDC},KHS377177410,010551,KH85-086-115,KH85-086-115-1.5x1700,Bike - Parts - Cables & Housing,Khs - road brake wire - 1.5 x 1700,khs,ROAD,1.5X1700
+{C4EC16D5-2A7F-4F11-A187-FE16D8D7EAD1},403698,601479046973,403698,403698,Bike - Parts - Tubes,Tube Bontrager standard 18x1.75-2.125 schrader valve,Bontrager,,
+{8D36D57B-DCFD-4DDC-93CF-FE8737CE92AE},WHL52137984K,888571017326,,640166,Bike - Parts - Wheels - Front,"Wheel Master - alloy mountain disc double wall front wheel - 27.5, 21mm",wheel master,,"27.5, 21MM"
+{67A5CEBC-A1A4-4544-89FE-FEA0DE21376A},MIC61612858G,4710495438313,CS-H093A 11-42,FW0461,Bike - Parts - Cassettes & Freewheels,Microshift Advent cassette - 9 speed 11-42t black ed coated alloy large cog,microshift,,
+{33384A98-9BDE-43FC-9538-FED0CA7C0104},88562,763477004598,IB-2,,Bike - Parts - Tools,Park Tool - i-beam mini folding multi-tool - 10 piece,Park Tool,,10 PIECE
+{A421D4E0-0014-44AC-B5B2-FF3AFECB179A},SRA21212070D,,,,Bike - Parts - Suspension,Sram Air piston sealhead,sram,,
+{A03319B8-C0F8-45D7-9A76-FF5E40284CD3},574514,821973329857,RNW104X30BLK,,Bike - Parts - Cranks & Chainrings,"Race Face - narrow wide chainring - black - 30t, 104mm",Raceface,Black,"30T, 104MM"
+{D6009713-79DE-4DC3-949A-FF63E66EF616},DIS27572962T,4717784038230,TB00237000,,Bike - Parts - Tires,"Maxxis - dissector tubeless folding tire - 60tpi, 3cmaxxterra, exo - 29 x 2.6",maxxis,,29 X 2.6
+{5A1DBC22-CA43-41DA-BDE5-FF6F500193DE},SHI47283771R,689228979628,ERDM370SGSS,,Bike - Parts - Derailleurs,Shimano - altus rd-m370-sgs long cage rear rerailleur - 9 sp,shimano,Silver,
+{7E059EB2-4478-4287-A55C-FFD51B157BE2},555939,601479722693,555939,555939,Bike - Parts - Wheels - Front,Wheel Front bontrager duster elite tlr 29in 110mm black,Bontrager,,
+{D3AC6DB9-4B6C-4043-B638-FFE2F729B555},5271951,601842735183,91-0000000021C,5271951,Bike - Parts - Bottom Brackets,Bb Trek-diamant prowheel 68mm/140mm hollow tech 2 black,Trek-Diamant,,
