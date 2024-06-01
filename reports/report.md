@@ -42,12 +42,24 @@ The dataset comprises various attributes of products and sales, including `Produ
 
 1. **MSRP Distribution:**
    ![MSRP Distribution](figures/msrp_distribution.png)
+
+
 2. **Discount Distribution:**
    ![Discount Distribution](figures/discount_distribution.png)
+
+
 3. **Sales Over Time:**
-   ![Sales Over Time](figures/sales_over_time.png)
-4. **Category vs. MSRP:**
-   ![Category vs MSRP](figures/category_vs_msrp.png)
+   ![Sales Over Time](figures/monthly-sales-trend.png)
+
+
+
+4. **Total Sales by Vendor:**
+   ![Sales Over Time](figures/total-sales-vendor.png)
+
+
+
+5. **Profit By Category**
+   ![Category vs MSRP](figures/profit-by-category.png)
 
 ## Modeling
 
@@ -98,35 +110,7 @@ The analysis provides valuable insights into the pricing, discount strategies, a
 
 ## Appendix
 
-### Detailed Code Snippets
-
-```python
-# Sample code for model training
-from sklearn.linear_model import LinearRegression
-from sklearn.ensemble import RandomForestRegressor
-from sklearn.metrics import mean_squared_error, r2_score
-
-# Linear Regression
-lr = LinearRegression()
-lr.fit(X_train, y_train)
-y_pred_lr = lr.predict(X_test)
-rmse_lr = mean_squared_error(y_test, y_pred_lr, squared=False)
-r2_lr = r2_score(y_test, y_pred_lr)
-
-# Random Forest Regressor
-rf = RandomForestRegressor(n_estimators=100, random_state=42)
-rf.fit(X_train, y_train)
-y_pred_rf = rf.predict(X_test)
-rmse_rf = mean_squared_error(y_test, y_pred_rf, squared=False)
-r2_rf = r2_score(y_test, y_pred_rf)
-```
 
 ### Additional Figures and Tables
 
-Include relevant visualizations and tables from the analysis.
 
----
-
-This combined summary provides a comprehensive overview of the project's various stages, findings, and recommendations. If any additional details or specific visualizations are required, please let me know so I can include them.
-
-Would you like me to convert this updated report into a PDF as well?
