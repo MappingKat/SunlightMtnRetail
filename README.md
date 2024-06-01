@@ -1,6 +1,6 @@
 # Sunlight Ski and Bike Product Data Analysis: Optimizing Inventory and Sales
 
-![cover_photo](./references/logo.png)
+![cover_photo](./figures/logo.png)
 
 ## Project Overview
 
@@ -20,11 +20,11 @@ Inaccurate and incomplete product categories hinder reporting, leading to:
 
 Categories have been adjusted from these parent categories:
 
-[show parent category distribution]
+![parent category before clean up](./figures/pc_before)
 
 To these parent categories:
 
-[show parent category distribution]
+![parent category after clean up](./figures/pc_after)
 
 
 2. **Identify top-selling products and patterns:** Uncover popular items, brands, sizes, and pricing dynamics to inform purchasing and promotion strategies.
@@ -40,7 +40,7 @@ To these parent categories:
 
 * **Datasets:** Most of the product data 
 
-[raw data]
+![craw data](./figures/data-schema)
 
 ## Methodology
 
@@ -65,3 +65,5 @@ To these parent categories:
 
 
 This project demonstrates the power of data analysis in optimizing business operations. By cleaning, analyzing, and interpreting Sunlight Ski and Bike's product data, we aim to provide actionable insights that will lead to increased efficiency, stronger sales, and a more personalized customer experience.
+
+Please view further report [here](/reports/report.md).
