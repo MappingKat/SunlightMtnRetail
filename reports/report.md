@@ -108,9 +108,4 @@ Used GridSearchCV to optimize hyperparameters for the Random Forest model.
 
 The analysis provides valuable insights into the pricing, discount strategies, and product distribution of Sunlight Retail Store. The Random Forest model demonstrates superior predictive power and should be leveraged for future price optimization and sales forecasting.
 
-## Appendix
-
-
-### Additional Figures and Tables
-
 
